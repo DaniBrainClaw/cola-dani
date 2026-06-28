@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T21:57:21.423855+00:00",
-  "generated_at_local": "2026-06-28T23:57:21.423880+02:00",
+  "generated_at": "2026-06-28T21:57:47.760158+00:00",
+  "generated_at_local": "2026-06-28T23:57:47.760274+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 10,
@@ -107,8 +107,8 @@
       "closed_at": null,
       "crm_url": "https://app.hubspot.com/contacts/8402338/record/0-1/104459779199",
       "contact_url": "https://app.hubspot.com/contacts/8402338/record/0-1/104459779199",
-      "contact_name": "Melero Arquitectos",
-      "contact_phone": "+34 983 100 200",
+      "contact_name": "Ángel Melero (arquitecto)",
+      "contact_phone": "620905509",
       "contact_email": "estudio@meleroarquitectos.es",
       "contact_id": "104459779199",
       "last_interaction": {
