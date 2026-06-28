@@ -21,50 +21,55 @@
         </div>
     </header>
 
-    <main class="grid">
-        <!-- Stats -->
-        <section class="card stats">
-            <h2>Estado</h2>
-            <div class="metrics">
-                <div class="metric metric-queued">
-                    <div class="metric-value" id="m-queued">—</div>
-                    <div class="metric-label">En cola</div>
-                </div>
-                <div class="metric metric-serving">
-                    <div class="metric-value" id="m-serving">—</div>
-                    <div class="metric-label">Sirviendo</div>
-                </div>
-                <div class="metric metric-done">
-                    <div class="metric-value" id="m-done">—</div>
-                    <div class="metric-label">Hechas</div>
-                </div>
-                <div class="metric metric-failed">
-                    <div class="metric-value" id="m-failed">—</div>
-                    <div class="metric-label">Fallidas</div>
-                </div>
+    <main class="container">
+        <!-- ════════ SIRVIENDO AHORA: LO GRANDE ════════ -->
+        <section class="serving-hero" id="serving-hero">
+            <div class="serving-hero-header">
+                <span class="serving-pill">🟦 SIRVIENDO AHORA</span>
+                <span class="serving-task-type" id="serving-task-type">—</span>
+            </div>
+            <h2 class="serving-title" id="serving-title">—</h2>
+            <p class="serving-desc" id="serving-desc">—</p>
+
+            <div class="serving-meta" id="serving-meta">
+                <!-- generado por JS -->
+            </div>
+
+            <div class="serving-actions" id="serving-actions">
+                <!-- botones generados por JS -->
+            </div>
+
+            <div class="serving-criteria" id="serving-criteria">
+                <!-- requisitos de evidencia -->
             </div>
         </section>
 
-        <!-- Sirviendo ahora -->
-        <section class="card serving-card" id="serving-card">
-            <h2>🟦 Sirviendo ahora</h2>
-            <div id="serving-body" class="serving-body">
-                <div class="empty">No hay tarea sirviendo.</div>
-            </div>
+        <!-- ════════ STATS ════════ -->
+        <section class="stats">
+            <div class="metric"><div class="metric-value" id="m-queued">—</div><div class="metric-label">En cola</div></div>
+            <div class="metric"><div class="metric-value" id="m-serving">—</div><div class="metric-label">Sirviendo</div></div>
+            <div class="metric"><div class="metric-value" id="m-done">—</div><div class="metric-label">Hechas</div></div>
+            <div class="metric"><div class="metric-value" id="m-failed">—</div><div class="metric-label">Fallidas</div></div>
         </section>
 
-        <!-- Cola -->
-        <section class="card queue-card">
-            <h2>📋 Cola <span class="count-badge" id="queue-count">0</span></h2>
-            <div id="queue-list" class="task-list">
+        <!-- ════════ COLA: COLAPSABLE ════════ -->
+        <section class="queue-section">
+            <button class="queue-toggle" id="queue-toggle">
+                <span>📋 Cola <span class="count-badge" id="queue-count">0</span></span>
+                <span class="toggle-icon" id="toggle-icon">▼</span>
+            </button>
+            <div class="queue-collapsed" id="queue-collapsed">
                 <div class="empty">Cargando…</div>
             </div>
         </section>
 
-        <!-- Done recientes -->
-        <section class="card done-card">
-            <h2>✅ Cerradas recientemente</h2>
-            <div id="done-list" class="task-list">
+        <!-- ════════ HECHAS RECIENTES: COLAPSABLE ════════ -->
+        <section class="queue-section">
+            <button class="queue-toggle" id="done-toggle">
+                <span>✅ Cerradas recientemente <span class="count-badge" id="done-count">0</span></span>
+                <span class="toggle-icon" id="done-toggle-icon">▶</span>
+            </button>
+            <div class="queue-collapsed hidden" id="done-collapsed">
                 <div class="empty">Sin cierres aún.</div>
             </div>
         </section>
