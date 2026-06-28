@@ -1,5 +1,5 @@
-// Cola Dani — Núcleo OS — Visor estático v2
-// Sirviendo GRAnde, resto colapsable, links CRM.
+// Cola Dani — Núcleo OS — Visor v3: HOY
+// Estructura: Eventos del día → Tareas CRM hoy → Tarea actual (GRANDE) → Próximas (colapsable)
 
 const DATA_URL = "data.json";
 const REFRESH_MS = 30000;
@@ -21,17 +21,71 @@ function fmtDate(iso) {
     });
 }
 
-function fmtDateShort(iso) {
-    if (!iso) return "—";
-    return iso.substring(0, 10); // YYYY-MM-DD
+function fmtToday() {
+    const d = new Date();
+    return d.toLocaleDateString("es-ES", {
+        weekday: "long", day: "2-digit", month: "long", year: "numeric"
+    });
 }
 
-// ─── Render del SIRVIENDO (GRANDE) ───
+// ─── EVENTOS DEL DÍA ───
+function renderEvents(events) {
+    const body = $("events-body");
+    $("events-count").textContent = events.length;
+    if (events.length === 0) {
+        body.innerHTML = '<div class="empty">Sin eventos en el calendario hoy.</div>';
+        return;
+    }
+    body.innerHTML = events.map(ev => `
+        <div class="event-item">
+            <div class="event-time">${escapeHtml(ev.start || "??").substring(0, 5)}</div>
+            <div class="event-body">
+                <div class="event-title">${escapeHtml(ev.title)}</div>
+                ${ev.location ? `<div class="event-loc">📍 ${escapeHtml(ev.location)}</div>` : ""}
+            </div>
+            ${ev.url ? `<a href="${escapeHtml(ev.url)}" target="_blank" class="event-link">📅</a>` : ""}
+        </div>
+    `).join("");
+}
+
+// ─── TAREAS CRM DEL DÍA ───
+function renderCrmToday(tasks) {
+    const body = $("crm-body");
+    $("crm-count").textContent = tasks.length;
+    if (tasks.length === 0) {
+        body.innerHTML = '<div class="empty">Sin tareas en HubSpot para hoy.</div>';
+        return;
+    }
+    body.innerHTML = tasks.map(t => {
+        const statusClass = `status-${t.status || 'NOT_STARTED'}`;
+        const statusLabel = (t.status || 'NOT_STARTED').replace(/_/g, ' ').toLowerCase();
+        return `
+            <div class="crm-item">
+                <div class="crm-body">
+                    <div class="crm-title">${escapeHtml(t.title)}</div>
+                    <div class="crm-meta">
+                        ${t.type ? `📋 ${escapeHtml(t.type)}` : ""}
+                        ${t.due ? ` · 📅 ${escapeHtml(t.due)}` : ""}
+                    </div>
+                </div>
+                <span class="crm-status ${statusClass}">${escapeHtml(statusLabel)}</span>
+                ${t.url ? `<a href="${escapeHtml(t.url)}" target="_blank" class="crm-link">HubSpot →</a>` : ""}
+            </div>
+        `;
+    }).join("");
+}
+
+// ─── TAREA ACTUAL (HERO) ───
 function renderServing(t) {
     const hero = $("serving-hero");
     if (!t) {
         hero.classList.add("empty");
-        hero.innerHTML = "<p style='font-size: 14px;'>Nada sirviendo ahora. La cola está procesada.</p>";
+        hero.innerHTML = `
+            <div class="serving-hero-header">
+                <span class="serving-pill" style="background:#444;color:#aaa;">✓ COLA VACÍA</span>
+            </div>
+            <p style="font-size: 14px; margin-top: 10px;">No hay nada pendiente. ¡A descansar!</p>
+        `;
         return;
     }
     hero.classList.remove("empty");
@@ -42,50 +96,29 @@ function renderServing(t) {
 
     // Meta chips
     const metaHtml = [];
-    metaHtml.push(`<div class="meta-chip"><span class="meta-chip-label">creado</span> <span class="meta-chip-value">${fmtDate(t.created_at)}</span></div>`);
-    if (t.due_date) {
-        metaHtml.push(`<div class="meta-chip"><span class="meta-chip-label">vence</span> <span class="meta-chip-value">${t.due_date}</span></div>`);
-    }
-    if (t.hard_deadline) {
-        metaHtml.push(`<div class="meta-chip hard"><span class="meta-chip-label">vencimiento</span> <span class="meta-chip-value">⏰ HOY</span></div>`);
-    }
-    if (t.manual_priority) {
-        metaHtml.push(`<div class="meta-chip priority"><span class="meta-chip-label">prioridad</span> <span class="meta-chip-value">P${t.manual_priority}</span></div>`);
-    }
-    if (t.contact_name) {
-        metaHtml.push(`<div class="meta-chip"><span class="meta-chip-label">contacto</span> <span class="meta-chip-value">${escapeHtml(t.contact_name)}</span></div>`);
-    }
-    if (t.contact_phone) {
-        metaHtml.push(`<div class="meta-chip"><span class="meta-chip-label">📞</span> <span class="meta-chip-value">${escapeHtml(t.contact_phone)}</span></div>`);
-    }
-    if (t.contact_email) {
-        metaHtml.push(`<div class="meta-chip"><span class="meta-chip-label">✉️</span> <span class="meta-chip-value">${escapeHtml(t.contact_email)}</span></div>`);
-    }
+    if (t.due_date) metaHtml.push(`<div class="meta-chip"><span class="meta-chip-label">vence</span> <span class="meta-chip-value">${t.due_date}</span></div>`);
+    if (t.hard_deadline) metaHtml.push(`<div class="meta-chip hard"><span class="meta-chip-label">vencimiento</span> <span class="meta-chip-value">⏰ HOY</span></div>`);
+    if (t.manual_priority) metaHtml.push(`<div class="meta-chip priority"><span class="meta-chip-label">prioridad</span> <span class="meta-chip-value">P${t.manual_priority}</span></div>`);
+    if (t.contact_name) metaHtml.push(`<div class="meta-chip"><span class="meta-chip-label">contacto</span> <span class="meta-chip-value">${escapeHtml(t.contact_name)}</span></div>`);
+    if (t.contact_phone) metaHtml.push(`<div class="meta-chip"><span class="meta-chip-label">📞</span> <span class="meta-chip-value">${escapeHtml(t.contact_phone)}</span></div>`);
+    if (t.contact_email) metaHtml.push(`<div class="meta-chip"><span class="meta-chip-label">✉️</span> <span class="meta-chip-value">${escapeHtml(t.contact_email)}</span></div>`);
     $("serving-meta").innerHTML = metaHtml.join("");
 
-    // Action buttons (links CRM + contacto)
+    // Action buttons
     const actions = [];
-    if (t.crm_url) {
-        actions.push(`<a href="${escapeHtml(t.crm_url)}" target="_blank" class="action-btn crm">🎯 Abrir tarea en HubSpot</a>`);
-    }
-    if (t.contact_url) {
-        actions.push(`<a href="${escapeHtml(t.contact_url)}" target="_blank" class="action-btn contact">👤 Ver contacto en HubSpot</a>`);
-    }
-    if (t.contact_phone) {
-        actions.push(`<a href="tel:${escapeHtml(t.contact_phone)}" class="action-btn">📞 Llamar</a>`);
-    }
-    if (t.contact_email) {
-        actions.push(`<a href="mailto:${escapeHtml(t.contact_email)}" class="action-btn">✉️ Email</a>`);
-    }
+    if (t.crm_url) actions.push(`<a href="${escapeHtml(t.crm_url)}" target="_blank" class="action-btn crm">🎯 Abrir en HubSpot</a>`);
+    if (t.contact_url) actions.push(`<a href="${escapeHtml(t.contact_url)}" target="_blank" class="action-btn contact">👤 Contacto</a>`);
+    if (t.contact_phone) actions.push(`<a href="tel:${escapeHtml(t.contact_phone)}" class="action-btn">📞</a>`);
+    if (t.contact_email) actions.push(`<a href="mailto:${escapeHtml(t.contact_email)}" class="action-btn">✉️</a>`);
     $("serving-actions").innerHTML = actions.join("");
 
-    // Criteria (requisitos de evidencia)
+    // Criteria
     if (t.criteria && Object.keys(t.criteria).length > 0) {
         const criteriaHtml = Object.entries(t.criteria)
             .map(([k, v]) => `<code>${escapeHtml(k)}: ${escapeHtml(String(v))}</code>`)
             .join(" ");
         $("serving-criteria").innerHTML = `
-            <div class="serving-criteria-label">Para cerrar, aportar evidencia de:</div>
+            <div class="serving-criteria-label">Para cerrar, aportar:</div>
             ${criteriaHtml}
         `;
         $("serving-criteria").style.display = "block";
@@ -94,14 +127,13 @@ function renderServing(t) {
     }
 }
 
-// ─── Render de cola (colapsable) ───
+// ─── COLA (próximas) ───
 function renderQueueItem(t) {
     const cls = [
         "queue-task",
         t.hard_deadline ? "hard" : "",
         t.manual_priority ? "priority" : "",
     ].filter(Boolean).join(" ");
-
     const badges = [];
     if (t.hard_deadline) badges.push(`<span class="badge badge-hard">⏰</span>`);
     if (t.manual_priority) badges.push(`<span class="badge badge-priority">P${t.manual_priority}</span>`);
@@ -109,13 +141,11 @@ function renderQueueItem(t) {
 
     const actions = [];
     if (t.crm_url) actions.push(`<a href="${escapeHtml(t.crm_url)}" target="_blank" class="link-btn crm">🎯 HubSpot</a>`);
-    if (t.contact_url) actions.push(`<a href="${escapeHtml(t.contact_url)}" target="_blank" class="link-btn contact">👤 Contacto</a>`);
-    if (t.contact_phone) actions.push(`<a href="tel:${escapeHtml(t.contact_phone)}" class="link-btn">📞</a>`);
-    if (t.contact_email) actions.push(`<a href="mailto:${escapeHtml(t.contact_email)}" class="link-btn">✉️</a>`);
+    if (t.contact_url) actions.push(`<a href="${escapeHtml(t.contact_url)}" target="_blank" class="link-btn contact">👤</a>`);
 
     const meta = [];
-    if (t.due_date) meta.push(`<span>📅 ${t.due_date}</span>`);
-    if (t.contact_name) meta.push(`<span>👤 ${escapeHtml(t.contact_name)}</span>`);
+    if (t.due_date) meta.push(`📅 ${t.due_date}`);
+    if (t.contact_name) meta.push(`👤 ${escapeHtml(t.contact_name)}`);
 
     return `
         <div class="${cls}">
@@ -123,57 +153,48 @@ function renderQueueItem(t) {
                 <div class="queue-task-title">${escapeHtml(t.title)}</div>
                 <div class="queue-task-badges">${badges.join("")}</div>
             </div>
-            <div class="queue-task-meta">${meta.join("")}</div>
+            <div class="queue-task-meta">${meta.join(" · ")}</div>
             ${actions.length > 0 ? `<div class="queue-task-actions">${actions.join("")}</div>` : ""}
         </div>
     `;
 }
 
-// ─── Render global ───
+// ─── RENDER GLOBAL ───
 function render(snapshot) {
     if (!snapshot) {
         $("live-status").textContent = "error";
         return;
     }
 
-    const s = snapshot.stats || {};
-    $("m-queued").textContent = s.queued ?? 0;
-    $("m-serving").textContent = s.serving ?? 0;
-    $("m-done").textContent = s.done ?? 0;
-    $("m-failed").textContent = s.failed ?? 0;
+    $("subtitle").textContent = "HOY · " + fmtToday();
 
+    renderEvents(snapshot.events_today || []);
+    renderCrmToday(snapshot.crm_today || []);
     renderServing(snapshot.serving);
 
     // Cola
     const queue = snapshot.queue || [];
     $("queue-count").textContent = queue.length;
-    const queueList = $("queue-collapsed");
+    const queueBody = $("queue-body");
     if (queue.length === 0) {
-        queueList.innerHTML = '<div class="empty">Cola vacía.</div>';
+        queueBody.innerHTML = '<div class="empty">Cola vacía.</div>';
     } else {
-        queueList.innerHTML = queue.map(renderQueueItem).join("");
+        queueBody.innerHTML = queue.map(renderQueueItem).join("");
     }
 
-    // Done recientes
+    // Hechas
     const done = snapshot.recent_done || [];
     $("done-count").textContent = done.length;
-    const doneList = $("done-collapsed");
+    const doneBody = $("done-body");
     if (done.length === 0) {
-        doneList.innerHTML = '<div class="empty">Sin cierres aún.</div>';
+        doneBody.innerHTML = '<div class="empty">Sin cierres aún.</div>';
     } else {
-        doneList.innerHTML = done.map(t => {
-            const cls = "queue-task done";
-            return `
-                <div class="${cls}">
-                    <div class="queue-task-head">
-                        <div class="queue-task-title">✅ ${escapeHtml(t.title)}</div>
-                    </div>
-                    <div class="queue-task-meta">
-                        <span>cerrado ${fmtDate(t.closed_at)}</span>
-                    </div>
-                </div>
-            `;
-        }).join("");
+        doneBody.innerHTML = done.map(t => `
+            <div class="done-task">
+                <div class="done-task-title">✅ ${escapeHtml(t.title)}</div>
+                <div class="done-task-meta">cerrado ${fmtDate(t.closed_at)}</div>
+            </div>
+        `).join("");
     }
 
     const updated = snapshot.generated_at_local || snapshot.generated_at;
@@ -182,20 +203,19 @@ function render(snapshot) {
     $("live-status").textContent = "en vivo";
 }
 
-// ─── Toggles de colapso ───
-$("queue-toggle").addEventListener("click", () => {
-    const list = $("queue-collapsed");
-    const icon = $("toggle-icon");
-    const isHidden = list.classList.toggle("hidden");
-    icon.textContent = isHidden ? "▶" : "▼";
-});
-
-$("done-toggle").addEventListener("click", () => {
-    const list = $("done-collapsed");
-    const icon = $("done-toggle-icon");
-    const isHidden = list.classList.toggle("hidden");
-    icon.textContent = isHidden ? "▶" : "▼";
-});
+// ─── Toggles de secciones ───
+function setupToggle(toggleId, bodyId, iconId) {
+    $(toggleId).addEventListener("click", () => {
+        const list = $(bodyId);
+        const icon = $(iconId);
+        const hidden = list.classList.toggle("hidden");
+        icon.textContent = hidden ? "▶" : "▼";
+    });
+}
+setupToggle("events-toggle", "events-body", "events-icon");
+setupToggle("crm-toggle", "crm-body", "crm-icon");
+setupToggle("queue-toggle", "queue-body", "queue-icon");
+setupToggle("done-toggle", "done-body", "done-icon");
 
 // ─── Fetch + auto-refresh ───
 async function fetchSnapshot() {
@@ -205,12 +225,11 @@ async function fetchSnapshot() {
         const data = await res.json();
         render(data);
     } catch (err) {
-        console.error("Error cargando snapshot:", err);
+        console.error("Error:", err);
         $("live-status").textContent = "sin conexión";
     }
 }
 
 fetchSnapshot();
 setInterval(fetchSnapshot, REFRESH_MS);
-
 $("refresh-btn").addEventListener("click", fetchSnapshot);

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T21:13:21.935272+00:00",
-  "generated_at_local": "2026-06-28T23:13:21.935305+02:00",
+  "generated_at": "2026-06-28T21:16:18.215752+00:00",
+  "generated_at_local": "2026-06-28T23:16:18.215777+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 10,
@@ -31,6 +31,8 @@
     "contact_phone": null,
     "contact_email": null
   },
+  "events_today": [],
+  "crm_today": [],
   "queue": [
     {
       "id": "713720c5-12dc-4bab-9603-7bc2e0673c49",
@@ -301,5 +303,9 @@
     "crm_ok": null,
     "email_last_sync_ts": null,
     "crm_last_sync_ts": null
+  },
+  "errors": {
+    "calendar": null,
+    "hubspot": null
   }
 }

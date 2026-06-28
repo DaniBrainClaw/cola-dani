@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cola Dani — Núcleo OS</title>
+    <title>Cola Dani — HOY</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header class="header">
         <div class="brand">
             <h1>📋 Cola Dani</h1>
-            <span class="subtitle">Núcleo OS — Cola de tareas priorizada</span>
+            <span class="subtitle" id="subtitle">Núcleo OS</span>
         </div>
         <div class="header-meta">
             <div class="live-indicator">
@@ -22,57 +22,71 @@
     </header>
 
     <main class="container">
-        <!-- ════════ SIRVIENDO AHORA: LO GRANDE ════════ -->
+
+        <!-- ════════ EVENTOS DEL DÍA ════════ -->
+        <section class="section events-section" id="events-section">
+            <button class="section-toggle" id="events-toggle">
+                <span>📅 Eventos del día <span class="count-badge" id="events-count">0</span></span>
+                <span class="toggle-icon" id="events-icon">▶</span>
+            </button>
+            <div class="section-collapsed hidden" id="events-body">
+                <div class="empty">Cargando…</div>
+            </div>
+        </section>
+
+        <!-- ════════ TAREAS CRM DEL DÍA ════════ -->
+        <section class="section crm-section" id="crm-section">
+            <button class="section-toggle" id="crm-toggle">
+                <span>🎯 Tareas CRM del día <span class="count-badge" id="crm-count">0</span></span>
+                <span class="toggle-icon" id="crm-icon">▶</span>
+            </button>
+            <div class="section-collapsed hidden" id="crm-body">
+                <div class="empty">Cargando…</div>
+            </div>
+        </section>
+
+        <!-- ════════ TAREA ACTUAL (LO GRANDE) ════════ -->
         <section class="serving-hero" id="serving-hero">
             <div class="serving-hero-header">
-                <span class="serving-pill">🟦 SIRVIENDO AHORA</span>
+                <span class="serving-pill">🟦 TOCA HACER</span>
                 <span class="serving-task-type" id="serving-task-type">—</span>
             </div>
             <h2 class="serving-title" id="serving-title">—</h2>
             <p class="serving-desc" id="serving-desc">—</p>
 
-            <div class="serving-meta" id="serving-meta">
-                <!-- generado por JS -->
-            </div>
+            <div class="serving-meta" id="serving-meta"></div>
 
-            <div class="serving-actions" id="serving-actions">
-                <!-- botones generados por JS -->
-            </div>
+            <div class="serving-actions" id="serving-actions"></div>
 
-            <div class="serving-criteria" id="serving-criteria">
-                <!-- requisitos de evidencia -->
+            <div class="serving-criteria" id="serving-criteria"></div>
+
+            <div class="serving-tip">
+                💬 Cuando termines, dime <strong>"Hecho [nombre]"</strong> y paso a la siguiente
             </div>
         </section>
 
-        <!-- ════════ STATS ════════ -->
-        <section class="stats">
-            <div class="metric"><div class="metric-value" id="m-queued">—</div><div class="metric-label">En cola</div></div>
-            <div class="metric"><div class="metric-value" id="m-serving">—</div><div class="metric-label">Sirviendo</div></div>
-            <div class="metric"><div class="metric-value" id="m-done">—</div><div class="metric-label">Hechas</div></div>
-            <div class="metric"><div class="metric-value" id="m-failed">—</div><div class="metric-label">Fallidas</div></div>
-        </section>
-
-        <!-- ════════ COLA: COLAPSABLE ════════ -->
-        <section class="queue-section">
-            <button class="queue-toggle" id="queue-toggle">
-                <span>📋 Cola <span class="count-badge" id="queue-count">0</span></span>
-                <span class="toggle-icon" id="toggle-icon">▼</span>
+        <!-- ════════ COLA: PRÓXIMAS (colapsable) ════════ -->
+        <section class="section queue-section">
+            <button class="section-toggle" id="queue-toggle">
+                <span>📋 Próximas en cola <span class="count-badge" id="queue-count">0</span></span>
+                <span class="toggle-icon" id="queue-icon">▶</span>
             </button>
-            <div class="queue-collapsed" id="queue-collapsed">
-                <div class="empty">Cargando…</div>
+            <div class="section-collapsed hidden" id="queue-body">
+                <div class="empty">Cola vacía.</div>
             </div>
         </section>
 
-        <!-- ════════ HECHAS RECIENTES: COLAPSABLE ════════ -->
-        <section class="queue-section">
-            <button class="queue-toggle" id="done-toggle">
+        <!-- ════════ HECHAS HOY (colapsable) ════════ -->
+        <section class="section done-section">
+            <button class="section-toggle" id="done-toggle">
                 <span>✅ Cerradas recientemente <span class="count-badge" id="done-count">0</span></span>
-                <span class="toggle-icon" id="done-toggle-icon">▶</span>
+                <span class="toggle-icon" id="done-icon">▶</span>
             </button>
-            <div class="queue-collapsed hidden" id="done-collapsed">
+            <div class="section-collapsed hidden" id="done-body">
                 <div class="empty">Sin cierres aún.</div>
             </div>
         </section>
+
     </main>
 
     <footer class="footer">
