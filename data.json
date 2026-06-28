@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T21:58:44.444630+00:00",
-  "generated_at_local": "2026-06-28T23:58:44.444657+02:00",
+  "generated_at": "2026-06-28T22:01:08.902274+00:00",
+  "generated_at_local": "2026-06-29T00:01:08.902292+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 10,
@@ -31,7 +31,28 @@
     "contact_phone": null,
     "contact_email": null
   },
-  "events_today": [],
+  "events_today": [
+    {
+      "id": "596futav309l1hcrq64p8k4ppv",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "SUBVENCION TERRACOTTA",
+      "start": "09:45",
+      "start_iso": "2026-06-29T09:45:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=NTk2ZnV0YXYzMDlsMWhjcnE2NHA4azRwcHYgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+    },
+    {
+      "id": "h3t3cv2qt8ht4u1n84bm9n51vk",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "Fixxcal??",
+      "start": "17:00",
+      "start_iso": "2026-06-29T17:00:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=aDN0M2N2MnF0OGh0NHUxbjg0Ym05bjUxdmsgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+    }
+  ],
   "crm_today": [],
   "queue": [
     {
