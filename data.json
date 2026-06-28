@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T21:53:39.835378+00:00",
-  "generated_at_local": "2026-06-28T23:53:39.835402+02:00",
+  "generated_at": "2026-06-28T21:56:33.412867+00:00",
+  "generated_at_local": "2026-06-28T23:56:33.412891+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 10,
@@ -57,7 +57,8 @@
       "contact_url": "https://app.hubspot.com/contacts/243825509/contact/12345001",
       "contact_name": "José Luis Borge",
       "contact_phone": "+34 600 100 200",
-      "contact_email": "jlborge@example.com"
+      "contact_email": "jlborge@example.com",
+      "contact_id": "12345001"
     },
     {
       "id": "c5c738c6-4d9f-49b4-aead-fad9b072967c",
@@ -82,7 +83,8 @@
       "contact_url": "https://app.hubspot.com/contacts/243825509/contact/12345002",
       "contact_name": "Javier (admin Cirbe)",
       "contact_phone": "+34 600 200 300",
-      "contact_email": "admin@cirbe.es"
+      "contact_email": "admin@cirbe.es",
+      "contact_id": "12345002"
     },
     {
       "id": "c9a84640-78ea-4b0a-b097-95c4556bc183",
@@ -103,11 +105,18 @@
       "evidence": null,
       "evidence_confirmed_by": null,
       "closed_at": null,
-      "crm_url": "https://app.hubspot.com/contacts/243825509/engagement/77001",
-      "contact_url": "https://app.hubspot.com/contacts/243825509/contact/12345003",
+      "crm_url": "https://app.hubspot.com/contacts/8402338/record/0-1/104459779199",
+      "contact_url": "https://app.hubspot.com/contacts/8402338/record/0-1/104459779199",
       "contact_name": "Melero Arquitectos",
       "contact_phone": "+34 983 100 200",
-      "contact_email": "estudio@meleroarquitectos.es"
+      "contact_email": "estudio@meleroarquitectos.es",
+      "contact_id": "104459779199",
+      "last_interaction": {
+        "type": "TASK",
+        "ts": "2026-06-24T10:00:00Z",
+        "title": "Seguimiento con Melero arquitecto",
+        "preview": "En relación con el mensaje de WhatsApp registrado el jueves, 18 de junio de 2026 18:23"
+      }
     },
     {
       "id": "07fd5dd2-2ce7-4963-9081-aac10f274c16",
@@ -131,7 +140,8 @@
       "contact_url": "https://app.hubspot.com/contacts/243825509/contact/12345004",
       "contact_name": "Ignacio (Sabadell)",
       "contact_phone": "+34 983 400 500",
-      "contact_email": "ignacio.perez@sabadell.es"
+      "contact_email": "ignacio.perez@sabadell.es",
+      "contact_id": "12345004"
     },
     {
       "id": "2d23e143-1e41-4d67-a69d-3f8d98ad2641",
@@ -153,7 +163,8 @@
       "contact_url": "https://app.hubspot.com/contacts/243825509/contact/12345005",
       "contact_name": "Ascale Comercial",
       "contact_phone": null,
-      "contact_email": "comercial@ascale.es"
+      "contact_email": "comercial@ascale.es",
+      "contact_id": "12345005"
     },
     {
       "id": "f9e79051-97d9-45a2-9718-977cb873e44a",
@@ -178,7 +189,8 @@
       "contact_url": "https://app.hubspot.com/contacts/243825509/contact/12345006",
       "contact_name": "Terracotta (varios)",
       "contact_phone": null,
-      "contact_email": null
+      "contact_email": null,
+      "contact_id": "12345006"
     },
     {
       "id": "2519dbeb-1ea0-4af6-b6b5-dc090d8ff6f5",
@@ -200,7 +212,8 @@
       "contact_url": "https://app.hubspot.com/contacts/243825509/contact/12345007",
       "contact_name": "Dindon Living Madrid",
       "contact_phone": "+34 911 200 300",
-      "contact_email": "madrid@dindonliving.co"
+      "contact_email": "madrid@dindonliving.co",
+      "contact_id": "12345007"
     },
     {
       "id": "790f4e5c-c4fe-44ff-9759-6b755d402404",
@@ -222,7 +235,8 @@
       "contact_url": "https://app.hubspot.com/contacts/243825509/contact/12345008",
       "contact_name": "Comercial Adrihosan",
       "contact_phone": "+34 961 100 200",
-      "contact_email": "comercial@adrihosan.com"
+      "contact_email": "comercial@adrihosan.com",
+      "contact_id": "12345008"
     },
     {
       "id": "9d0cd222-0cb0-4131-9a32-b8900bd048d5",
@@ -244,7 +258,8 @@
       "contact_url": "https://app.hubspot.com/contacts/243825509/contact/12345009",
       "contact_name": "Verisure Atención Cliente",
       "contact_phone": "900 121 121",
-      "contact_email": null
+      "contact_email": null,
+      "contact_id": "12345009"
     },
     {
       "id": "36adcea9-a101-4708-a28a-981cb921d179",
