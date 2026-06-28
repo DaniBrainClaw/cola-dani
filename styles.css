@@ -284,6 +284,44 @@ body {
 .action-btn.contact { background: #4a9eff; color: #fff; border-color: #4a9eff; }
 .action-btn.contact:hover { background: #3a8eef; }
 
+/* ── Última interacción ── */
+.serving-last-int {
+    margin-top: 16px;
+    padding: 12px 14px;
+    background: rgba(74, 158, 255, 0.08);
+    border-left: 3px solid #4a9eff;
+    border-radius: 4px;
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+.last-int-header {
+    font-weight: 600;
+    color: #aaa;
+    margin-bottom: 6px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.last-int-when {
+    font-weight: 400;
+    color: #777;
+    font-size: 11px;
+    margin-left: auto;
+}
+
+.last-int-preview {
+    color: #c0c0d0;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    max-height: 140px;
+    overflow-y: auto;
+}
+
 .serving-criteria {
     background: #1a1a24;
     border-left: 3px solid #ffaa00;

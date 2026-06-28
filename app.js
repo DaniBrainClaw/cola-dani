@@ -112,6 +112,27 @@ function renderServing(t) {
     if (t.contact_email) actions.push(`<a href="mailto:${escapeHtml(t.contact_email)}" class="action-btn">✉️</a>`);
     $("serving-actions").innerHTML = actions.join("");
 
+    // Última interacción del contacto (preview del último WhatsApp/llamada/etc)
+    const lastInt = t.last_interaction;
+    if (lastInt && lastInt.preview) {
+        const typeEmoji = {
+            'WHATS_APP': '💬',
+            'CALL': '📞',
+            'EMAIL': '📧',
+            'MEETING': '📅',
+            'TASK': '✅',
+            'NOTE': '📝',
+        }[lastInt.type] || '🕐';
+        const when = lastInt.ts ? new Date(lastInt.ts).toLocaleDateString('es-ES', {day:'2-digit', month:'2-digit', year:'2-digit'}) : '';
+        $("serving-last-int").innerHTML = `
+            <div class="last-int-header">${typeEmoji} Última interacción <span class="last-int-when">${when}</span></div>
+            <div class="last-int-preview">${escapeHtml(lastInt.preview)}</div>
+        `;
+        $("serving-last-int").style.display = "block";
+    } else {
+        $("serving-last-int").style.display = "none";
+    }
+
     // Criteria
     if (t.criteria && Object.keys(t.criteria).length > 0) {
         const criteriaHtml = Object.entries(t.criteria)
