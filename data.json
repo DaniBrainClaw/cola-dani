@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-29T07:06:15.046831+00:00",
-  "generated_at_local": "2026-06-29T09:06:15.046867+02:00",
+  "generated_at": "2026-06-29T07:11:22.214446+00:00",
+  "generated_at_local": "2026-06-29T09:11:22.214467+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
-    "queued": 10,
+    "queued": 12,
     "serving": 1,
     "done": 1,
     "failed": 0,
@@ -56,6 +56,56 @@
   ],
   "crm_today": [],
   "queue": [
+    {
+      "id": "6dbf432e-ddec-4523-a7fc-f91ad004996e",
+      "title": "SUBVENCION TERRACOTTA",
+      "description": "Evento de calendario: https://www.google.com/calendar/event?eid=NTk2ZnV0YXYzMDlsMWhjcnE2NHA4azRwcHYgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ",
+      "source": "manual",
+      "source_ref": "gcal-596futav309l1hcrq64p8k4ppv",
+      "created_at": "2026-06-29T07:06:46Z",
+      "due_date": "2026-06-29",
+      "hard_deadline": true,
+      "task_type": "general",
+      "manual_priority": null,
+      "state": "queued",
+      "criteria": {
+        "calendar_event_done": true
+      },
+      "evidence": null,
+      "evidence_confirmed_by": null,
+      "closed_at": null,
+      "crm_url": null,
+      "contact_url": null,
+      "contact_name": null,
+      "contact_phone": null,
+      "contact_email": null,
+      "contact_id": null
+    },
+    {
+      "id": "d4436989-bbaf-4c85-8e03-ff05e03585dc",
+      "title": "Fixxcal??",
+      "description": "Evento de calendario: https://www.google.com/calendar/event?eid=aDN0M2N2MnF0OGh0NHUxbjg0Ym05bjUxdmsgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ",
+      "source": "manual",
+      "source_ref": "gcal-h3t3cv2qt8ht4u1n84bm9n51vk",
+      "created_at": "2026-06-29T07:06:46Z",
+      "due_date": "2026-06-29",
+      "hard_deadline": true,
+      "task_type": "general",
+      "manual_priority": null,
+      "state": "queued",
+      "criteria": {
+        "calendar_event_done": true
+      },
+      "evidence": null,
+      "evidence_confirmed_by": null,
+      "closed_at": null,
+      "crm_url": null,
+      "contact_url": null,
+      "contact_name": null,
+      "contact_phone": null,
+      "contact_email": null,
+      "contact_id": null
+    },
     {
       "id": "713720c5-12dc-4bab-9603-7bc2e0673c49",
       "title": "Llamar a José Luis Borge — confirmar planos piscina",
