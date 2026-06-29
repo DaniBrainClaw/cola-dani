@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T12:13:59.678840+00:00",
-  "generated_at_local": "2026-06-29T14:13:59.678943+02:00",
+  "generated_at": "2026-06-29T12:15:49.477469+00:00",
+  "generated_at_local": "2026-06-29T14:15:49.477490+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 10,
@@ -12,7 +12,7 @@
   "serving": {
     "id": "713720c5-12dc-4bab-9603-7bc2e0673c49",
     "title": "Llamar a José Luis Borge — confirmar planos piscina",
-    "description": "Cliente Terracotta, obra en Boecillo. Confirmar planos definitivos antes del jueves. José Luis es el promotor de la comunidad, paga al recibir planos firmados por el arquitecto.",
+    "description": null,
     "source": "voice",
     "source_ref": "tg-msg-1001",
     "created_at": "2026-06-28T20:52:18Z",
@@ -25,7 +25,9 @@
       "call_done": true,
       "duration_min": ">2"
     },
-    "evidence": null,
+    "evidence": {
+      "nota": "Descripción limpiada por Dani 14:13 29/06/2026 — era texto inventado por voice-note-skill (Terracotta/Boecillo). Aplicada regla \"no inventar nada\"."
+    },
     "evidence_confirmed_by": null,
     "closed_at": null,
     "crm_url": null,
