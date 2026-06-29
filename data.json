@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T21:59:57.342737+00:00",
-  "generated_at_local": "2026-06-29T23:59:57.342764+02:00",
+  "generated_at": "2026-06-29T22:05:06.258756+00:00",
+  "generated_at_local": "2026-06-30T00:05:06.258779+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 11,
@@ -45,24 +45,44 @@
   },
   "events_today": [
     {
-      "id": "596futav309l1hcrq64p8k4ppv",
+      "id": "733nm3d6g0idg9tujbaccpgh17",
       "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "SUBVENCION TERRACOTTA",
-      "start": "09:45",
-      "start_iso": "2026-06-29T09:45:00+02:00",
+      "title": "Llamar Gavi obramat",
+      "start": "08:00",
+      "start_iso": "2026-06-30T08:00:00+02:00",
       "all_day": false,
       "location": "",
-      "url": "https://www.google.com/calendar/event?eid=NTk2ZnV0YXYzMDlsMWhjcnE2NHA4azRwcHYgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+      "url": "https://www.google.com/calendar/event?eid=NzMzbm0zZDZnMGlkZzl0dWpiYWNjcGdoMTcgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     },
     {
-      "id": "h3t3cv2qt8ht4u1n84bm9n51vk",
+      "id": "1nab0ls69v55o39n3odd1qqsm6",
       "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Fixxcal??",
-      "start": "17:00",
-      "start_iso": "2026-06-29T17:00:00+02:00",
+      "title": "Elena Homik",
+      "start": "09:00",
+      "start_iso": "2026-06-30T09:00:00+02:00",
       "all_day": false,
       "location": "",
-      "url": "https://www.google.com/calendar/event?eid=aDN0M2N2MnF0OGh0NHUxbjg0Ym05bjUxdmsgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+      "url": "https://www.google.com/calendar/event?eid=MW5hYjBsczY5djU1bzM5bjNvZGQxcXFzbTYgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+    },
+    {
+      "id": "2mltlaqnt0t2bd3jnu24psojdo",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "Pagar factura hormigon El Peral GEDHOSA",
+      "start": "10:00",
+      "start_iso": "2026-06-30T10:00:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=Mm1sdGxhcW50MHQyYmQzam51MjRwc29qZG8gZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+    },
+    {
+      "id": "9ipko9r2ngggq7t9ai96mvvfo8",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "Kaia",
+      "start": "16:30",
+      "start_iso": "2026-06-30T16:30:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=OWlwa285cjJuZ2dncTd0OWFpOTZtdnZmbzggZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     }
   ],
   "crm_today": [],
