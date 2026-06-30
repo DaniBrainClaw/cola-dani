@@ -1,5 +1,5 @@
-// Cola Dani — Núcleo OS — Visor v4: SOLO TAREAS
-// Estructura minimalista: Tarea actual (GRANDE) → Próximas (colapsable) → Cerradas (colapsable)
+// Cola Dani — Núcleo OS — Visor v3: HOY
+// Estructura: Eventos del día → Tareas CRM hoy → Tarea actual (GRANDE) → Próximas (colapsable)
 
 const DATA_URL = "data.json";
 const REFRESH_MS = 30000;
@@ -26,6 +26,53 @@ function fmtToday() {
     return d.toLocaleDateString("es-ES", {
         weekday: "long", day: "2-digit", month: "long", year: "numeric"
     });
+}
+
+// ─── EVENTOS DEL DÍA ───
+function renderEvents(events) {
+    const body = $("events-body");
+    $("events-count").textContent = events.length;
+    if (events.length === 0) {
+        body.innerHTML = '<div class="empty">Sin eventos en el calendario hoy.</div>';
+        return;
+    }
+    body.innerHTML = events.map(ev => `
+        <div class="event-item">
+            <div class="event-time">${escapeHtml(ev.start || "??").substring(0, 5)}</div>
+            <div class="event-body">
+                <div class="event-title">${escapeHtml(ev.title)}</div>
+                ${ev.location ? `<div class="event-loc">📍 ${escapeHtml(ev.location)}</div>` : ""}
+            </div>
+            ${ev.url ? `<a href="${escapeHtml(ev.url)}" target="_blank" class="event-link">📅</a>` : ""}
+        </div>
+    `).join("");
+}
+
+// ─── TAREAS CRM DEL DÍA ───
+function renderCrmToday(tasks) {
+    const body = $("crm-body");
+    $("crm-count").textContent = tasks.length;
+    if (tasks.length === 0) {
+        body.innerHTML = '<div class="empty">Sin tareas en HubSpot para hoy.</div>';
+        return;
+    }
+    body.innerHTML = tasks.map(t => {
+        const statusClass = `status-${t.status || 'NOT_STARTED'}`;
+        const statusLabel = (t.status || 'NOT_STARTED').replace(/_/g, ' ').toLowerCase();
+        return `
+            <div class="crm-item">
+                <div class="crm-body">
+                    <div class="crm-title">${escapeHtml(t.title)}</div>
+                    <div class="crm-meta">
+                        ${t.type ? `📋 ${escapeHtml(t.type)}` : ""}
+                        ${t.due ? ` · 📅 ${escapeHtml(t.due)}` : ""}
+                    </div>
+                </div>
+                <span class="crm-status ${statusClass}">${escapeHtml(statusLabel)}</span>
+                ${t.url ? `<a href="${escapeHtml(t.url)}" target="_blank" class="crm-link">HubSpot →</a>` : ""}
+            </div>
+        `;
+    }).join("");
 }
 
 // ─── TAREA ACTUAL (HERO) ───
@@ -101,7 +148,7 @@ function renderServing(t) {
     }
 }
 
-// ─── COLA (próximas) — tarjeta con TODA la info ───
+// ─── COLA (próximas) ───
 function renderQueueItem(t) {
     const cls = [
         "queue-task",
@@ -120,10 +167,6 @@ function renderQueueItem(t) {
     const meta = [];
     if (t.due_date) meta.push(`📅 ${t.due_date}`);
     if (t.contact_name) meta.push(`👤 ${escapeHtml(t.contact_name)}`);
-    if (t.contact_phone) meta.push(`📞 ${escapeHtml(t.contact_phone)}`);
-
-    // Descripción completa
-    const desc = t.description ? `<p class="queue-task-desc">${escapeHtml(t.description)}</p>` : '';
 
     return `
         <div class="${cls}">
@@ -131,7 +174,6 @@ function renderQueueItem(t) {
                 <div class="queue-task-title">${escapeHtml(t.title)}</div>
                 <div class="queue-task-badges">${badges.join("")}</div>
             </div>
-            ${desc}
             <div class="queue-task-meta">${meta.join(" · ")}</div>
             ${actions.length > 0 ? `<div class="queue-task-actions">${actions.join("")}</div>` : ""}
         </div>
@@ -147,6 +189,8 @@ function render(snapshot) {
 
     $("subtitle").textContent = "HOY · " + fmtToday();
 
+    renderEvents(snapshot.events_today || []);
+    renderCrmToday(snapshot.crm_today || []);
     renderServing(snapshot.serving);
 
     // Cola
@@ -189,6 +233,8 @@ function setupToggle(toggleId, bodyId, iconId) {
         icon.textContent = hidden ? "▶" : "▼";
     });
 }
+setupToggle("events-toggle", "events-body", "events-icon");
+setupToggle("crm-toggle", "crm-body", "crm-icon");
 setupToggle("queue-toggle", "queue-body", "queue-icon");
 setupToggle("done-toggle", "done-body", "done-icon");
 
