@@ -1,46 +1,15 @@
 {
-  "generated_at": "2026-06-30T04:29:08.409305+00:00",
-  "generated_at_local": "2026-06-30T06:29:08.409331+02:00",
+  "generated_at": "2026-06-30T04:34:13.418269+00:00",
+  "generated_at_local": "2026-06-30T06:34:13.418294+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
-    "queued": 8,
-    "serving": 1,
-    "done": 6,
+    "queued": 5,
+    "serving": 0,
+    "done": 10,
     "failed": 0,
     "blocked": 0
   },
-  "serving": {
-    "id": "c9a84640-78ea-4b0a-b097-95c4556bc183",
-    "title": "Enviar oferta presupuesto Melero arquitecto",
-    "description": "Arquitecto Melero, reforma integral vivienda Valladolid. 18.500€ + IVA. Materiales: madera maciza + piedra natural. Plazo: 3 meses desde firma.",
-    "source": "crm",
-    "source_ref": "hs-77001",
-    "created_at": "2026-06-28T20:52:18Z",
-    "due_date": "2026-06-30",
-    "hard_deadline": true,
-    "task_type": "oferta",
-    "manual_priority": null,
-    "state": "serving",
-    "criteria": {},
-    "evidence": {
-      "calendar_event_done": true,
-      "nota": "Tarea inventada por script morning_briefing: source_ref=hs-c9a84 no existe en HubSpot. Dani confirma por Telegram (msg 4362) 06:27 Berlin 30/06/2026 cancelación. Datos (desc, importes, contactos) eran ficticios."
-    },
-    "evidence_confirmed_by": null,
-    "closed_at": null,
-    "crm_url": "https://app.hubspot.com/contacts/8402338/record/0-1/104459779199",
-    "contact_url": "https://app.hubspot.com/contacts/8402338/record/0-1/104459779199",
-    "contact_name": "Ángel Melero (arquitecto)",
-    "contact_phone": "620905509",
-    "contact_email": "estudio@meleroarquitectos.es",
-    "contact_id": "104459779199",
-    "last_interaction": {
-      "type": "TASK",
-      "ts": "2026-06-24T10:00:00Z",
-      "title": "Seguimiento con Melero arquitecto",
-      "preview": "En relación con el mensaje de WhatsApp registrado el jueves, 18 de junio de 2026 18:23"
-    }
-  },
+  "serving": null,
   "events_today": [
     {
       "id": "733nm3d6g0idg9tujbaccpgh17",
@@ -109,35 +78,6 @@
       "contact_id": null
     },
     {
-      "id": "07fd5dd2-2ce7-4963-9081-aac10f274c16",
-      "title": "ICO — presentar documentación banco Sabadell",
-      "description": "Línea ICO 2026 para MF3. Faltan: 3 últimas nóminas, certificado AEAT al día, balance 2025 firmado. Banca Sabadell, gestor: Ignacio (ignacio@sabadell...).",
-      "source": "crm",
-      "source_ref": "hs-77002",
-      "created_at": "2026-06-28T20:52:18Z",
-      "due_date": null,
-      "hard_deadline": false,
-      "task_type": "ico",
-      "manual_priority": null,
-      "state": "queued",
-      "criteria": {},
-      "evidence": null,
-      "evidence_confirmed_by": null,
-      "closed_at": null,
-      "crm_url": "https://app.hubspot.com/contacts/243825509/engagement/77002",
-      "contact_url": "https://app.hubspot.com/contacts/8402338/record/0-1/45351",
-      "contact_name": "Laura Sabadell",
-      "contact_phone": "686 505 368",
-      "contact_email": "ignacio.perez@sabadell.es",
-      "contact_id": "45351",
-      "last_interaction": {
-        "type": "EMAIL",
-        "ts": "2022-03-07T17:19:32.255Z",
-        "title": "",
-        "preview": "Buenas tardes Carlos, Queríamos pedirte precio del modelo ALBANY TEKA de GRES ARAGÓN para el suelo de un porche de 4m2 (ya incluimos el 10% de desperdicio en esta cantidad), y piezas de peldaño redondeado de 33 para 4,41m lineales (salen unas 1 piezas). También necesitamos presup"
-      }
-    },
-    {
       "id": "2d23e143-1e41-4d67-a69d-3f8d98ad2641",
       "title": "Email Ascale — confirmar pedido baldosa",
       "description": "Ascale confirma pedido baldosa Travertino Navona 60x120 (47,5 m²). Responder con fecha entrega y albarán parcial.",
@@ -199,35 +139,6 @@
       }
     },
     {
-      "id": "2519dbeb-1ea0-4af6-b6b5-dc090d8ff6f5",
-      "title": "Seguimiento oferta Dindon Living",
-      "description": "Lleva 7 días sin responder. Oferta 28.000€ reforma showroom Madrid. Llamar antes de cerrar oferta. Si no, archivar.",
-      "source": "crm",
-      "source_ref": "hs-77003",
-      "created_at": "2026-06-28T20:52:18Z",
-      "due_date": "2026-07-03",
-      "hard_deadline": false,
-      "task_type": "seguimiento",
-      "manual_priority": null,
-      "state": "queued",
-      "criteria": {},
-      "evidence": null,
-      "evidence_confirmed_by": null,
-      "closed_at": null,
-      "crm_url": "https://app.hubspot.com/contacts/243825509/engagement/77003",
-      "contact_url": "https://app.hubspot.com/contacts/8402338/record/0-1/75751",
-      "contact_name": "Elena Campos _posible clienta DinDonLiving",
-      "contact_phone": "656 357 646",
-      "contact_email": "madrid@dindonliving.co",
-      "contact_id": "75751",
-      "last_interaction": {
-        "type": "CALL",
-        "ts": "2022-03-21T10:22:02.565Z",
-        "title": "",
-        "preview": "Llama preguntando por el set de 4 sillas Corfú beige (entran en stock en Junio, no le importaría esperar) No se atreve a comprarlas sin verlas y no quiere asumir un bono de 300€ al ver que no damos opción de devolverlas. Quiere saber si puede verlas en directo en algún sitio o ve"
-      }
-    },
-    {
       "id": "790f4e5c-c4fe-44ff-9759-6b755d402404",
       "title": "Llamar a proveedor Adrihosan",
       "description": "Pedido sanitarios Melero. Confirmar stock modelo Inodoro Meridian Acuario (color blanco). Fecha entrega ideal: semana del 8 julio.",
@@ -255,29 +166,6 @@
         "title": "",
         "preview": "ADRIHOSAN Proveedor de azulejos en Valencia (negros lisos 10x10) Contacto: Ricardo Hoyos / comercial@adrihosan.com"
       }
-    },
-    {
-      "id": "9d0cd222-0cb0-4131-9a32-b8900bd048d5",
-      "title": "Renovar sello Verisure cliente Boecillo",
-      "description": "Vence la alarma del cliente Boecillo (José Luis Borge). Llamar Verisure al 900 121 121, opc 2.",
-      "source": "crm",
-      "source_ref": "hs-77004",
-      "created_at": "2026-06-28T20:52:18Z",
-      "due_date": "2026-07-02",
-      "hard_deadline": false,
-      "task_type": "sello",
-      "manual_priority": null,
-      "state": "queued",
-      "criteria": {},
-      "evidence": null,
-      "evidence_confirmed_by": null,
-      "closed_at": null,
-      "crm_url": "https://app.hubspot.com/contacts/243825509/engagement/77004",
-      "contact_url": "https://app.hubspot.com/contacts/243825509/contact/12345009",
-      "contact_name": "Verisure Atención Cliente",
-      "contact_phone": "900 121 121",
-      "contact_email": null,
-      "contact_id": "12345009"
     },
     {
       "id": "36adcea9-a101-4708-a28a-981cb921d179",
