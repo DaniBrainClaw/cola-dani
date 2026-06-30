@@ -1,38 +1,45 @@
 {
-  "generated_at": "2026-06-30T04:24:01.431417+00:00",
-  "generated_at_local": "2026-06-30T06:24:01.431445+02:00",
+  "generated_at": "2026-06-30T04:29:08.409305+00:00",
+  "generated_at_local": "2026-06-30T06:29:08.409331+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
-    "queued": 10,
+    "queued": 8,
     "serving": 1,
-    "done": 4,
+    "done": 6,
     "failed": 0,
     "blocked": 0
   },
   "serving": {
-    "id": "6dbf432e-ddec-4523-a7fc-f91ad004996e",
-    "title": "SUBVENCION TERRACOTTA",
-    "description": "Evento de calendario: https://www.google.com/calendar/event?eid=NTk2ZnV0YXYzMDlsMWhjcnE2NHA4azRwcHYgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ",
-    "source": "manual",
-    "source_ref": "gcal-596futav309l1hcrq64p8k4ppv",
-    "created_at": "2026-06-29T07:06:46Z",
-    "due_date": "2026-06-29",
+    "id": "c9a84640-78ea-4b0a-b097-95c4556bc183",
+    "title": "Enviar oferta presupuesto Melero arquitecto",
+    "description": "Arquitecto Melero, reforma integral vivienda Valladolid. 18.500€ + IVA. Materiales: madera maciza + piedra natural. Plazo: 3 meses desde firma.",
+    "source": "crm",
+    "source_ref": "hs-77001",
+    "created_at": "2026-06-28T20:52:18Z",
+    "due_date": "2026-06-30",
     "hard_deadline": true,
-    "task_type": "general",
+    "task_type": "oferta",
     "manual_priority": null,
     "state": "serving",
-    "criteria": {
-      "calendar_event_done": true
+    "criteria": {},
+    "evidence": {
+      "calendar_event_done": true,
+      "nota": "Tarea inventada por script morning_briefing: source_ref=hs-c9a84 no existe en HubSpot. Dani confirma por Telegram (msg 4362) 06:27 Berlin 30/06/2026 cancelación. Datos (desc, importes, contactos) eran ficticios."
     },
-    "evidence": null,
     "evidence_confirmed_by": null,
     "closed_at": null,
-    "crm_url": null,
-    "contact_url": null,
-    "contact_name": null,
-    "contact_phone": null,
-    "contact_email": null,
-    "contact_id": null
+    "crm_url": "https://app.hubspot.com/contacts/8402338/record/0-1/104459779199",
+    "contact_url": "https://app.hubspot.com/contacts/8402338/record/0-1/104459779199",
+    "contact_name": "Ángel Melero (arquitecto)",
+    "contact_phone": "620905509",
+    "contact_email": "estudio@meleroarquitectos.es",
+    "contact_id": "104459779199",
+    "last_interaction": {
+      "type": "TASK",
+      "ts": "2026-06-24T10:00:00Z",
+      "title": "Seguimiento con Melero arquitecto",
+      "preview": "En relación con el mensaje de WhatsApp registrado el jueves, 18 de junio de 2026 18:23"
+    }
   },
   "events_today": [
     {
@@ -102,63 +109,6 @@
       "contact_id": null
     },
     {
-      "id": "d4436989-bbaf-4c85-8e03-ff05e03585dc",
-      "title": "Fixxcal??",
-      "description": "Evento de calendario: https://www.google.com/calendar/event?eid=aDN0M2N2MnF0OGh0NHUxbjg0Ym05bjUxdmsgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ",
-      "source": "manual",
-      "source_ref": "gcal-h3t3cv2qt8ht4u1n84bm9n51vk",
-      "created_at": "2026-06-29T07:06:46Z",
-      "due_date": "2026-06-29",
-      "hard_deadline": true,
-      "task_type": "general",
-      "manual_priority": null,
-      "state": "queued",
-      "criteria": {
-        "calendar_event_done": true
-      },
-      "evidence": null,
-      "evidence_confirmed_by": null,
-      "closed_at": null,
-      "crm_url": null,
-      "contact_url": null,
-      "contact_name": null,
-      "contact_phone": null,
-      "contact_email": null,
-      "contact_id": null
-    },
-    {
-      "id": "c9a84640-78ea-4b0a-b097-95c4556bc183",
-      "title": "Enviar oferta presupuesto Melero arquitecto",
-      "description": "Arquitecto Melero, reforma integral vivienda Valladolid. 18.500€ + IVA. Materiales: madera maciza + piedra natural. Plazo: 3 meses desde firma.",
-      "source": "crm",
-      "source_ref": "hs-77001",
-      "created_at": "2026-06-28T20:52:18Z",
-      "due_date": "2026-06-30",
-      "hard_deadline": true,
-      "task_type": "oferta",
-      "manual_priority": null,
-      "state": "queued",
-      "criteria": {
-        "email_enviado": true,
-        "presupuesto_adjunto": true
-      },
-      "evidence": null,
-      "evidence_confirmed_by": null,
-      "closed_at": null,
-      "crm_url": "https://app.hubspot.com/contacts/8402338/record/0-1/104459779199",
-      "contact_url": "https://app.hubspot.com/contacts/8402338/record/0-1/104459779199",
-      "contact_name": "Ángel Melero (arquitecto)",
-      "contact_phone": "620905509",
-      "contact_email": "estudio@meleroarquitectos.es",
-      "contact_id": "104459779199",
-      "last_interaction": {
-        "type": "TASK",
-        "ts": "2026-06-24T10:00:00Z",
-        "title": "Seguimiento con Melero arquitecto",
-        "preview": "En relación con el mensaje de WhatsApp registrado el jueves, 18 de junio de 2026 18:23"
-      }
-    },
-    {
       "id": "07fd5dd2-2ce7-4963-9081-aac10f274c16",
       "title": "ICO — presentar documentación banco Sabadell",
       "description": "Línea ICO 2026 para MF3. Faltan: 3 últimas nóminas, certificado AEAT al día, balance 2025 firmado. Banca Sabadell, gestor: Ignacio (ignacio@sabadell...).",
@@ -170,9 +120,7 @@
       "task_type": "ico",
       "manual_priority": null,
       "state": "queued",
-      "criteria": {
-        "documentacion_entregada": true
-      },
+      "criteria": {},
       "evidence": null,
       "evidence_confirmed_by": null,
       "closed_at": null,
@@ -262,7 +210,7 @@
       "task_type": "seguimiento",
       "manual_priority": null,
       "state": "queued",
-      "criteria": null,
+      "criteria": {},
       "evidence": null,
       "evidence_confirmed_by": null,
       "closed_at": null,
@@ -320,7 +268,7 @@
       "task_type": "sello",
       "manual_priority": null,
       "state": "queued",
-      "criteria": null,
+      "criteria": {},
       "evidence": null,
       "evidence_confirmed_by": null,
       "closed_at": null,
@@ -356,6 +304,62 @@
     }
   ],
   "recent_done": [
+    {
+      "id": "6dbf432e-ddec-4523-a7fc-f91ad004996e",
+      "title": "SUBVENCION TERRACOTTA",
+      "description": "Evento de calendario: https://www.google.com/calendar/event?eid=NTk2ZnV0YXYzMDlsMWhjcnE2NHA4azRwcHYgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ",
+      "source": "manual",
+      "source_ref": "gcal-596futav309l1hcrq64p8k4ppv",
+      "created_at": "2026-06-29T07:06:46Z",
+      "due_date": "2026-06-29",
+      "hard_deadline": true,
+      "task_type": "general",
+      "manual_priority": null,
+      "state": "done",
+      "criteria": {
+        "calendar_event_done": true
+      },
+      "evidence": {
+        "calendar_event_done": true,
+        "nota": "SUBVENCION TERRACOTTA: evento de calendario confirmado, Dani confirma por Telegram (msg 4358) 06:24 Berlin 30/06/2026 que está hecho."
+      },
+      "evidence_confirmed_by": "human",
+      "closed_at": "2026-06-30T04:24:59Z",
+      "crm_url": null,
+      "contact_url": null,
+      "contact_name": null,
+      "contact_phone": null,
+      "contact_email": null,
+      "contact_id": null
+    },
+    {
+      "id": "d4436989-bbaf-4c85-8e03-ff05e03585dc",
+      "title": "Fixxcal??",
+      "description": "Evento de calendario: https://www.google.com/calendar/event?eid=aDN0M2N2MnF0OGh0NHUxbjg0Ym05bjUxdmsgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ",
+      "source": "manual",
+      "source_ref": "gcal-h3t3cv2qt8ht4u1n84bm9n51vk",
+      "created_at": "2026-06-29T07:06:46Z",
+      "due_date": "2026-06-29",
+      "hard_deadline": true,
+      "task_type": "general",
+      "manual_priority": null,
+      "state": "done",
+      "criteria": {
+        "calendar_event_done": true
+      },
+      "evidence": {
+        "calendar_event_done": true,
+        "nota": "Fixxcal??: nombre corrupto de evento de calendario, Dani confirma por Telegram (msg 4358) 06:24 Berlin 30/06/2026 que el evento está hecho."
+      },
+      "evidence_confirmed_by": "human",
+      "closed_at": "2026-06-30T04:25:13Z",
+      "crm_url": null,
+      "contact_url": null,
+      "contact_name": null,
+      "contact_phone": null,
+      "contact_email": null,
+      "contact_id": null
+    },
     {
       "id": "97528aa4-cdb6-4b14-903e-1733e4f5db75",
       "title": "🔴 URGENTE — pasar transferencia ICO",
@@ -444,32 +448,6 @@
       "contact_phone": "+34 600 200 300",
       "contact_email": "admin@cirbe.es",
       "contact_id": "12345002"
-    },
-    {
-      "id": "b9629b65-5e92-4aa5-b4c4-22bc3b9f0b22",
-      "title": "Llamar a BBVA — consulta recibo",
-      "description": "Cliente preguntaba por recibo. Ya llamado.",
-      "source": "email",
-      "source_ref": "imap-998879",
-      "created_at": "2026-06-28T20:52:18Z",
-      "due_date": null,
-      "hard_deadline": false,
-      "task_type": "email",
-      "manual_priority": null,
-      "state": "done",
-      "criteria": null,
-      "evidence": {
-        "called": true,
-        "duration_min": 5
-      },
-      "evidence_confirmed_by": "human",
-      "closed_at": "2026-06-28T20:52:18Z",
-      "crm_url": null,
-      "contact_url": null,
-      "contact_name": null,
-      "contact_phone": null,
-      "contact_email": null,
-      "contact_id": null
     }
   ],
   "failed": [],
