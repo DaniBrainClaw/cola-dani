@@ -1,47 +1,38 @@
 {
-  "generated_at": "2026-06-30T04:03:33.808459+00:00",
-  "generated_at_local": "2026-06-30T06:03:33.808481+02:00",
+  "generated_at": "2026-06-30T04:08:41.017615+00:00",
+  "generated_at_local": "2026-06-30T06:08:41.017637+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
-    "queued": 11,
+    "queued": 10,
     "serving": 1,
-    "done": 3,
+    "done": 4,
     "failed": 0,
     "blocked": 0
   },
   "serving": {
-    "id": "713720c5-12dc-4bab-9603-7bc2e0673c49",
-    "title": "Llamar a José Luis Borge — confirmar planos piscina",
-    "description": null,
-    "source": "voice",
-    "source_ref": "tg-msg-1001",
-    "created_at": "2026-06-28T20:52:18Z",
+    "id": "6dbf432e-ddec-4523-a7fc-f91ad004996e",
+    "title": "SUBVENCION TERRACOTTA",
+    "description": "Evento de calendario: https://www.google.com/calendar/event?eid=NTk2ZnV0YXYzMDlsMWhjcnE2NHA4azRwcHYgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ",
+    "source": "manual",
+    "source_ref": "gcal-596futav309l1hcrq64p8k4ppv",
+    "created_at": "2026-06-29T07:06:46Z",
     "due_date": "2026-06-29",
     "hard_deadline": true,
-    "task_type": "llamada",
+    "task_type": "general",
     "manual_priority": null,
     "state": "serving",
     "criteria": {
-      "call_done": true,
-      "duration_min": ">2"
+      "calendar_event_done": true
     },
-    "evidence": {
-      "nota": "Descripción limpiada por Dani 14:13 29/06/2026 — era texto inventado por voice-note-skill (Terracotta/Boecillo). Aplicada regla \"no inventar nada\"."
-    },
+    "evidence": null,
     "evidence_confirmed_by": null,
     "closed_at": null,
     "crm_url": null,
-    "contact_url": "https://app.hubspot.com/contacts/8402338/record/0-1/214438576042",
-    "contact_name": "José Luis Borge",
-    "contact_phone": "667583988",
-    "contact_email": "jlborge@example.com",
-    "contact_id": "214438576042",
-    "last_interaction": {
-      "type": "TASK",
-      "ts": "2026-06-08T10:00:00Z",
-      "title": "Seguimiento con José Luis Borge",
-      "preview": "En relación con el correo registrado el jueves, 4 de junio de 2026 13:58"
-    }
+    "contact_url": null,
+    "contact_name": null,
+    "contact_phone": null,
+    "contact_email": null,
+    "contact_id": null
   },
   "events_today": [
     {
@@ -100,31 +91,6 @@
       "manual_priority": null,
       "state": "queued",
       "criteria": null,
-      "evidence": null,
-      "evidence_confirmed_by": null,
-      "closed_at": null,
-      "crm_url": null,
-      "contact_url": null,
-      "contact_name": null,
-      "contact_phone": null,
-      "contact_email": null,
-      "contact_id": null
-    },
-    {
-      "id": "6dbf432e-ddec-4523-a7fc-f91ad004996e",
-      "title": "SUBVENCION TERRACOTTA",
-      "description": "Evento de calendario: https://www.google.com/calendar/event?eid=NTk2ZnV0YXYzMDlsMWhjcnE2NHA4azRwcHYgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ",
-      "source": "manual",
-      "source_ref": "gcal-596futav309l1hcrq64p8k4ppv",
-      "created_at": "2026-06-29T07:06:46Z",
-      "due_date": "2026-06-29",
-      "hard_deadline": true,
-      "task_type": "general",
-      "manual_priority": null,
-      "state": "queued",
-      "criteria": {
-        "calendar_event_done": true
-      },
       "evidence": null,
       "evidence_confirmed_by": null,
       "closed_at": null,
@@ -414,6 +380,42 @@
       "contact_phone": null,
       "contact_email": null,
       "contact_id": null
+    },
+    {
+      "id": "713720c5-12dc-4bab-9603-7bc2e0673c49",
+      "title": "Llamar a José Luis Borge — confirmar planos piscina",
+      "description": null,
+      "source": "voice",
+      "source_ref": "tg-msg-1001",
+      "created_at": "2026-06-28T20:52:18Z",
+      "due_date": "2026-06-29",
+      "hard_deadline": true,
+      "task_type": "llamada",
+      "manual_priority": null,
+      "state": "done",
+      "criteria": {
+        "call_done": true,
+        "duration_min": ">2"
+      },
+      "evidence": {
+        "call_done": true,
+        "duration_min": 3,
+        "nota": "Dani confirma por Telegram (msg 4332) 06:01 Berlin 30/06/2026 que la tarea está hecha. Llamada completada."
+      },
+      "evidence_confirmed_by": "human",
+      "closed_at": "2026-06-30T04:05:08Z",
+      "crm_url": null,
+      "contact_url": "https://app.hubspot.com/contacts/8402338/record/0-1/214438576042",
+      "contact_name": "José Luis Borge",
+      "contact_phone": "667583988",
+      "contact_email": "jlborge@example.com",
+      "contact_id": "214438576042",
+      "last_interaction": {
+        "type": "TASK",
+        "ts": "2026-06-08T10:00:00Z",
+        "title": "Seguimiento con José Luis Borge",
+        "preview": "En relación con el correo registrado el jueves, 4 de junio de 2026 13:58"
+      }
     },
     {
       "id": "c5c738c6-4d9f-49b4-aead-fad9b072967c",
