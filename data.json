@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T08:33:26.619026+00:00",
-  "generated_at_local": "2026-06-30T10:33:26.619050+02:00",
+  "generated_at": "2026-06-30T08:38:32.240494+00:00",
+  "generated_at_local": "2026-06-30T10:38:32.240515+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 5,
@@ -40,6 +40,16 @@
       "all_day": false,
       "location": "",
       "url": "https://www.google.com/calendar/event?eid=Mm1sdGxhcW50MHQyYmQzam51MjRwc29qZG8gZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+    },
+    {
+      "id": "1tg7tb6bsbjt0n03n1pds7beua",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "Ultima factura Terracotta",
+      "start": "13:00",
+      "start_iso": "2026-06-30T13:00:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=MXRnN3RiNmJzYmp0MG4wM24xcGRzN2JldWEgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     },
     {
       "id": "9ipko9r2ngggq7t9ai96mvvfo8",
