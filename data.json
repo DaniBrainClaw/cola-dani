@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T21:58:02.390278+00:00",
-  "generated_at_local": "2026-06-30T23:58:02.390306+02:00",
+  "generated_at": "2026-06-30T22:03:07.078554+00:00",
+  "generated_at_local": "2026-07-01T00:03:07.078576+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 4,
@@ -12,57 +12,77 @@
   "serving": null,
   "events_today": [
     {
-      "id": "733nm3d6g0idg9tujbaccpgh17",
+      "id": "gqim3p7ni81q5srtvlvjljb178",
       "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Llamar Gavi obramat",
-      "start": "08:00",
-      "start_iso": "2026-06-30T08:00:00+02:00",
+      "title": "Facturas Jorge y Sandra",
+      "start": "08:30",
+      "start_iso": "2026-07-01T08:30:00+02:00",
       "all_day": false,
       "location": "",
-      "url": "https://www.google.com/calendar/event?eid=NzMzbm0zZDZnMGlkZzl0dWpiYWNjcGdoMTcgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+      "url": "https://www.google.com/calendar/event?eid=Z3FpbTNwN25pODFxNXNydHZsdmpsamIxNzggZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     },
     {
-      "id": "1nab0ls69v55o39n3odd1qqsm6",
+      "id": "1uttflua6v1eeov22aeqelsi1o",
       "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Elena Homik",
-      "start": "09:00",
-      "start_iso": "2026-06-30T09:00:00+02:00",
+      "title": "Facturar muros peral",
+      "start": "08:45",
+      "start_iso": "2026-07-01T08:45:00+02:00",
       "all_day": false,
       "location": "",
-      "url": "https://www.google.com/calendar/event?eid=MW5hYjBsczY5djU1bzM5bjNvZGQxcXFzbTYgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+      "url": "https://www.google.com/calendar/event?eid=MXV0dGZsdWE2djFlZW92MjJhZXFlbHNpMW8gZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     },
     {
-      "id": "2mltlaqnt0t2bd3jnu24psojdo",
+      "id": "2rpmc5eucgmun3kcbmo91lidm1",
       "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Pagar factura hormigon El Peral GEDHOSA",
+      "title": "Damián y Asun",
+      "start": "09:45",
+      "start_iso": "2026-07-01T09:45:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=MnJwbWM1ZXVjZ211bjNrY2JtbzkxbGlkbTEgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+    },
+    {
+      "id": "62rhidnbd63q45c759pv18944i",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "Recoger notificación Mediterranean 02/07",
       "start": "10:00",
-      "start_iso": "2026-06-30T10:00:00+02:00",
+      "start_iso": "2026-07-01T10:00:00+02:00",
       "all_day": false,
       "location": "",
-      "url": "https://www.google.com/calendar/event?eid=Mm1sdGxhcW50MHQyYmQzam51MjRwc29qZG8gZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+      "url": "https://www.google.com/calendar/event?eid=NjJyaGlkbmJkNjNxNDVjNzU5cHYxODk0NGkgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     },
     {
-      "id": "1tg7tb6bsbjt0n03n1pds7beua",
+      "id": "3umm08pk5kbfv40ajfd3bo7hmj",
       "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Ultima factura Terracotta",
-      "start": "13:00",
-      "start_iso": "2026-06-30T13:00:00+02:00",
+      "title": "Facturar Ruth",
+      "start": "11:00",
+      "start_iso": "2026-07-01T11:00:00+02:00",
       "all_day": false,
       "location": "",
-      "url": "https://www.google.com/calendar/event?eid=MXRnN3RiNmJzYmp0MG4wM24xcGRzN2JldWEgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+      "url": "https://www.google.com/calendar/event?eid=M3VtbTA4cGs1a2JmdjQwYWpmZDNibzdobWogZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     },
     {
-      "id": "9ipko9r2ngggq7t9ai96mvvfo8",
+      "id": "5jvt6ddtvm1gohdlkp03vasp57",
       "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Kaia",
-      "start": "16:30",
-      "start_iso": "2026-06-30T16:30:00+02:00",
+      "title": "Reunión Gloria",
+      "start": "17:00",
+      "start_iso": "2026-07-01T17:00:00+02:00",
       "all_day": false,
       "location": "",
-      "url": "https://www.google.com/calendar/event?eid=OWlwa285cjJuZ2dncTd0OWFpOTZtdnZmbzggZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+      "url": "https://www.google.com/calendar/event?eid=NWp2dDZkZHR2bTFnb2hkbGtwMDN2YXNwNTcgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     }
   ],
-  "crm_today": [],
+  "crm_today": [
+    {
+      "id": "111734221116",
+      "title": "Seguimiento con German Empresa Steel Frame",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-07-01T00:00:00Z",
+      "url": "https://app.hubspot.com/tasks/111734221116"
+    }
+  ],
   "queue": [
     {
       "id": "a0669342-e9a4-4bba-9a3e-10962f061857",
