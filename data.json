@@ -1,15 +1,37 @@
 {
-  "generated_at": "2026-06-30T11:06:24.961204+00:00",
-  "generated_at_local": "2026-06-30T13:06:24.961230+02:00",
+  "generated_at": "2026-06-30T11:11:30.181293+00:00",
+  "generated_at_local": "2026-06-30T13:11:30.181317+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
-    "queued": 5,
-    "serving": 0,
+    "queued": 4,
+    "serving": 1,
     "done": 10,
     "failed": 0,
     "blocked": 0
   },
-  "serving": null,
+  "serving": {
+    "id": "36adcea9-a101-4708-a28a-981cb921d179",
+    "title": "Revisar factura LIV-ING consultoria",
+    "description": "Factura pendientes de validar antes del 15. 3 facturas: consultoria abril (1.500€), mayo (1.500€), junio (1.500€).",
+    "source": "email",
+    "source_ref": "imap-998878",
+    "created_at": "2026-06-28T20:52:18Z",
+    "due_date": "2026-07-08",
+    "hard_deadline": false,
+    "task_type": "factura",
+    "manual_priority": null,
+    "state": "serving",
+    "criteria": null,
+    "evidence": null,
+    "evidence_confirmed_by": null,
+    "closed_at": null,
+    "crm_url": null,
+    "contact_url": "https://app.hubspot.com/contacts/8402338/record/0-1/23207867540",
+    "contact_name": "Vanesa Álvarez Martín",
+    "contact_phone": "674386874",
+    "contact_email": null,
+    "contact_id": "23207867540"
+  },
   "events_today": [
     {
       "id": "733nm3d6g0idg9tujbaccpgh17",
@@ -176,29 +198,6 @@
         "title": "",
         "preview": "ADRIHOSAN Proveedor de azulejos en Valencia (negros lisos 10x10) Contacto: Ricardo Hoyos / comercial@adrihosan.com"
       }
-    },
-    {
-      "id": "36adcea9-a101-4708-a28a-981cb921d179",
-      "title": "Revisar factura LIV-ING consultoria",
-      "description": "Factura pendientes de validar antes del 15. 3 facturas: consultoria abril (1.500€), mayo (1.500€), junio (1.500€).",
-      "source": "email",
-      "source_ref": "imap-998878",
-      "created_at": "2026-06-28T20:52:18Z",
-      "due_date": "2026-07-08",
-      "hard_deadline": false,
-      "task_type": "factura",
-      "manual_priority": null,
-      "state": "queued",
-      "criteria": null,
-      "evidence": null,
-      "evidence_confirmed_by": null,
-      "closed_at": null,
-      "crm_url": null,
-      "contact_url": "https://app.hubspot.com/contacts/8402338/record/0-1/23207867540",
-      "contact_name": "Vanesa Álvarez Martín",
-      "contact_phone": "674386874",
-      "contact_email": null,
-      "contact_id": "23207867540"
     }
   ],
   "recent_done": [
