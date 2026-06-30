@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-30T12:53:24.743571+00:00",
-  "generated_at_local": "2026-06-30T14:53:24.743618+02:00",
+  "generated_at": "2026-06-30T12:58:30.790238+00:00",
+  "generated_at_local": "2026-06-30T14:58:30.790276+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 3,
     "serving": 1,
     "done": 10,
-    "failed": 1,
+    "failed": 0,
     "blocked": 0
   },
   "serving": {
@@ -324,31 +324,7 @@
       "contact_id": "12345002"
     }
   ],
-  "failed": [
-    {
-      "id": "36adcea9-a101-4708-a28a-981cb921d179",
-      "title": "Revisar factura LIV-ING consultoria",
-      "description": "Factura pendientes de validar antes del 15. 3 facturas: consultoria abril (1.500€), mayo (1.500€), junio (1.500€).",
-      "source": "email",
-      "source_ref": "imap-998878",
-      "created_at": "2026-06-28T20:52:18Z",
-      "due_date": "2026-07-08",
-      "hard_deadline": false,
-      "task_type": "factura",
-      "manual_priority": null,
-      "state": "failed",
-      "criteria": null,
-      "evidence": null,
-      "evidence_confirmed_by": null,
-      "closed_at": null,
-      "crm_url": null,
-      "contact_url": "https://app.hubspot.com/contacts/8402338/record/0-1/23207867540",
-      "contact_name": "Vanesa Álvarez Martín",
-      "contact_phone": "674386874",
-      "contact_email": null,
-      "contact_id": "23207867540"
-    }
-  ],
+  "failed": [],
   "blocked": [],
   "sync": {
     "email_ok": null,
