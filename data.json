@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T06:14:49.103753+00:00",
-  "generated_at_local": "2026-07-01T08:14:49.103775+02:00",
+  "generated_at": "2026-07-01T06:19:52.542245+00:00",
+  "generated_at_local": "2026-07-01T08:19:52.542271+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 2,
@@ -82,6 +82,16 @@
       "all_day": false,
       "location": "",
       "url": "https://www.google.com/calendar/event?eid=M3VtbTA4cGs1a2JmdjQwYWpmZDNibzdobWogZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+    },
+    {
+      "id": "2mltlaqnt0t2bd3jnu24psojdo",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "Pagar factura hormigon El Peral GEDHOSA",
+      "start": "12:00",
+      "start_iso": "2026-07-01T12:00:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=Mm1sdGxhcW50MHQyYmQzam51MjRwc29qZG8gZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     },
     {
       "id": "5jvt6ddtvm1gohdlkp03vasp57",
