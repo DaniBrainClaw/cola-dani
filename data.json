@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-01T18:23:17.938915+00:00",
-  "generated_at_local": "2026-07-01T20:23:17.938937+02:00",
+  "generated_at": "2026-07-01T18:25:04.794647+00:00",
+  "generated_at_local": "2026-07-01T20:25:04.794676+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
-    "queued": 3,
+    "queued": 2,
     "serving": 1,
     "done": 11,
-    "failed": 3,
+    "failed": 4,
     "blocked": 0
   },
   "serving": {
@@ -128,29 +128,6 @@
       "contact_phone": "+34636655220",
       "contact_email": null,
       "contact_id": "201761986432"
-    },
-    {
-      "id": "196f9799-3948-4a70-8740-eef7726a14d2",
-      "title": "Llamar a Mario para hablar de Almudena y de Elena",
-      "description": "Llamar a Mario Rodriguez (pintor, contacto HubSpot 70106396174) para hablar de Almudena (obra Renedo 26003, última mano de pintura) y de Elena. Dani creó la tarea el 01/07/2026 tras llamada con Almudena.",
-      "source": "text",
-      "source_ref": "tg-msg-5033",
-      "created_at": "2026-07-01T18:23:14Z",
-      "due_date": "2026-07-02",
-      "hard_deadline": false,
-      "task_type": null,
-      "manual_priority": 3,
-      "state": "queued",
-      "criteria": null,
-      "evidence": null,
-      "evidence_confirmed_by": null,
-      "closed_at": null,
-      "crm_url": null,
-      "contact_url": null,
-      "contact_name": null,
-      "contact_phone": null,
-      "contact_email": null,
-      "contact_id": null
     },
     {
       "id": "7df893a3-8837-425d-acce-36dcffc4f452",
@@ -319,6 +296,29 @@
     }
   ],
   "failed": [
+    {
+      "id": "196f9799-3948-4a70-8740-eef7726a14d2",
+      "title": "Llamar a Mario para hablar de Almudena y de Elena",
+      "description": "Llamar a Mario Rodriguez (pintor, contacto HubSpot 70106396174) para hablar de Almudena (obra Renedo 26003, última mano de pintura) y de Elena. Dani creó la tarea el 01/07/2026 tras llamada con Almudena.",
+      "source": "text",
+      "source_ref": "tg-msg-5033",
+      "created_at": "2026-07-01T18:23:14Z",
+      "due_date": "2026-07-02",
+      "hard_deadline": false,
+      "task_type": null,
+      "manual_priority": 3,
+      "state": "failed",
+      "criteria": null,
+      "evidence": "Cancelada por Dani: la tarea debe ir al CRM, no a la cola local (msg 5036, 20:24)",
+      "evidence_confirmed_by": null,
+      "closed_at": "2026-07-01T18:25:01.114872+00:00",
+      "crm_url": null,
+      "contact_url": null,
+      "contact_name": null,
+      "contact_phone": null,
+      "contact_email": null,
+      "contact_id": null
+    },
     {
       "id": "2d23e143-1e41-4d67-a69d-3f8d98ad2641",
       "title": "Email Ascale — confirmar pedido baldosa",
