@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T17:48:37.683769+00:00",
-  "generated_at_local": "2026-07-01T19:48:37.683797+02:00",
+  "generated_at": "2026-07-01T17:52:06.256473+00:00",
+  "generated_at_local": "2026-07-01T19:52:06.256501+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 2,
@@ -126,29 +126,6 @@
   ],
   "queue": [
     {
-      "id": "7df893a3-8837-425d-acce-36dcffc4f452",
-      "title": "Enviar chalets a Luismi",
-      "description": "Enviar documentación/planos de los chalets a Luismi (contacto HubSpot 46001).",
-      "source": "text",
-      "source_ref": "tg-msg-4986",
-      "created_at": "2026-07-01T17:41:10Z",
-      "due_date": "2026-07-06",
-      "hard_deadline": false,
-      "task_type": null,
-      "manual_priority": 3,
-      "state": "queued",
-      "criteria": null,
-      "evidence": null,
-      "evidence_confirmed_by": null,
-      "closed_at": null,
-      "crm_url": null,
-      "contact_url": null,
-      "contact_name": null,
-      "contact_phone": null,
-      "contact_email": null,
-      "contact_id": null
-    },
-    {
       "id": "5fe23a60-5e2a-4fd0-b9be-8a4872405bca",
       "title": "Sacar presupuesto acometida/arqueta para Chalet de la Galera (26002)",
       "description": "Llamada 30/06/2026 19:00 con Sandra (profesora Maristas) y Jorge. Antiguo propietario de la parcela les ha pedido presupuesto para sacar las instalaciones (acometida/arqueta/hoja). Posición: NO es trabajo nuestro de construcción; las instalaciones ya están en la parcela. Revisar app que pasó Jorge para localizar las instalaciones y sacar presupuesto de sacar la acometida/arqueta/hoja. Mandar a Sandra y Jorge. Si no aceptan → ellos buscan otra empresa. Pendiente: feedback de Carlos sobre licencia (vía Sandra/Jorge). Deal HubSpot: 60343706938. Nota asociada: 112118550561. Proyecto: O-26002 / PO 26015. Jorge NO está en CRM todavía — Dani lo meterá.",
@@ -170,6 +147,29 @@
       "contact_phone": "+34636655220",
       "contact_email": null,
       "contact_id": "201761986432"
+    },
+    {
+      "id": "7df893a3-8837-425d-acce-36dcffc4f452",
+      "title": "Enviar chalets a Luismi",
+      "description": "Enviar documentación/planos de los chalets a Luismi (contacto HubSpot 46001).",
+      "source": "text",
+      "source_ref": "tg-msg-4986",
+      "created_at": "2026-07-01T17:41:10Z",
+      "due_date": "2026-07-06",
+      "hard_deadline": false,
+      "task_type": null,
+      "manual_priority": 3,
+      "state": "queued",
+      "criteria": null,
+      "evidence": null,
+      "evidence_confirmed_by": null,
+      "closed_at": null,
+      "crm_url": null,
+      "contact_url": null,
+      "contact_name": null,
+      "contact_phone": null,
+      "contact_email": null,
+      "contact_id": null
     }
   ],
   "recent_done": [
