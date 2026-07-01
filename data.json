@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T17:57:57.280735+00:00",
-  "generated_at_local": "2026-07-01T19:57:57.280759+02:00",
+  "generated_at": "2026-07-01T18:03:00.878391+00:00",
+  "generated_at_local": "2026-07-01T20:03:00.878411+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 2,
@@ -105,15 +105,6 @@
     }
   ],
   "crm_today": [
-    {
-      "id": "111734221116",
-      "title": "Seguimiento con German Empresa Steel Frame",
-      "type": "TODO",
-      "status": "NOT_STARTED",
-      "priority": "NONE",
-      "due": "2026-07-01T10:00:00Z",
-      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/111734221116"
-    },
     {
       "id": "112123328181",
       "title": "Devolver llamada Almudena",
