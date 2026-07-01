@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T21:55:16.854157+00:00",
-  "generated_at_local": "2026-07-01T23:55:16.854186+02:00",
+  "generated_at": "2026-07-01T22:00:20.110433+00:00",
+  "generated_at_local": "2026-07-02T00:00:20.110456+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 3,
@@ -34,77 +34,83 @@
   },
   "events_today": [
     {
-      "id": "gqim3p7ni81q5srtvlvjljb178",
+      "id": "2neieb720jiog18cq9e7vadv67",
       "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Facturas Jorge y Sandra",
+      "title": "recibo kinto",
       "start": "08:30",
-      "start_iso": "2026-07-01T08:30:00+02:00",
+      "start_iso": "2026-07-02T08:30:00+02:00",
       "all_day": false,
       "location": "",
-      "url": "https://www.google.com/calendar/event?eid=Z3FpbTNwN25pODFxNXNydHZsdmpsamIxNzggZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+      "url": "https://www.google.com/calendar/event?eid=Mm5laWViNzIwamlvZzE4Y3E5ZTd2YWR2NjcgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     },
     {
-      "id": "1uttflua6v1eeov22aeqelsi1o",
+      "id": "n5bflblrsqcpkbno2f0ud5ss5g",
       "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Facturar muros peral",
-      "start": "08:45",
-      "start_iso": "2026-07-01T08:45:00+02:00",
+      "title": "Madrid. Nuñez de Balboa 49",
+      "start": "09:00",
+      "start_iso": "2026-07-02T09:00:00+02:00",
       "all_day": false,
       "location": "",
-      "url": "https://www.google.com/calendar/event?eid=MXV0dGZsdWE2djFlZW92MjJhZXFlbHNpMW8gZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+      "url": "https://www.google.com/calendar/event?eid=bjViZmxibHJzcWNwa2JubzJmMHVkNXNzNWcgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     },
     {
-      "id": "2rpmc5eucgmun3kcbmo91lidm1",
+      "id": "762nplbdn0gjj7p5pkeaqqelbt",
       "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Damián y Asun",
-      "start": "09:45",
-      "start_iso": "2026-07-01T09:45:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=MnJwbWM1ZXVjZ211bjNrY2JtbzkxbGlkbTEgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
-    },
-    {
-      "id": "62rhidnbd63q45c759pv18944i",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Recoger notificación Mediterranean 02/07",
+      "title": "Recoger notificación Mediterranean 03/07",
       "start": "10:00",
-      "start_iso": "2026-07-01T10:00:00+02:00",
+      "start_iso": "2026-07-02T10:00:00+02:00",
       "all_day": false,
       "location": "",
-      "url": "https://www.google.com/calendar/event?eid=NjJyaGlkbmJkNjNxNDVjNzU5cHYxODk0NGkgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
-    },
-    {
-      "id": "3umm08pk5kbfv40ajfd3bo7hmj",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Facturar Ruth",
-      "start": "11:00",
-      "start_iso": "2026-07-01T11:00:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=M3VtbTA4cGs1a2JmdjQwYWpmZDNibzdobWogZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
-    },
-    {
-      "id": "2mltlaqnt0t2bd3jnu24psojdo",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Pagar factura hormigon El Peral GEDHOSA",
-      "start": "12:00",
-      "start_iso": "2026-07-01T12:00:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=Mm1sdGxhcW50MHQyYmQzam51MjRwc29qZG8gZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
-    },
-    {
-      "id": "5jvt6ddtvm1gohdlkp03vasp57",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Reunión Gloria",
-      "start": "17:00",
-      "start_iso": "2026-07-01T17:00:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=NWp2dDZkZHR2bTFnb2hkbGtwMDN2YXNwNTcgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+      "url": "https://www.google.com/calendar/event?eid=NzYybnBsYmRuMGdqajdwNXBrZWFxcWVsYnQgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     }
   ],
-  "crm_today": [],
+  "crm_today": [
+    {
+      "id": "103854584995",
+      "title": "Seguimiento con Bea Tilo (pareja Ángel Zamarrón)",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-07-02T09:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/103854584995"
+    },
+    {
+      "id": "110617746056",
+      "title": "Seguimiento con David Rodríguez Toldolid",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-07-02T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/110617746056"
+    },
+    {
+      "id": "111273082525",
+      "title": "Seguimiento con Melero arquitecto",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-07-02T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/111273082525"
+    },
+    {
+      "id": "112189281379",
+      "title": "Llamar a Mario para hablar de Almudena y de Elena",
+      "type": "CALL",
+      "status": "NOT_STARTED",
+      "priority": "HIGH",
+      "due": "2026-07-02T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112189281379"
+    },
+    {
+      "id": "112199241070",
+      "title": "Terminar el pedido de las piscinas",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "HIGH",
+      "due": "2026-07-02T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112199241070"
+    }
+  ],
   "queue": [
     {
       "id": "17bef7f1-9102-4014-a552-76a9cda7592b",
