@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T18:13:07.544132+00:00",
-  "generated_at_local": "2026-07-01T20:13:07.544157+02:00",
+  "generated_at": "2026-07-01T18:18:11.052293+00:00",
+  "generated_at_local": "2026-07-01T20:18:11.052313+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 2,
@@ -104,17 +104,7 @@
       "url": "https://www.google.com/calendar/event?eid=NWp2dDZkZHR2bTFnb2hkbGtwMDN2YXNwNTcgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     }
   ],
-  "crm_today": [
-    {
-      "id": "112123328181",
-      "title": "Devolver llamada Almudena",
-      "type": "CALL",
-      "status": "NOT_STARTED",
-      "priority": "HIGH",
-      "due": "2026-07-01T12:30:00Z",
-      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112123328181"
-    }
-  ],
+  "crm_today": [],
   "queue": [
     {
       "id": "5fe23a60-5e2a-4fd0-b9be-8a4872405bca",
