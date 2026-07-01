@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-01T17:37:44.547582+00:00",
-  "generated_at_local": "2026-07-01T19:37:44.547634+02:00",
+  "generated_at": "2026-07-01T17:42:47.850906+00:00",
+  "generated_at_local": "2026-07-01T19:42:47.850930+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
-    "queued": 1,
+    "queued": 2,
     "serving": 1,
     "done": 11,
     "failed": 3,
@@ -125,6 +125,35 @@
     }
   ],
   "queue": [
+    {
+      "id": "7df893a3-8837-425d-acce-36dcffc4f452",
+      "title": "Enviar chalets a Luismi",
+      "description": "Enviar documentación/planos de los chalets a Luismi (contacto HubSpot 46001).",
+      "source": "text",
+      "source_ref": "tg-msg-4986",
+      "created_at": "2026-07-01T17:41:10Z",
+      "due_date": "2026-07-04",
+      "hard_deadline": false,
+      "task_type": null,
+      "manual_priority": 3,
+      "state": "queued",
+      "criteria": null,
+      "evidence": null,
+      "evidence_confirmed_by": null,
+      "closed_at": null,
+      "crm_url": null,
+      "contact_url": "https://app.hubspot.com/contacts/8402338/record/0-1/46001",
+      "contact_name": "Luismi",
+      "contact_phone": "626106916",
+      "contact_email": "aforatouss@gmail.com",
+      "contact_id": "46001",
+      "last_interaction": {
+        "type": "CALL",
+        "ts": "2021-05-31T16:13:22.262Z",
+        "title": "",
+        "preview": "No les interesa el piso, dice que es por el garaje y que está alto de precio, pero al preguntarle por el valor que el percibe que tiene, me dice que no quiere hacer una oferta porque no le interesa el piso. Le digo que es por saber, no para hacer una oferta en firme, dice que no "
+      }
+    },
     {
       "id": "5fe23a60-5e2a-4fd0-b9be-8a4872405bca",
       "title": "Sacar presupuesto acometida/arqueta para Chalet de la Galera (26002)",
