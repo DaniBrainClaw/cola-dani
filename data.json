@@ -1,36 +1,42 @@
 {
-  "generated_at": "2026-07-01T10:07:56.339399+00:00",
-  "generated_at_local": "2026-07-01T12:07:56.339423+02:00",
+  "generated_at": "2026-07-01T10:13:01.052497+00:00",
+  "generated_at_local": "2026-07-01T12:13:01.052521+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
-    "queued": 3,
+    "queued": 2,
     "serving": 1,
-    "done": 10,
+    "done": 11,
     "failed": 2,
     "blocked": 0
   },
   "serving": {
-    "id": "a0669342-e9a4-4bba-9a3e-10962f061857",
-    "title": "Renovar dominio Dindon Living",
-    "description": "Dominio dindonliving.com expira 01/07/2026. RENOVAR HOY/MAÑANA para evitar caída de la web. Email de DonDominio recibido 30/06 12:18. Área de cliente DonDominio → Dominios → Renovables → renovar.",
-    "source": "manual",
-    "source_ref": null,
-    "created_at": "2026-06-30T18:00:48Z",
-    "due_date": "2026-07-01",
-    "hard_deadline": true,
-    "task_type": "administration",
-    "manual_priority": 1,
+    "id": "790f4e5c-c4fe-44ff-9759-6b755d402404",
+    "title": "Llamar a proveedor Adrihosan",
+    "description": "Pedido sanitarios Melero. Confirmar stock modelo Inodoro Meridian Acuario (color blanco). Fecha entrega ideal: semana del 8 julio.",
+    "source": "voice",
+    "source_ref": "tg-msg-1003",
+    "created_at": "2026-06-28T20:52:18Z",
+    "due_date": "2026-07-05",
+    "hard_deadline": false,
+    "task_type": "llamada",
+    "manual_priority": null,
     "state": "serving",
     "criteria": null,
     "evidence": null,
     "evidence_confirmed_by": null,
     "closed_at": null,
     "crm_url": null,
-    "contact_url": null,
-    "contact_name": null,
-    "contact_phone": null,
-    "contact_email": null,
-    "contact_id": null
+    "contact_url": "https://app.hubspot.com/contacts/8402338/record/0-1/97851",
+    "contact_name": "Ricardo Hoyos_ ADRIHOSAN Azulejos",
+    "contact_phone": "+34961957136",
+    "contact_email": "comercial@adrihosan.com",
+    "contact_id": "97851",
+    "last_interaction": {
+      "type": "NOTE",
+      "ts": "2023-03-01T08:31:43.836Z",
+      "title": "",
+      "preview": "ADRIHOSAN Proveedor de azulejos en Valencia (negros lisos 10x10) Contacto: Ricardo Hoyos / comercial@adrihosan.com"
+    }
   },
   "events_today": [
     {
@@ -161,38 +167,32 @@
       "contact_phone": null,
       "contact_email": null,
       "contact_id": null
-    },
-    {
-      "id": "790f4e5c-c4fe-44ff-9759-6b755d402404",
-      "title": "Llamar a proveedor Adrihosan",
-      "description": "Pedido sanitarios Melero. Confirmar stock modelo Inodoro Meridian Acuario (color blanco). Fecha entrega ideal: semana del 8 julio.",
-      "source": "voice",
-      "source_ref": "tg-msg-1003",
-      "created_at": "2026-06-28T20:52:18Z",
-      "due_date": "2026-07-05",
-      "hard_deadline": false,
-      "task_type": "llamada",
-      "manual_priority": null,
-      "state": "queued",
-      "criteria": null,
-      "evidence": null,
-      "evidence_confirmed_by": null,
-      "closed_at": null,
-      "crm_url": null,
-      "contact_url": "https://app.hubspot.com/contacts/8402338/record/0-1/97851",
-      "contact_name": "Ricardo Hoyos_ ADRIHOSAN Azulejos",
-      "contact_phone": "+34961957136",
-      "contact_email": "comercial@adrihosan.com",
-      "contact_id": "97851",
-      "last_interaction": {
-        "type": "NOTE",
-        "ts": "2023-03-01T08:31:43.836Z",
-        "title": "",
-        "preview": "ADRIHOSAN Proveedor de azulejos en Valencia (negros lisos 10x10) Contacto: Ricardo Hoyos / comercial@adrihosan.com"
-      }
     }
   ],
   "recent_done": [
+    {
+      "id": "a0669342-e9a4-4bba-9a3e-10962f061857",
+      "title": "Renovar dominio Dindon Living",
+      "description": "Dominio dindonliving.com expira 01/07/2026. RENOVAR HOY/MAÑANA para evitar caída de la web. Email de DonDominio recibido 30/06 12:18. Área de cliente DonDominio → Dominios → Renovables → renovar.",
+      "source": "manual",
+      "source_ref": null,
+      "created_at": "2026-06-30T18:00:48Z",
+      "due_date": "2026-07-01",
+      "hard_deadline": true,
+      "task_type": "administration",
+      "manual_priority": 1,
+      "state": "done",
+      "criteria": null,
+      "evidence": "DONE: Renovación dominio dindonliving.com realizada por Dani (msg 4858, 01/07/2026 12:12 Berlin). Dominio expiraba 01/07/2026 — Dani confirma hecho.",
+      "evidence_confirmed_by": "human",
+      "closed_at": "2026-07-01T10:12:45Z",
+      "crm_url": null,
+      "contact_url": null,
+      "contact_name": null,
+      "contact_phone": null,
+      "contact_email": null,
+      "contact_id": null
+    },
     {
       "id": "6dbf432e-ddec-4523-a7fc-f91ad004996e",
       "title": "SUBVENCION TERRACOTTA",
@@ -309,34 +309,6 @@
         "title": "Seguimiento con José Luis Borge",
         "preview": "En relación con el correo registrado el jueves, 4 de junio de 2026 13:58"
       }
-    },
-    {
-      "id": "c5c738c6-4d9f-49b4-aead-fad9b072967c",
-      "title": "Cobrar factura Cirbe 4.500€",
-      "description": "Cliente Cirbe, factura vencimiento hoy. Llamar y pasar bizum si dice que no. Tesorería: iban a transferir el viernes pero no llegó. Insistir con Javier (admin).",
-      "source": "voice",
-      "source_ref": "tg-msg-1002",
-      "created_at": "2026-06-28T20:52:18Z",
-      "due_date": "2026-06-28",
-      "hard_deadline": true,
-      "task_type": "cobrar",
-      "manual_priority": null,
-      "state": "done",
-      "criteria": {
-        "cobrado": true,
-        "importe_cobrado": ">=4500"
-      },
-      "evidence": {
-        "nota": "Marcada como hecha por Dani en audio 12:28 29/06/2026"
-      },
-      "evidence_confirmed_by": null,
-      "closed_at": null,
-      "crm_url": null,
-      "contact_url": "https://app.hubspot.com/contacts/243825509/contact/12345002",
-      "contact_name": "Javier (admin Cirbe)",
-      "contact_phone": "+34 600 200 300",
-      "contact_email": "admin@cirbe.es",
-      "contact_id": "12345002"
     }
   ],
   "failed": [
