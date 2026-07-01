@@ -1,43 +1,15 @@
 {
-  "generated_at": "2026-07-01T10:13:01.052497+00:00",
-  "generated_at_local": "2026-07-01T12:13:01.052521+02:00",
+  "generated_at": "2026-07-01T10:18:04.204873+00:00",
+  "generated_at_local": "2026-07-01T12:18:04.204893+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 2,
-    "serving": 1,
+    "serving": 0,
     "done": 11,
-    "failed": 2,
+    "failed": 3,
     "blocked": 0
   },
-  "serving": {
-    "id": "790f4e5c-c4fe-44ff-9759-6b755d402404",
-    "title": "Llamar a proveedor Adrihosan",
-    "description": "Pedido sanitarios Melero. Confirmar stock modelo Inodoro Meridian Acuario (color blanco). Fecha entrega ideal: semana del 8 julio.",
-    "source": "voice",
-    "source_ref": "tg-msg-1003",
-    "created_at": "2026-06-28T20:52:18Z",
-    "due_date": "2026-07-05",
-    "hard_deadline": false,
-    "task_type": "llamada",
-    "manual_priority": null,
-    "state": "serving",
-    "criteria": null,
-    "evidence": null,
-    "evidence_confirmed_by": null,
-    "closed_at": null,
-    "crm_url": null,
-    "contact_url": "https://app.hubspot.com/contacts/8402338/record/0-1/97851",
-    "contact_name": "Ricardo Hoyos_ ADRIHOSAN Azulejos",
-    "contact_phone": "+34961957136",
-    "contact_email": "comercial@adrihosan.com",
-    "contact_id": "97851",
-    "last_interaction": {
-      "type": "NOTE",
-      "ts": "2023-03-01T08:31:43.836Z",
-      "title": "",
-      "preview": "ADRIHOSAN Proveedor de azulejos en Valencia (negros lisos 10x10) Contacto: Ricardo Hoyos / comercial@adrihosan.com"
-    }
-  },
+  "serving": null,
   "events_today": [
     {
       "id": "gqim3p7ni81q5srtvlvjljb178",
@@ -360,6 +332,29 @@
       "contact_phone": "",
       "contact_email": null,
       "contact_id": "106401"
+    },
+    {
+      "id": "790f4e5c-c4fe-44ff-9759-6b755d402404",
+      "title": "Llamar a proveedor Adrihosan",
+      "description": "Pedido sanitarios Melero. Confirmar stock modelo Inodoro Meridian Acuario (color blanco). Fecha entrega ideal: semana del 8 julio.",
+      "source": "voice",
+      "source_ref": "tg-msg-1003",
+      "created_at": "2026-06-28T20:52:18Z",
+      "due_date": "2026-07-05",
+      "hard_deadline": false,
+      "task_type": "llamada",
+      "manual_priority": null,
+      "state": "failed",
+      "criteria": null,
+      "evidence": "FAILED: Tarea FALSA — Dani confirma msg 4862 (01/07/2026 12:17 Berlin). No es real.",
+      "evidence_confirmed_by": "human",
+      "closed_at": "2026-07-01T10:17:52Z",
+      "crm_url": null,
+      "contact_url": "https://app.hubspot.com/contacts/8402338/record/0-1/97851",
+      "contact_name": "Ricardo Hoyos_ ADRIHOSAN Azulejos",
+      "contact_phone": "+34961957136",
+      "contact_email": "comercial@adrihosan.com",
+      "contact_id": "97851"
     }
   ],
   "blocked": [],
