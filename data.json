@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T17:42:47.850906+00:00",
-  "generated_at_local": "2026-07-01T19:42:47.850930+02:00",
+  "generated_at": "2026-07-01T17:43:52.962576+00:00",
+  "generated_at_local": "2026-07-01T19:43:52.962634+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 2,
@@ -142,17 +142,11 @@
       "evidence_confirmed_by": null,
       "closed_at": null,
       "crm_url": null,
-      "contact_url": "https://app.hubspot.com/contacts/8402338/record/0-1/46001",
-      "contact_name": "Luismi",
-      "contact_phone": "626106916",
-      "contact_email": "aforatouss@gmail.com",
-      "contact_id": "46001",
-      "last_interaction": {
-        "type": "CALL",
-        "ts": "2021-05-31T16:13:22.262Z",
-        "title": "",
-        "preview": "No les interesa el piso, dice que es por el garaje y que está alto de precio, pero al preguntarle por el valor que el percibe que tiene, me dice que no quiere hacer una oferta porque no le interesa el piso. Le digo que es por saber, no para hacer una oferta en firme, dice que no "
-      }
+      "contact_url": null,
+      "contact_name": null,
+      "contact_phone": null,
+      "contact_email": null,
+      "contact_id": null
     },
     {
       "id": "5fe23a60-5e2a-4fd0-b9be-8a4872405bca",
