@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T21:58:22.895177+00:00",
-  "generated_at_local": "2026-07-03T23:58:22.895200+02:00",
+  "generated_at": "2026-07-03T22:03:25.886940+00:00",
+  "generated_at_local": "2026-07-04T00:03:25.886964+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 3,
@@ -34,132 +34,17 @@
   },
   "events_today": [
     {
-      "id": "k7dfkuvm0k9g78hi6876nl7sd0",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Simancas",
-      "start": "08:30",
-      "start_iso": "2026-07-03T08:30:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=azdkZmt1dm0wazlnNzhoaTY4NzZubDdzZDAgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
-    },
-    {
-      "id": "5pmneslnsn0j7f8r29b88tjpfc",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Recoger notificación Terracotta con vencimiento 5/7",
-      "start": "10:00",
-      "start_iso": "2026-07-03T10:00:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=NXBtbmVzbG5zbjBqN2Y4cjI5Yjg4dGpwZmMgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
-    },
-    {
-      "id": "4r4il59jvpf5bi9uh8hk9ba5ms",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "La galera",
-      "start": "11:00",
-      "start_iso": "2026-07-03T11:00:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=NHI0aWw1OWp2cGY1Ymk5dWg4aGs5YmE1bXMgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
-    },
-    {
-      "id": "pp1sl7r4a0fk1v0kh3ba9lcqh8",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Interruptor Loli",
-      "start": "12:30",
-      "start_iso": "2026-07-03T12:30:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=cHAxc2w3cjRhMGZrMXYwa2gzYmE5bGNxaDggZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
-    },
-    {
-      "id": "cfo7j2chc5mgehmepq8tnv3nn7_20260703T144500Z",
+      "id": "ubbvipmuvk3lvkfq04vfr03jd8_20260704T080000Z",
       "calendar": "daniel.carro.bendito@gmail.com",
       "title": "Recuperacion semana",
-      "start": "16:45",
-      "start_iso": "2026-07-03T16:45:00+02:00",
+      "start": "10:00",
+      "start_iso": "2026-07-04T10:00:00+02:00",
       "all_day": false,
       "location": "",
-      "url": "https://www.google.com/calendar/event?eid=Y2ZvN2oyY2hjNW1nZWhtZXBxOHRudjNubjdfMjAyNjA3MDNUMTQ0NTAwWiBkYW5pZWwuY2Fycm8uYmVuZGl0b0Bt"
-    },
-    {
-      "id": "u9mrajl0oim114221udreck04g",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Pagar nóminas",
-      "start": "17:00",
-      "start_iso": "2026-07-03T17:00:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=dTltcmFqbDBvaW0xMTQyMjF1ZHJlY2swNGcgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
-    },
-    {
-      "id": "g4qd9p4hckpms5t262j7cb33f8",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Green axis",
-      "start": "18:00",
-      "start_iso": "2026-07-03T18:00:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=ZzRxZDlwNGhja3BtczV0MjYyajdjYjMzZjggZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+      "url": "https://www.google.com/calendar/event?eid=dWJidmlwbXV2azNsdmtmcTA0dmZyMDNqZDhfMjAyNjA3MDRUMDgwMDAwWiBkYW5pZWwuY2Fycm8uYmVuZGl0b0Bt"
     }
   ],
-  "crm_today": [
-    {
-      "id": "103854584995",
-      "title": "Seguimiento con Bea Tilo (pareja Ángel Zamarrón)",
-      "type": "TODO",
-      "status": "NOT_STARTED",
-      "priority": "NONE",
-      "due": "2026-07-03T10:00:00Z",
-      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/103854584995"
-    },
-    {
-      "id": "110617746056",
-      "title": "Seguimiento con David Rodríguez Toldolid",
-      "type": "TODO",
-      "status": "NOT_STARTED",
-      "priority": "NONE",
-      "due": "2026-07-03T10:00:00Z",
-      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/110617746056"
-    },
-    {
-      "id": "111273082525",
-      "title": "Seguimiento con Melero arquitecto",
-      "type": "TODO",
-      "status": "NOT_STARTED",
-      "priority": "NONE",
-      "due": "2026-07-03T10:00:00Z",
-      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/111273082525"
-    },
-    {
-      "id": "112189281379",
-      "title": "Llamar a Mario para hablar de Almudena y de Elena",
-      "type": "CALL",
-      "status": "NOT_STARTED",
-      "priority": "HIGH",
-      "due": "2026-07-03T10:00:00Z",
-      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112189281379"
-    },
-    {
-      "id": "112199241070",
-      "title": "Terminar el pedido de las piscinas",
-      "type": "TODO",
-      "status": "NOT_STARTED",
-      "priority": "HIGH",
-      "due": "2026-07-03T10:00:00Z",
-      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112199241070"
-    },
-    {
-      "id": "112327177746",
-      "title": "Devolver llamada Obramat",
-      "type": "CALL",
-      "status": "NOT_STARTED",
-      "priority": "HIGH",
-      "due": "2026-07-03T15:00:00Z",
-      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112327177746"
-    }
-  ],
+  "crm_today": [],
   "queue": [
     {
       "id": "17bef7f1-9102-4014-a552-76a9cda7592b",
