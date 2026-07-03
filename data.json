@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T14:23:55.646836+00:00",
-  "generated_at_local": "2026-07-03T16:23:55.646853+02:00",
+  "generated_at": "2026-07-03T14:28:58.669371+00:00",
+  "generated_at_local": "2026-07-03T16:28:58.669400+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 3,
@@ -95,15 +95,6 @@
     }
   ],
   "crm_today": [
-    {
-      "id": "112180032340",
-      "title": "Reunión con Gonzalo en Simancas",
-      "type": "TODO",
-      "status": "NOT_STARTED",
-      "priority": "HIGH",
-      "due": "2026-07-03T07:00:00Z",
-      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112180032340"
-    },
     {
       "id": "44699357560",
       "title": "Seguimiento con Violeta González",
