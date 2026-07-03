@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T06:03:52.786311+00:00",
-  "generated_at_local": "2026-07-03T08:03:52.786337+02:00",
+  "generated_at": "2026-07-03T06:08:55.418734+00:00",
+  "generated_at_local": "2026-07-03T08:08:55.418755+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 3,
@@ -62,6 +62,16 @@
       "all_day": false,
       "location": "",
       "url": "https://www.google.com/calendar/event?eid=NHI0aWw1OWp2cGY1Ymk5dWg4aGs5YmE1bXMgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+    },
+    {
+      "id": "pp1sl7r4a0fk1v0kh3ba9lcqh8",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "Interruptor Loli",
+      "start": "12:30",
+      "start_iso": "2026-07-03T12:30:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=cHAxc2w3cjRhMGZrMXYwa2gzYmE5bGNxaDggZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     },
     {
       "id": "cfo7j2chc5mgehmepq8tnv3nn7_20260703T144500Z",
