@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T14:28:58.669371+00:00",
-  "generated_at_local": "2026-07-03T16:28:58.669400+02:00",
+  "generated_at": "2026-07-03T14:34:02.014529+00:00",
+  "generated_at_local": "2026-07-03T16:34:02.014554+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 3,
@@ -82,6 +82,16 @@
       "all_day": false,
       "location": "",
       "url": "https://www.google.com/calendar/event?eid=Y2ZvN2oyY2hjNW1nZWhtZXBxOHRudjNubjdfMjAyNjA3MDNUMTQ0NTAwWiBkYW5pZWwuY2Fycm8uYmVuZGl0b0Bt"
+    },
+    {
+      "id": "u9mrajl0oim114221udreck04g",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "Pagar nóminas",
+      "start": "17:00",
+      "start_iso": "2026-07-03T17:00:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=dTltcmFqbDBvaW0xMTQyMjF1ZHJlY2swNGcgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     },
     {
       "id": "g4qd9p4hckpms5t262j7cb33f8",
