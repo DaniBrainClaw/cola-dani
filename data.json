@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T11:01:50.092769+00:00",
-  "generated_at_local": "2026-07-03T13:01:50.092794+02:00",
+  "generated_at": "2026-07-03T11:06:52.810022+00:00",
+  "generated_at_local": "2026-07-03T13:06:52.810042+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 3,
@@ -103,6 +103,15 @@
       "priority": "HIGH",
       "due": "2026-07-03T07:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112180032340"
+    },
+    {
+      "id": "112327177746",
+      "title": "Devolver llamada Obramat",
+      "type": "CALL",
+      "status": "NOT_STARTED",
+      "priority": "HIGH",
+      "due": "2026-07-03T15:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112327177746"
     }
   ],
   "queue": [
