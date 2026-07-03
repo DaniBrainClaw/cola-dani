@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T13:03:07.223562+00:00",
-  "generated_at_local": "2026-07-03T15:03:07.228641+02:00",
+  "generated_at": "2026-07-03T13:08:11.169225+00:00",
+  "generated_at_local": "2026-07-03T15:08:11.169250+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 3,
@@ -103,6 +103,60 @@
       "priority": "HIGH",
       "due": "2026-07-03T07:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112180032340"
+    },
+    {
+      "id": "44699357560",
+      "title": "Seguimiento con Violeta González",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-07-03T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/44699357560"
+    },
+    {
+      "id": "103854584995",
+      "title": "Seguimiento con Bea Tilo (pareja Ángel Zamarrón)",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-07-03T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/103854584995"
+    },
+    {
+      "id": "110617746056",
+      "title": "Seguimiento con David Rodríguez Toldolid",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-07-03T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/110617746056"
+    },
+    {
+      "id": "111273082525",
+      "title": "Seguimiento con Melero arquitecto",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-07-03T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/111273082525"
+    },
+    {
+      "id": "112189281379",
+      "title": "Llamar a Mario para hablar de Almudena y de Elena",
+      "type": "CALL",
+      "status": "NOT_STARTED",
+      "priority": "HIGH",
+      "due": "2026-07-03T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112189281379"
+    },
+    {
+      "id": "112199241070",
+      "title": "Terminar el pedido de las piscinas",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "HIGH",
+      "due": "2026-07-03T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112199241070"
     },
     {
       "id": "112327177746",
