@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T06:22:59.600749+00:00",
-  "generated_at_local": "2026-07-04T08:22:59.600775+02:00",
+  "generated_at": "2026-07-04T06:28:02.041890+00:00",
+  "generated_at_local": "2026-07-04T08:28:02.041911+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 3,
@@ -33,6 +33,16 @@
     "contact_id": null
   },
   "events_today": [
+    {
+      "id": "5pmneslnsn0j7f8r29b88tjpfc",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "Recoger notificación Terracotta con vencimiento 5/7",
+      "start": "09:15",
+      "start_iso": "2026-07-04T09:15:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=NXBtbmVzbG5zbjBqN2Y4cjI5Yjg4dGpwZmMgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+    },
     {
       "id": "ubbvipmuvk3lvkfq04vfr03jd8_20260704T080000Z",
       "calendar": "daniel.carro.bendito@gmail.com",
