@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-04T06:33:04.583019+00:00",
-  "generated_at_local": "2026-07-04T08:33:04.583043+02:00",
+  "generated_at": "2026-07-05T09:47:42.709228+00:00",
+  "generated_at_local": "2026-07-05T11:47:42.709252+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
-    "queued": 3,
+    "queued": 4,
     "serving": 1,
     "done": 11,
     "failed": 3,
@@ -34,24 +34,44 @@
   },
   "events_today": [
     {
-      "id": "5pmneslnsn0j7f8r29b88tjpfc",
+      "id": "84ckjeglnvroucqhd4iemhbils_20260705T010000Z",
       "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Recoger notificación Terracotta con vencimiento 5/7",
-      "start": "09:15",
-      "start_iso": "2026-07-04T09:15:00+02:00",
+      "title": "Prestamo personal BBVA",
+      "start": "03:00",
+      "start_iso": "2026-07-05T03:00:00+02:00",
       "all_day": false,
       "location": "",
-      "url": "https://www.google.com/calendar/event?eid=NXBtbmVzbG5zbjBqN2Y4cjI5Yjg4dGpwZmMgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+      "url": "https://www.google.com/calendar/event?eid=ODRja2plZ2xudnJvdWNxaGQ0aWVtaGJpbHNfMjAyNjA3MDVUMDEwMDAwWiBkYW5pZWwuY2Fycm8uYmVuZGl0b0Bt"
     },
     {
-      "id": "ubbvipmuvk3lvkfq04vfr03jd8_20260704T080000Z",
+      "id": "58ai3h98om3klj6au2oos98pge",
       "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Recuperacion semana",
+      "title": "Subir facturas",
       "start": "10:00",
-      "start_iso": "2026-07-04T10:00:00+02:00",
+      "start_iso": "2026-07-05T10:00:00+02:00",
       "all_day": false,
       "location": "",
-      "url": "https://www.google.com/calendar/event?eid=dWJidmlwbXV2azNsdmtmcTA0dmZyMDNqZDhfMjAyNjA3MDRUMDgwMDAwWiBkYW5pZWwuY2Fycm8uYmVuZGl0b0Bt"
+      "url": "https://www.google.com/calendar/event?eid=NThhaTNoOThvbTNrbGo2YXUyb29zOThwZ2UgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+    },
+    {
+      "id": "u9mrajl0oim114221udreck04g",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "Pagar nóminas",
+      "start": "11:00",
+      "start_iso": "2026-07-05T11:00:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=dTltcmFqbDBvaW0xMTQyMjF1ZHJlY2swNGcgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+    },
+    {
+      "id": "33evna6hk1598alah0hvvg1kmk",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "Isonos fichaje",
+      "start": "11:45",
+      "start_iso": "2026-07-05T11:45:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=MzNldm5hNmhrMTU5OGFsYWgwaHZ2ZzFrbWsgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     }
   ],
   "crm_today": [],
@@ -109,6 +129,29 @@
       "source": "text",
       "source_ref": "tg-msg-4986",
       "created_at": "2026-07-01T17:41:10Z",
+      "due_date": "2026-07-06",
+      "hard_deadline": false,
+      "task_type": null,
+      "manual_priority": 3,
+      "state": "queued",
+      "criteria": null,
+      "evidence": null,
+      "evidence_confirmed_by": null,
+      "closed_at": null,
+      "crm_url": null,
+      "contact_url": null,
+      "contact_name": null,
+      "contact_phone": null,
+      "contact_email": null,
+      "contact_id": null
+    },
+    {
+      "id": "732b3378-1882-46a1-9075-d4a88d0dac6d",
+      "title": "Contestar Asun y Damián",
+      "description": null,
+      "source": "text",
+      "source_ref": "tg-msg-5389",
+      "created_at": "2026-07-04T23:01:57Z",
       "due_date": "2026-07-06",
       "hard_deadline": false,
       "task_type": null,
