@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-07T13:57:20.294389+00:00",
-  "generated_at_local": "2026-07-07T15:57:20.294410+02:00",
+  "generated_at": "2026-07-07T14:02:23.217454+00:00",
+  "generated_at_local": "2026-07-07T16:02:23.217481+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 3,
@@ -54,16 +54,6 @@
       "url": "https://www.google.com/calendar/event?eid=Nmc3dmYwcGRtNDBhMjZiMm0xZm12dTdhOW8gZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     },
     {
-      "id": "4otd133dilehhh5il15kk7fh70",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Multa furgo",
-      "start": "11:00",
-      "start_iso": "2026-07-07T11:00:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=NG90ZDEzM2RpbGVoaGg1aWwxNWtrN2ZoNzAgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
-    },
-    {
       "id": "2mltlaqnt0t2bd3jnu24psojdo",
       "calendar": "daniel.carro.bendito@gmail.com",
       "title": "Pagar factura hormigon El Peral GEDHOSA",
@@ -92,6 +82,26 @@
       "all_day": false,
       "location": "",
       "url": "https://www.google.com/calendar/event?eid=bnZlZzJkaTl1dmZxZnA0N3NmdjFpM3AyMGcgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+    },
+    {
+      "id": "4otd133dilehhh5il15kk7fh70",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "Multa furgo",
+      "start": "18:00",
+      "start_iso": "2026-07-07T18:00:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=NG90ZDEzM2RpbGVoaGg1aWwxNWtrN2ZoNzAgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+    },
+    {
+      "id": "3nfqbdrrdeqntum7vlgv43lm70",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "Cuentas liquidar",
+      "start": "19:00",
+      "start_iso": "2026-07-07T19:00:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=M25mcWJkcnJkZXFudHVtN3ZsZ3Y0M2xtNzAgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     }
   ],
   "crm_today": [
