@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T09:47:42.709228+00:00",
-  "generated_at_local": "2026-07-05T11:47:42.709252+02:00",
+  "generated_at": "2026-07-07T11:32:46.447879+00:00",
+  "generated_at_local": "2026-07-07T13:32:46.447895+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 4,
@@ -34,47 +34,77 @@
   },
   "events_today": [
     {
-      "id": "84ckjeglnvroucqhd4iemhbils_20260705T010000Z",
+      "id": "3su4hfebe38c4lc2llg4smmb5c",
       "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Prestamo personal BBVA",
-      "start": "03:00",
-      "start_iso": "2026-07-05T03:00:00+02:00",
+      "title": "Niños",
+      "start": "08:30",
+      "start_iso": "2026-07-07T08:30:00+02:00",
       "all_day": false,
       "location": "",
-      "url": "https://www.google.com/calendar/event?eid=ODRja2plZ2xudnJvdWNxaGQ0aWVtaGJpbHNfMjAyNjA3MDVUMDEwMDAwWiBkYW5pZWwuY2Fycm8uYmVuZGl0b0Bt"
+      "url": "https://www.google.com/calendar/event?eid=M3N1NGhmZWJlMzhjNGxjMmxsZzRzbW1iNWMgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     },
     {
-      "id": "58ai3h98om3klj6au2oos98pge",
+      "id": "6g7vf0pdm40a26b2m1fmvu7a9o",
       "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Subir facturas",
-      "start": "10:00",
-      "start_iso": "2026-07-05T10:00:00+02:00",
+      "title": "Comprobar encendidos Jairo",
+      "start": "10:15",
+      "start_iso": "2026-07-07T10:15:00+02:00",
       "all_day": false,
       "location": "",
-      "url": "https://www.google.com/calendar/event?eid=NThhaTNoOThvbTNrbGo2YXUyb29zOThwZ2UgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+      "url": "https://www.google.com/calendar/event?eid=Nmc3dmYwcGRtNDBhMjZiMm0xZm12dTdhOW8gZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     },
     {
-      "id": "u9mrajl0oim114221udreck04g",
+      "id": "4otd133dilehhh5il15kk7fh70",
       "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Pagar nóminas",
+      "title": "Multa furgo",
       "start": "11:00",
-      "start_iso": "2026-07-05T11:00:00+02:00",
+      "start_iso": "2026-07-07T11:00:00+02:00",
       "all_day": false,
       "location": "",
-      "url": "https://www.google.com/calendar/event?eid=dTltcmFqbDBvaW0xMTQyMjF1ZHJlY2swNGcgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+      "url": "https://www.google.com/calendar/event?eid=NG90ZDEzM2RpbGVoaGg1aWwxNWtrN2ZoNzAgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     },
     {
-      "id": "33evna6hk1598alah0hvvg1kmk",
+      "id": "2mltlaqnt0t2bd3jnu24psojdo",
       "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Isonos fichaje",
-      "start": "11:45",
-      "start_iso": "2026-07-05T11:45:00+02:00",
+      "title": "Pagar factura hormigon El Peral GEDHOSA",
+      "start": "12:15",
+      "start_iso": "2026-07-07T12:15:00+02:00",
       "all_day": false,
       "location": "",
-      "url": "https://www.google.com/calendar/event?eid=MzNldm5hNmhrMTU5OGFsYWgwaHZ2ZzFrbWsgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+      "url": "https://www.google.com/calendar/event?eid=Mm1sdGxhcW50MHQyYmQzam51MjRwc29qZG8gZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+    },
+    {
+      "id": "atu5o4hngcusk2rt00nq5or5ko",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "Llamar clientes Nacho",
+      "start": "12:45",
+      "start_iso": "2026-07-07T12:45:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=YXR1NW80aG5nY3VzazJydDAwbnE1b3I1a28gZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+    },
+    {
+      "id": "nveg2di9uvfqfp47sfv1i3p20g",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "Alquileres",
+      "start": "17:00",
+      "start_iso": "2026-07-07T17:00:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=bnZlZzJkaTl1dmZxZnA0N3NmdjFpM3AyMGcgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     }
   ],
-  "crm_today": [],
+  "crm_today": [
+    {
+      "id": "112445385647",
+      "title": "Pagar facturas armados El Peral",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "MEDIUM",
+      "due": "2026-07-07T10:15:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112445385647"
+    }
+  ],
   "queue": [
     {
       "id": "17bef7f1-9102-4014-a552-76a9cda7592b",
