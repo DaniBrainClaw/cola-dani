@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-07T21:57:04.703757+00:00",
-  "generated_at_local": "2026-07-07T23:57:04.703782+02:00",
+  "generated_at": "2026-07-07T22:02:07.459398+00:00",
+  "generated_at_local": "2026-07-08T00:02:07.459415+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 3,
@@ -34,77 +34,73 @@
   },
   "events_today": [
     {
-      "id": "3su4hfebe38c4lc2llg4smmb5c",
+      "id": "0ujrfnm41ne579kdafiv4u8vqu",
       "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Niños",
-      "start": "08:30",
-      "start_iso": "2026-07-07T08:30:00+02:00",
+      "title": "Revisión coche 9:30",
+      "start": "09:15",
+      "start_iso": "2026-07-08T09:15:00+02:00",
       "all_day": false,
       "location": "",
-      "url": "https://www.google.com/calendar/event?eid=M3N1NGhmZWJlMzhjNGxjMmxsZzRzbW1iNWMgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+      "url": "https://www.google.com/calendar/event?eid=MHVqcmZubTQxbmU1NzlrZGFmaXY0dTh2cXUgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     },
     {
-      "id": "6g7vf0pdm40a26b2m1fmvu7a9o",
+      "id": "05i7eklplqi02mrlonovsuklao",
       "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Comprobar encendidos Jairo",
-      "start": "10:15",
-      "start_iso": "2026-07-07T10:15:00+02:00",
+      "title": "Contestar compradores madre Ada",
+      "start": "12:30",
+      "start_iso": "2026-07-08T12:30:00+02:00",
       "all_day": false,
       "location": "",
-      "url": "https://www.google.com/calendar/event?eid=Nmc3dmYwcGRtNDBhMjZiMm0xZm12dTdhOW8gZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
-    },
-    {
-      "id": "2mltlaqnt0t2bd3jnu24psojdo",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Pagar factura hormigon El Peral GEDHOSA",
-      "start": "12:15",
-      "start_iso": "2026-07-07T12:15:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=Mm1sdGxhcW50MHQyYmQzam51MjRwc29qZG8gZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
-    },
-    {
-      "id": "atu5o4hngcusk2rt00nq5or5ko",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Llamar clientes Nacho",
-      "start": "12:45",
-      "start_iso": "2026-07-07T12:45:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=YXR1NW80aG5nY3VzazJydDAwbnE1b3I1a28gZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
-    },
-    {
-      "id": "nveg2di9uvfqfp47sfv1i3p20g",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Alquileres",
-      "start": "17:00",
-      "start_iso": "2026-07-07T17:00:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=bnZlZzJkaTl1dmZxZnA0N3NmdjFpM3AyMGcgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
-    },
-    {
-      "id": "4otd133dilehhh5il15kk7fh70",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Multa furgo",
-      "start": "18:00",
-      "start_iso": "2026-07-07T18:00:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=NG90ZDEzM2RpbGVoaGg1aWwxNWtrN2ZoNzAgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
-    },
-    {
-      "id": "3nfqbdrrdeqntum7vlgv43lm70",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Cuentas liquidar",
-      "start": "19:00",
-      "start_iso": "2026-07-07T19:00:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=M25mcWJkcnJkZXFudHVtN3ZsZ3Y0M2xtNzAgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+      "url": "https://www.google.com/calendar/event?eid=MDVpN2VrbHBscWkwMm1ybG9ub3ZzdWtsYW8gZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     }
   ],
-  "crm_today": [],
+  "crm_today": [
+    {
+      "id": "112449291307",
+      "title": "Reclamar pago Cabeza mesada",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "HIGH",
+      "due": "2026-07-08T08:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112449291307"
+    },
+    {
+      "id": "107952887838",
+      "title": "Llamar a Francisco Cura Villabragima — missed call",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-07-08T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/107952887838"
+    },
+    {
+      "id": "112215070480",
+      "title": "Seguimiento con German Empresa Steel Frame",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-07-08T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112215070480"
+    },
+    {
+      "id": "112353961819",
+      "title": "Contestar reclamación",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "MEDIUM",
+      "due": "2026-07-08T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112353961819"
+    },
+    {
+      "id": "112394613670",
+      "title": "Seguimiento con Alana certificado Cliente Nacho inst Vallejo",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-07-08T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112394613670"
+    }
+  ],
   "queue": [
     {
       "id": "17bef7f1-9102-4014-a552-76a9cda7592b",
