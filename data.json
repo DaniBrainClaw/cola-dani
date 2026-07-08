@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T21:55:44.863007+00:00",
-  "generated_at_local": "2026-07-08T23:55:44.863026+02:00",
+  "generated_at": "2026-07-08T22:00:47.907922+00:00",
+  "generated_at_local": "2026-07-09T00:00:47.907953+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 3,
@@ -34,27 +34,113 @@
   },
   "events_today": [
     {
-      "id": "0ujrfnm41ne579kdafiv4u8vqu",
+      "id": "vv85sp23ks7cunj7ihcjjrakjo",
       "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Revisión coche 9:30",
-      "start": "09:15",
-      "start_iso": "2026-07-08T09:15:00+02:00",
+      "title": "Sacar dinero Luis y Manuel",
+      "start": "08:30",
+      "start_iso": "2026-07-09T08:30:00+02:00",
       "all_day": false,
       "location": "",
-      "url": "https://www.google.com/calendar/event?eid=MHVqcmZubTQxbmU1NzlrZGFmaXY0dTh2cXUgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+      "url": "https://www.google.com/calendar/event?eid=dnY4NXNwMjNrczdjdW5qN2loY2pqcmFram8gZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     },
     {
-      "id": "05i7eklplqi02mrlonovsuklao",
+      "id": "c5ft78u7bbhmkv2htt0dfmrg74",
       "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Contestar compradores madre Ada",
-      "start": "12:30",
-      "start_iso": "2026-07-08T12:30:00+02:00",
+      "title": "Quedar clientes Nacho Inst Vallejo",
+      "start": "11:30",
+      "start_iso": "2026-07-09T11:30:00+02:00",
       "all_day": false,
       "location": "",
-      "url": "https://www.google.com/calendar/event?eid=MDVpN2VrbHBscWkwMm1ybG9ub3ZzdWtsYW8gZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+      "url": "https://www.google.com/calendar/event?eid=YzVmdDc4dTdiYmhta3YyaHR0MGRmbXJnNzQgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+    },
+    {
+      "id": "h6li7cs2gepa65g42c8rgkl0o8",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "Llamar Luismi",
+      "start": "12:30",
+      "start_iso": "2026-07-09T12:30:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=aDZsaTdjczJnZXBhNjVnNDJjOHJna2wwbzggZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+    },
+    {
+      "id": "4ahupoupqhg4ar6usg017ucls4",
+      "calendar": "danibrainclaw@gmail.com",
+      "title": "Visita y Medición Ventanal Marta Peral",
+      "start": "18:00",
+      "start_iso": "2026-07-09T18:00:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=NGFodXBvdXBxaGc0YXI2dXNnMDE3dWNsczQgZGFuaWJyYWluY2xhd0Bt"
+    },
+    {
+      "id": "3boooqgjudqo73eq5ahj9j5rgj",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "Visita y Medición Ventanal Marta Peral",
+      "start": "18:00",
+      "start_iso": "2026-07-09T18:00:00+02:00",
+      "all_day": false,
+      "location": "C. Mango, 86, 47008 Valladolid, España",
+      "url": "https://www.google.com/calendar/event?eid=M2Jvb29xZ2p1ZHFvNzNlcTVhaGo5ajVyZ2ogZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+    },
+    {
+      "id": "4ahupoupqhg4ar6usg017ucls4",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "Visita y Medición Ventanal Marta Peral",
+      "start": "18:00",
+      "start_iso": "2026-07-09T18:00:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=NGFodXBvdXBxaGc0YXI2dXNnMDE3dWNsczQgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     }
   ],
-  "crm_today": [],
+  "crm_today": [
+    {
+      "id": "107952887838",
+      "title": "Llamar a Francisco Cura Villabragima — missed call",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-07-09T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/107952887838"
+    },
+    {
+      "id": "112215070480",
+      "title": "Seguimiento con German Empresa Steel Frame",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-07-09T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112215070480"
+    },
+    {
+      "id": "112353961819",
+      "title": "Contestar reclamación",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "MEDIUM",
+      "due": "2026-07-09T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112353961819"
+    },
+    {
+      "id": "112394613670",
+      "title": "Seguimiento con Alana certificado Cliente Nacho inst Vallejo",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-07-09T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112394613670"
+    },
+    {
+      "id": "112449291307",
+      "title": "Reclamar pago Cabeza mesada",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "HIGH",
+      "due": "2026-07-09T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112449291307"
+    }
+  ],
   "queue": [
     {
       "id": "17bef7f1-9102-4014-a552-76a9cda7592b",
