@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T19:23:31.986648+00:00",
-  "generated_at_local": "2026-07-09T21:23:31.986668+02:00",
+  "generated_at": "2026-07-09T19:28:34.711898+00:00",
+  "generated_at_local": "2026-07-09T21:28:34.711919+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 3,
@@ -81,15 +81,6 @@
       "priority": "NONE",
       "due": "2026-07-09T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/107952887838"
-    },
-    {
-      "id": "112215070480",
-      "title": "Seguimiento con German Empresa Steel Frame",
-      "type": "TODO",
-      "status": "NOT_STARTED",
-      "priority": "NONE",
-      "due": "2026-07-09T10:00:00Z",
-      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112215070480"
     },
     {
       "id": "112353961819",
