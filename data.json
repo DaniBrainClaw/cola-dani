@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T20:59:31.006566+00:00",
-  "generated_at_local": "2026-07-09T22:59:31.006586+02:00",
+  "generated_at": "2026-07-09T21:04:33.837000+00:00",
+  "generated_at_local": "2026-07-09T23:04:33.837027+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 2,
@@ -94,53 +94,7 @@
       "url": "https://www.google.com/calendar/event?eid=NGFodXBvdXBxaGc0YXI2dXNnMDE3dWNsczQgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     }
   ],
-  "crm_today": [
-    {
-      "id": "107952887838",
-      "title": "Llamar a Francisco Cura Villabragima — missed call",
-      "type": "TODO",
-      "status": "NOT_STARTED",
-      "priority": "NONE",
-      "due": "2026-07-09T10:00:00Z",
-      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/107952887838"
-    },
-    {
-      "id": "112353961819",
-      "title": "Contestar reclamación",
-      "type": "TODO",
-      "status": "NOT_STARTED",
-      "priority": "MEDIUM",
-      "due": "2026-07-09T10:00:00Z",
-      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112353961819"
-    },
-    {
-      "id": "112394613670",
-      "title": "Seguimiento con Alana certificado Cliente Nacho inst Vallejo",
-      "type": "TODO",
-      "status": "NOT_STARTED",
-      "priority": "NONE",
-      "due": "2026-07-09T10:00:00Z",
-      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112394613670"
-    },
-    {
-      "id": "112449291307",
-      "title": "Reclamar pago Cabeza mesada",
-      "type": "TODO",
-      "status": "NOT_STARTED",
-      "priority": "HIGH",
-      "due": "2026-07-09T10:00:00Z",
-      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112449291307"
-    },
-    {
-      "id": "112558166596",
-      "title": "Llamar a Luismi — confirmar alicatadores piscina (Rodri)",
-      "type": "TODO",
-      "status": "NOT_STARTED",
-      "priority": "HIGH",
-      "due": "2026-07-09T10:00:00Z",
-      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112558166596"
-    }
-  ],
+  "crm_today": [],
   "queue": [
     {
       "id": "17bef7f1-9102-4014-a552-76a9cda7592b",
