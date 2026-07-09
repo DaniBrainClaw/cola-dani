@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T21:55:04.749123+00:00",
-  "generated_at_local": "2026-07-09T23:55:04.749147+02:00",
+  "generated_at": "2026-07-09T22:00:08.013259+00:00",
+  "generated_at_local": "2026-07-10T00:00:08.013286+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 2,
@@ -34,67 +34,93 @@
   },
   "events_today": [
     {
-      "id": "vv85sp23ks7cunj7ihcjjrakjo",
+      "id": "9961k8ijh0cnshbo1k42n0lfp0",
       "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Sacar dinero Luis y Manuel",
+      "title": "Ver estructura Sandra",
       "start": "08:30",
-      "start_iso": "2026-07-09T08:30:00+02:00",
+      "start_iso": "2026-07-10T08:30:00+02:00",
       "all_day": false,
       "location": "",
-      "url": "https://www.google.com/calendar/event?eid=dnY4NXNwMjNrczdjdW5qN2loY2pqcmFram8gZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+      "url": "https://www.google.com/calendar/event?eid=OTk2MWs4aWpoMGNuc2hibzFrNDJuMGxmcDAgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     },
     {
-      "id": "c5ft78u7bbhmkv2htt0dfmrg74",
+      "id": "1dqtibbbg236q2qe0gi07isimn",
       "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Quedar clientes Nacho Inst Vallejo",
-      "start": "11:30",
-      "start_iso": "2026-07-09T11:30:00+02:00",
+      "title": "Recoger notificación terracotta con vencimeinto 7/7",
+      "start": "10:00",
+      "start_iso": "2026-07-10T10:00:00+02:00",
       "all_day": false,
       "location": "",
-      "url": "https://www.google.com/calendar/event?eid=YzVmdDc4dTdiYmhta3YyaHR0MGRmbXJnNzQgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+      "url": "https://www.google.com/calendar/event?eid=MWRxdGliYmJnMjM2cTJxZTBnaTA3aXNpbW4gZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     },
     {
-      "id": "h6li7cs2gepa65g42c8rgkl0o8",
+      "id": "q02ul941gm0seqpdp57gpcq408",
       "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Llamar Luismi",
-      "start": "12:30",
-      "start_iso": "2026-07-09T12:30:00+02:00",
+      "title": "Llamar Jose Ángel",
+      "start": "10:30",
+      "start_iso": "2026-07-10T10:30:00+02:00",
       "all_day": false,
       "location": "",
-      "url": "https://www.google.com/calendar/event?eid=aDZsaTdjczJnZXBhNjVnNDJjOHJna2wwbzggZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+      "url": "https://www.google.com/calendar/event?eid=cTAydWw5NDFnbTBzZXFwZHA1N2dwY3E0MDggZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     },
     {
-      "id": "4ahupoupqhg4ar6usg017ucls4",
-      "calendar": "danibrainclaw@gmail.com",
-      "title": "Visita y Medición Ventanal Marta Peral",
-      "start": "18:00",
-      "start_iso": "2026-07-09T18:00:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=NGFodXBvdXBxaGc0YXI2dXNnMDE3dWNsczQgZGFuaWJyYWluY2xhd0Bt"
-    },
-    {
-      "id": "3boooqgjudqo73eq5ahj9j5rgj",
+      "id": "cfo7j2chc5mgehmepq8tnv3nn7_20260710T144500Z",
       "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Visita y Medición Ventanal Marta Peral",
-      "start": "18:00",
-      "start_iso": "2026-07-09T18:00:00+02:00",
-      "all_day": false,
-      "location": "C. Mango, 86, 47008 Valladolid, España",
-      "url": "https://www.google.com/calendar/event?eid=M2Jvb29xZ2p1ZHFvNzNlcTVhaGo5ajVyZ2ogZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
-    },
-    {
-      "id": "4ahupoupqhg4ar6usg017ucls4",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Visita y Medición Ventanal Marta Peral",
-      "start": "18:00",
-      "start_iso": "2026-07-09T18:00:00+02:00",
+      "title": "Recuperacion semana",
+      "start": "16:45",
+      "start_iso": "2026-07-10T16:45:00+02:00",
       "all_day": false,
       "location": "",
-      "url": "https://www.google.com/calendar/event?eid=NGFodXBvdXBxaGc0YXI2dXNnMDE3dWNsczQgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+      "url": "https://www.google.com/calendar/event?eid=Y2ZvN2oyY2hjNW1nZWhtZXBxOHRudjNubjdfMjAyNjA3MTBUMTQ0NTAwWiBkYW5pZWwuY2Fycm8uYmVuZGl0b0Bt"
     }
   ],
-  "crm_today": [],
+  "crm_today": [
+    {
+      "id": "107952887838",
+      "title": "Llamar a Francisco Cura Villabragima — missed call",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-07-10T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/107952887838"
+    },
+    {
+      "id": "112353961819",
+      "title": "Contestar reclamación",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "MEDIUM",
+      "due": "2026-07-10T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112353961819"
+    },
+    {
+      "id": "112394613670",
+      "title": "Seguimiento con Alana certificado Cliente Nacho inst Vallejo",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-07-10T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112394613670"
+    },
+    {
+      "id": "112449291307",
+      "title": "Reclamar pago Cabeza mesada",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "HIGH",
+      "due": "2026-07-10T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112449291307"
+    },
+    {
+      "id": "112558166596",
+      "title": "Llamar a Luismi — confirmar alicatadores piscina (Rodri)",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "HIGH",
+      "due": "2026-07-10T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112558166596"
+    }
+  ],
   "queue": [
     {
       "id": "17bef7f1-9102-4014-a552-76a9cda7592b",
