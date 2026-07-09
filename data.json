@@ -1,15 +1,37 @@
 {
-  "generated_at": "2026-07-09T19:33:37.476095+00:00",
-  "generated_at_local": "2026-07-09T21:33:37.476117+02:00",
+  "generated_at": "2026-07-09T19:38:40.423205+00:00",
+  "generated_at_local": "2026-07-09T21:38:40.424661+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
-    "queued": 3,
-    "serving": 0,
+    "queued": 2,
+    "serving": 1,
     "done": 13,
     "failed": 3,
     "blocked": 0
   },
-  "serving": null,
+  "serving": {
+    "id": "732b3378-1882-46a1-9075-d4a88d0dac6d",
+    "title": "Contestar Asun y Damián",
+    "description": null,
+    "source": "text",
+    "source_ref": "tg-msg-5389",
+    "created_at": "2026-07-04T23:01:57Z",
+    "due_date": "2026-07-06",
+    "hard_deadline": false,
+    "task_type": null,
+    "manual_priority": 3,
+    "state": "serving",
+    "criteria": null,
+    "evidence": null,
+    "evidence_confirmed_by": null,
+    "closed_at": null,
+    "crm_url": null,
+    "contact_url": null,
+    "contact_name": null,
+    "contact_phone": null,
+    "contact_email": null,
+    "contact_id": null
+  },
   "events_today": [
     {
       "id": "vv85sp23ks7cunj7ihcjjrakjo",
@@ -165,29 +187,6 @@
       "contact_phone": "+34636655220",
       "contact_email": null,
       "contact_id": "201761986432"
-    },
-    {
-      "id": "732b3378-1882-46a1-9075-d4a88d0dac6d",
-      "title": "Contestar Asun y Damián",
-      "description": null,
-      "source": "text",
-      "source_ref": "tg-msg-5389",
-      "created_at": "2026-07-04T23:01:57Z",
-      "due_date": "2026-07-06",
-      "hard_deadline": false,
-      "task_type": null,
-      "manual_priority": 3,
-      "state": "queued",
-      "criteria": null,
-      "evidence": null,
-      "evidence_confirmed_by": null,
-      "closed_at": null,
-      "crm_url": null,
-      "contact_url": null,
-      "contact_name": null,
-      "contact_phone": null,
-      "contact_email": null,
-      "contact_id": null
     }
   ],
   "recent_done": [
