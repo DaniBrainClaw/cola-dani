@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T05:44:35.375919+00:00",
-  "generated_at_local": "2026-07-10T07:44:35.375940+02:00",
+  "generated_at": "2026-07-10T05:49:38.835920+00:00",
+  "generated_at_local": "2026-07-10T07:49:38.835952+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 2,
@@ -62,6 +62,16 @@
       "all_day": false,
       "location": "",
       "url": "https://www.google.com/calendar/event?eid=cTAydWw5NDFnbTBzZXFwZHA1N2dwY3E0MDggZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+    },
+    {
+      "id": "eltfme6d97t0ltpilhgs3eblqk",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "Enviar facturas alquileres a Valentín",
+      "start": "11:30",
+      "start_iso": "2026-07-10T11:30:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=ZWx0Zm1lNmQ5N3QwbHRwaWxoZ3MzZWJscWsgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     },
     {
       "id": "cfo7j2chc5mgehmepq8tnv3nn7_20260710T144500Z",
