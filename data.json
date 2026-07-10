@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T21:59:27.653755+00:00",
-  "generated_at_local": "2026-07-10T23:59:27.653780+02:00",
+  "generated_at": "2026-07-10T22:04:30.054355+00:00",
+  "generated_at_local": "2026-07-11T00:04:30.054382+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 2,
@@ -34,57 +34,90 @@
   },
   "events_today": [
     {
-      "id": "9961k8ijh0cnshbo1k42n0lfp0",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Ver estructura Sandra",
-      "start": "08:30",
-      "start_iso": "2026-07-10T08:30:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=OTk2MWs4aWpoMGNuc2hibzFrNDJuMGxmcDAgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
-    },
-    {
-      "id": "1dqtibbbg236q2qe0gi07isimn",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Recoger notificación terracotta con vencimeinto 7/7",
-      "start": "10:00",
-      "start_iso": "2026-07-10T10:00:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=MWRxdGliYmJnMjM2cTJxZTBnaTA3aXNpbW4gZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
-    },
-    {
-      "id": "q02ul941gm0seqpdp57gpcq408",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Llamar Jose Ángel",
-      "start": "10:30",
-      "start_iso": "2026-07-10T10:30:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=cTAydWw5NDFnbTBzZXFwZHA1N2dwY3E0MDggZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
-    },
-    {
-      "id": "eltfme6d97t0ltpilhgs3eblqk",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Enviar facturas alquileres a Valentín",
-      "start": "11:30",
-      "start_iso": "2026-07-10T11:30:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=ZWx0Zm1lNmQ5N3QwbHRwaWxoZ3MzZWJscWsgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
-    },
-    {
-      "id": "cfo7j2chc5mgehmepq8tnv3nn7_20260710T144500Z",
+      "id": "ubbvipmuvk3lvkfq04vfr03jd8_20260711T080000Z",
       "calendar": "daniel.carro.bendito@gmail.com",
       "title": "Recuperacion semana",
-      "start": "16:45",
-      "start_iso": "2026-07-10T16:45:00+02:00",
+      "start": "10:00",
+      "start_iso": "2026-07-11T10:00:00+02:00",
       "all_day": false,
       "location": "",
-      "url": "https://www.google.com/calendar/event?eid=Y2ZvN2oyY2hjNW1nZWhtZXBxOHRudjNubjdfMjAyNjA3MTBUMTQ0NTAwWiBkYW5pZWwuY2Fycm8uYmVuZGl0b0Bt"
+      "url": "https://www.google.com/calendar/event?eid=dWJidmlwbXV2azNsdmtmcTA0dmZyMDNqZDhfMjAyNjA3MTFUMDgwMDAwWiBkYW5pZWwuY2Fycm8uYmVuZGl0b0Bt"
     }
   ],
-  "crm_today": [],
+  "crm_today": [
+    {
+      "id": "107952887838",
+      "title": "Llamar a Francisco Cura Villabragima — missed call",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-07-11T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/107952887838"
+    },
+    {
+      "id": "112353961819",
+      "title": "Contestar reclamación",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "MEDIUM",
+      "due": "2026-07-11T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112353961819"
+    },
+    {
+      "id": "112394613670",
+      "title": "Seguimiento con Alana certificado Cliente Nacho inst Vallejo",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-07-11T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112394613670"
+    },
+    {
+      "id": "112449291307",
+      "title": "Reclamar pago Cabeza mesada",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "HIGH",
+      "due": "2026-07-11T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112449291307"
+    },
+    {
+      "id": "112558166596",
+      "title": "Llamar a Luismi — confirmar alicatadores piscina (Rodri)",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "HIGH",
+      "due": "2026-07-11T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112558166596"
+    },
+    {
+      "id": "112679539005",
+      "title": "Devolver llamada Christian Lead obra nueva Tudela",
+      "type": "CALL",
+      "status": "NOT_STARTED",
+      "priority": "HIGH",
+      "due": "2026-07-11T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112679539005"
+    },
+    {
+      "id": "112679561077",
+      "title": "Devolver llamada German Empresa Steel Frame",
+      "type": "CALL",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-07-11T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112679561077"
+    },
+    {
+      "id": "112679694625",
+      "title": "Devolver llamada Alejandro _Vecino Rodri El Peral",
+      "type": "CALL",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-07-11T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112679694625"
+    }
+  ],
   "queue": [
     {
       "id": "17bef7f1-9102-4014-a552-76a9cda7592b",
