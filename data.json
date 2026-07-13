@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T21:59:13.609440+00:00",
-  "generated_at_local": "2026-07-13T23:59:13.609459+02:00",
+  "generated_at": "2026-07-13T22:04:16.342667+00:00",
+  "generated_at_local": "2026-07-14T00:04:16.342689+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 2,
@@ -34,67 +34,146 @@
   },
   "events_today": [
     {
-      "id": "pd1phkqon39kaedlkijes2loa8",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Perfiles muros",
-      "start": "08:30",
-      "start_iso": "2026-07-13T08:30:00+02:00",
+      "id": "rulnbjt39smnr2tcq9odr3ilec",
+      "calendar": "danibrainclaw@gmail.com",
+      "title": "Clima bar",
+      "start": "18:30",
+      "start_iso": "2026-07-14T18:30:00+02:00",
       "all_day": false,
       "location": "",
-      "url": "https://www.google.com/calendar/event?eid=cGQxcGhrcW9uMzlrYWVkbGtpamVzMmxvYTggZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+      "url": "https://www.google.com/calendar/event?eid=cnVsbmJqdDM5c21ucjJ0Y3E5b2RyM2lsZWMgZGFuaWJyYWluY2xhd0Bt"
     },
     {
-      "id": "qf37lr800q0dqt486pugf8mo94",
+      "id": "qblc18iiorpmqpi2kkie5v1sdk",
       "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Ventanas Alonso Renedo y Simancas",
-      "start": "10:00",
-      "start_iso": "2026-07-13T10:00:00+02:00",
+      "title": "Clima bar",
+      "start": "18:30",
+      "start_iso": "2026-07-14T18:30:00+02:00",
       "all_day": false,
       "location": "",
-      "url": "https://www.google.com/calendar/event?eid=cWYzN2xyODAwcTBkcXQ0ODZwdWdmOG1vOTQgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+      "url": "https://www.google.com/calendar/event?eid=cWJsYzE4aWlvcnBtcXBpMmtraWU1djFzZGsgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     },
     {
-      "id": "8anl9vkf9jcrj3tiuapkm6dg3g",
+      "id": "rulnbjt39smnr2tcq9odr3ilec",
       "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Contestar Keco",
-      "start": "11:00",
-      "start_iso": "2026-07-13T11:00:00+02:00",
+      "title": "Clima bar",
+      "start": "18:30",
+      "start_iso": "2026-07-14T18:30:00+02:00",
       "all_day": false,
       "location": "",
-      "url": "https://www.google.com/calendar/event?eid=OGFubDl2a2Y5amNyajN0aXVhcGttNmRnM2cgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
-    },
-    {
-      "id": "gjik24hk1vl8guvb6tnipi05as",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Pagar multa furgo",
-      "start": "11:30",
-      "start_iso": "2026-07-13T11:30:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=Z2ppazI0aGsxdmw4Z3V2YjZ0bmlwaTA1YXMgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
-    },
-    {
-      "id": "3boooqgjudqo73eq5ahj9j5rgj",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Visita y Medición Ventanal Marta Peral",
-      "start": "12:00",
-      "start_iso": "2026-07-13T12:00:00+02:00",
-      "all_day": false,
-      "location": "C. Mango, 86, 47008 Valladolid, España",
-      "url": "https://www.google.com/calendar/event?eid=M2Jvb29xZ2p1ZHFvNzNlcTVhaGo5ajVyZ2ogZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
-    },
-    {
-      "id": "v7goesngr904i26f3f6f896dp4",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Multa Furgo",
-      "start": "17:00",
-      "start_iso": "2026-07-13T17:00:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=djdnb2VzbmdyOTA0aTI2ZjNmNmY4OTZkcDQgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+      "url": "https://www.google.com/calendar/event?eid=cnVsbmJqdDM5c21ucjJ0Y3E5b2RyM2lsZWMgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     }
   ],
-  "crm_today": [],
+  "crm_today": [
+    {
+      "id": "107952887838",
+      "title": "Llamar a Francisco Cura Villabragima — missed call",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-07-14T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/107952887838"
+    },
+    {
+      "id": "107964025196",
+      "title": "Seguimeinto obra Octavio HOMIK",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-07-14T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/107964025196"
+    },
+    {
+      "id": "112389924100",
+      "title": "Llamar a Félix para comunicar inicio de trabajos en edificio Eris",
+      "type": "CALL",
+      "status": "NOT_STARTED",
+      "priority": "MEDIUM",
+      "due": "2026-07-14T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112389924100"
+    },
+    {
+      "id": "112394613670",
+      "title": "Seguimiento con Alana certificado Cliente Nacho inst Vallejo",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-07-14T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112394613670"
+    },
+    {
+      "id": "112423242560",
+      "title": "Revisar si contesta Antonio Vilchez",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "MEDIUM",
+      "due": "2026-07-14T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112423242560"
+    },
+    {
+      "id": "112449291307",
+      "title": "Reclamar pago Cabeza mesada",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "HIGH",
+      "due": "2026-07-14T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112449291307"
+    },
+    {
+      "id": "112654508962",
+      "title": "Revisar si Luis ha mandado la estructura calculada",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "HIGH",
+      "due": "2026-07-14T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112654508962"
+    },
+    {
+      "id": "112658285927",
+      "title": "Presentar documentación a Aquavall",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "HIGH",
+      "due": "2026-07-14T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112658285927"
+    },
+    {
+      "id": "112676905577",
+      "title": "Seguimiento con German Empresa Steel Frame",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-07-14T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112676905577"
+    },
+    {
+      "id": "112679539005",
+      "title": "Devolver llamada Christian Lead obra nueva Tudela",
+      "type": "CALL",
+      "status": "NOT_STARTED",
+      "priority": "HIGH",
+      "due": "2026-07-14T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112679539005"
+    },
+    {
+      "id": "112679561077",
+      "title": "Devolver llamada German Empresa Steel Frame",
+      "type": "CALL",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-07-14T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112679561077"
+    },
+    {
+      "id": "112679694625",
+      "title": "Devolver llamada Alejandro _Vecino Rodri El Peral",
+      "type": "CALL",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-07-14T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112679694625"
+    }
+  ],
   "queue": [
     {
       "id": "17bef7f1-9102-4014-a552-76a9cda7592b",
