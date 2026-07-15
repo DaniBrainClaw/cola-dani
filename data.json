@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T10:15:43.010661+00:00",
-  "generated_at_local": "2026-07-15T12:15:43.010685+02:00",
+  "generated_at": "2026-07-15T10:20:45.884511+00:00",
+  "generated_at_local": "2026-07-15T12:20:45.884534+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 2,
@@ -315,6 +315,6 @@
   },
   "errors": {
     "calendar": null,
-    "hubspot": "requests_not_installed"
+    "hubspot": null
   }
 }
