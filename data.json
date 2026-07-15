@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T22:38:02.719804+00:00",
-  "generated_at_local": "2026-07-16T00:38:02.719823+02:00",
+  "generated_at": "2026-07-15T22:43:05.681152+00:00",
+  "generated_at_local": "2026-07-16T00:43:05.681176+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 2,
@@ -32,7 +32,48 @@
     "contact_email": null,
     "contact_id": null
   },
-  "events_today": [],
+  "events_today": [
+    {
+      "id": "849ov5e5m5cpq00644k8vfb87g",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "Informe pericial",
+      "start": "08:30",
+      "start_iso": "2026-07-16T08:30:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=ODQ5b3Y1ZTVtNWNwcTAwNjQ0azh2ZmI4N2cgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+    },
+    {
+      "id": "t76p36kohbhkb0qqhntlk7r81s",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "Medir fijos",
+      "start": "10:00",
+      "start_iso": "2026-07-16T10:00:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=dDc2cDM2a29oYmhrYjBxcWhudGxrN3I4MXMgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+    },
+    {
+      "id": "pthma1qid2aivrdc0iu612kjgc",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "Aerotermia",
+      "start": "11:00",
+      "start_iso": "2026-07-16T11:00:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=cHRobWExcWlkMmFpdnJkYzBpdTYxMmtqZ2MgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+    },
+    {
+      "id": "r3givlo46igsjmutlv574f87ds",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "Toldo",
+      "start": "12:30",
+      "start_iso": "2026-07-16T12:30:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=cjNnaXZsbzQ2aWdzam11dGx2NTc0Zjg3ZHMgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+    }
+  ],
   "crm_today": [
     {
       "id": "107952887838",
