@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T21:56:37.978394+00:00",
-  "generated_at_local": "2026-07-16T23:56:37.978428+02:00",
+  "generated_at": "2026-07-16T22:01:40.895431+00:00",
+  "generated_at_local": "2026-07-17T00:01:40.895449+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 2,
@@ -34,47 +34,173 @@
   },
   "events_today": [
     {
-      "id": "849ov5e5m5cpq00644k8vfb87g",
+      "id": "3pojqsom4smj52tbr7r7u2lin1",
       "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Informe pericial",
-      "start": "08:30",
-      "start_iso": "2026-07-16T08:30:00+02:00",
+      "title": "Brico",
+      "start": "07:30",
+      "start_iso": "2026-07-17T07:30:00+02:00",
       "all_day": false,
       "location": "",
-      "url": "https://www.google.com/calendar/event?eid=ODQ5b3Y1ZTVtNWNwcTAwNjQ0azh2ZmI4N2cgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+      "url": "https://www.google.com/calendar/event?eid=M3BvanFzb200c21qNTJ0YnI3cjd1MmxpbjEgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     },
     {
-      "id": "t76p36kohbhkb0qqhntlk7r81s",
+      "id": "g8irdocrcfrudnh0lim0l56npk",
       "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Medir fijos",
-      "start": "10:00",
-      "start_iso": "2026-07-16T10:00:00+02:00",
+      "title": "Rodri",
+      "start": "09:00",
+      "start_iso": "2026-07-17T09:00:00+02:00",
       "all_day": false,
       "location": "",
-      "url": "https://www.google.com/calendar/event?eid=dDc2cDM2a29oYmhrYjBxcWhudGxrN3I4MXMgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+      "url": "https://www.google.com/calendar/event?eid=ZzhpcmRvY3JjZnJ1ZG5oMGxpbTBsNTZucGsgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     },
     {
-      "id": "pthma1qid2aivrdc0iu612kjgc",
+      "id": "cfo7j2chc5mgehmepq8tnv3nn7_20260717T144500Z",
       "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Aerotermia",
-      "start": "11:00",
-      "start_iso": "2026-07-16T11:00:00+02:00",
+      "title": "Recuperacion semana",
+      "start": "16:45",
+      "start_iso": "2026-07-17T16:45:00+02:00",
       "all_day": false,
       "location": "",
-      "url": "https://www.google.com/calendar/event?eid=cHRobWExcWlkMmFpdnJkYzBpdTYxMmtqZ2MgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
-    },
-    {
-      "id": "r3givlo46igsjmutlv574f87ds",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Toldo",
-      "start": "12:30",
-      "start_iso": "2026-07-16T12:30:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=cjNnaXZsbzQ2aWdzam11dGx2NTc0Zjg3ZHMgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+      "url": "https://www.google.com/calendar/event?eid=Y2ZvN2oyY2hjNW1nZWhtZXBxOHRudjNubjdfMjAyNjA3MTdUMTQ0NTAwWiBkYW5pZWwuY2Fycm8uYmVuZGl0b0Bt"
     }
   ],
-  "crm_today": [],
+  "crm_today": [
+    {
+      "id": "107952887838",
+      "title": "Llamar a Francisco Cura Villabragima — missed call",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-07-17T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/107952887838"
+    },
+    {
+      "id": "107964025196",
+      "title": "Seguimeinto obra Octavio HOMIK",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-07-17T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/107964025196"
+    },
+    {
+      "id": "112389924100",
+      "title": "Llamar a Félix para comunicar inicio de trabajos en edificio Eris",
+      "type": "CALL",
+      "status": "NOT_STARTED",
+      "priority": "MEDIUM",
+      "due": "2026-07-17T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112389924100"
+    },
+    {
+      "id": "112394613670",
+      "title": "Seguimiento con Alana certificado Cliente Nacho inst Vallejo",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-07-17T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112394613670"
+    },
+    {
+      "id": "112423242560",
+      "title": "Revisar si contesta Antonio Vilchez",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "MEDIUM",
+      "due": "2026-07-17T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112423242560"
+    },
+    {
+      "id": "112425489254",
+      "title": "Quedar con Melero y Natividad cuando tengan licencia",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "MEDIUM",
+      "due": "2026-07-17T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112425489254"
+    },
+    {
+      "id": "112449291307",
+      "title": "Reclamar pago Cabeza mesada",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "HIGH",
+      "due": "2026-07-17T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112449291307"
+    },
+    {
+      "id": "112555762226",
+      "title": "Mover con Luismi — Terracotta (pantalla LED móvil)",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "MEDIUM",
+      "due": "2026-07-17T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112555762226"
+    },
+    {
+      "id": "112654508962",
+      "title": "Revisar si Luis ha mandado la estructura calculada",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "HIGH",
+      "due": "2026-07-17T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112654508962"
+    },
+    {
+      "id": "112658285927",
+      "title": "Presentar documentación a Aquavall",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "HIGH",
+      "due": "2026-07-17T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112658285927"
+    },
+    {
+      "id": "112676905577",
+      "title": "Seguimiento con German Empresa Steel Frame",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-07-17T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112676905577"
+    },
+    {
+      "id": "112679539005",
+      "title": "Devolver llamada Christian Lead obra nueva Tudela",
+      "type": "CALL",
+      "status": "NOT_STARTED",
+      "priority": "HIGH",
+      "due": "2026-07-17T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112679539005"
+    },
+    {
+      "id": "112679561077",
+      "title": "Devolver llamada German Empresa Steel Frame",
+      "type": "CALL",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-07-17T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112679561077"
+    },
+    {
+      "id": "112679694625",
+      "title": "Devolver llamada Alejandro _Vecino Rodri El Peral",
+      "type": "CALL",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-07-17T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112679694625"
+    },
+    {
+      "id": "112999049775",
+      "title": "Devolver llamada Gema Valencia_Axactor Abogados",
+      "type": "CALL",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-07-17T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112999049775"
+    }
+  ],
   "queue": [
     {
       "id": "17bef7f1-9102-4014-a552-76a9cda7592b",
