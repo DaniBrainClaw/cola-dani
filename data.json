@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T21:06:09.870829+00:00",
-  "generated_at_local": "2026-07-16T23:06:09.870853+02:00",
+  "generated_at": "2026-07-16T21:11:13.171060+00:00",
+  "generated_at_local": "2026-07-16T23:11:13.171079+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 2,
@@ -106,7 +106,7 @@
       "source": "voice",
       "source_ref": "tg-msg-4775",
       "created_at": "2026-07-01T07:29:04Z",
-      "due_date": "2026-07-02",
+      "due_date": "2026-07-17",
       "hard_deadline": false,
       "task_type": "voice",
       "manual_priority": null,
