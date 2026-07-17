@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T05:05:22.766051+00:00",
-  "generated_at_local": "2026-07-17T07:05:22.766071+02:00",
+  "generated_at": "2026-07-17T05:10:25.080854+00:00",
+  "generated_at_local": "2026-07-17T07:10:25.080876+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 2,
@@ -52,6 +52,16 @@
       "all_day": false,
       "location": "",
       "url": "https://www.google.com/calendar/event?eid=ZzhpcmRvY3JjZnJ1ZG5oMGxpbTBsNTZucGsgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+    },
+    {
+      "id": "rllt9opcjngtiu5p54e39h6na8",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "Quedar certificado",
+      "start": "10:00",
+      "start_iso": "2026-07-17T10:00:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=cmxsdDlvcGNqbmd0aXU1cDU0ZTM5aDZuYTggZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     },
     {
       "id": "cfo7j2chc5mgehmepq8tnv3nn7_20260717T144500Z",
