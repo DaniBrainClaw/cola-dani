@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T22:56:35.949382+00:00",
-  "generated_at_local": "2026-07-20T00:56:35.949402+02:00",
+  "generated_at": "2026-07-19T23:01:38.828648+00:00",
+  "generated_at_local": "2026-07-20T01:01:38.828667+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 2,
@@ -34,14 +34,24 @@
   },
   "events_today": [
     {
-      "id": "ujm1nqba01l19omles5es6tqt4",
+      "id": "hff3u5sdotrcbil4k8hurqgp6c",
       "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Subvencion Terracotta",
+      "title": "Llamar Luismi",
+      "start": "08:30",
+      "start_iso": "2026-07-20T08:30:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=aGZmM3U1c2RvdHJjYmlsNGs4aHVycWdwNmMgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+    },
+    {
+      "id": "ob0drr1dg293j2d3dc8a9etpms",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "Certificado Mucientes",
       "start": "10:00",
       "start_iso": "2026-07-20T10:00:00+02:00",
       "all_day": false,
       "location": "",
-      "url": "https://www.google.com/calendar/event?eid=dWptMW5xYmEwMWwxOW9tbGVzNWVzNnRxdDQgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+      "url": "https://www.google.com/calendar/event?eid=b2IwZHJyMWRnMjkzajJkM2RjOGE5ZXRwbXMgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     }
   ],
   "crm_today": [
