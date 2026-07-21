@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T22:04:50.482256+00:00",
-  "generated_at_local": "2026-07-22T00:04:50.482280+02:00",
+  "generated_at": "2026-07-21T22:09:54.107503+00:00",
+  "generated_at_local": "2026-07-22T00:09:54.107525+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 2,
@@ -33,6 +33,16 @@
     "contact_id": null
   },
   "events_today": [
+    {
+      "id": "6kmr9pcjgudpghaqt7kl615vcg",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "Peral",
+      "start": "08:30",
+      "start_iso": "2026-07-22T08:30:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=NmttcjlwY2pndWRwZ2hhcXQ3a2w2MTV2Y2cgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+    },
     {
       "id": "09527l34l100678pdf4db719vv",
       "calendar": "daniel.carro.bendito@gmail.com",
