@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T15:25:34.643899+00:00",
-  "generated_at_local": "2026-07-22T17:25:34.643920+02:00",
+  "generated_at": "2026-07-22T15:30:37.997442+00:00",
+  "generated_at_local": "2026-07-22T17:30:37.997465+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 2,
@@ -197,8 +197,17 @@
       "type": "CALL",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-07-22T10:00:00Z",
+      "due": "2026-07-22T16:30:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113163982390"
+    },
+    {
+      "id": "113515359090",
+      "title": "Factura trípticos Croquis",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-07-22T16:30:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113515359090"
     }
   ],
   "queue": [
