@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T15:20:30.151948+00:00",
-  "generated_at_local": "2026-07-22T17:20:30.151977+02:00",
+  "generated_at": "2026-07-22T15:25:34.643899+00:00",
+  "generated_at_local": "2026-07-22T17:25:34.643920+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 2,
@@ -163,15 +163,6 @@
       "priority": "NONE",
       "due": "2026-07-22T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112676905577"
-    },
-    {
-      "id": "112679539005",
-      "title": "Devolver llamada Christian Lead obra nueva Tudela",
-      "type": "CALL",
-      "status": "NOT_STARTED",
-      "priority": "HIGH",
-      "due": "2026-07-22T10:00:00Z",
-      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112679539005"
     },
     {
       "id": "112679561077",
