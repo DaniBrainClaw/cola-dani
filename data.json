@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T14:14:13.352185+00:00",
-  "generated_at_local": "2026-07-23T16:14:13.352204+02:00",
+  "generated_at": "2026-07-23T14:19:16.656012+00:00",
+  "generated_at_local": "2026-07-23T16:19:16.656040+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 2,
@@ -62,6 +62,16 @@
       "all_day": false,
       "location": "",
       "url": "https://www.google.com/calendar/event?eid=MXZocWozNG04ZDhhZmg3cmNzdHRpOG5zOG8gZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+    },
+    {
+      "id": "09527l34l100678pdf4db719vv",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "Recoger notificación BEM 24/07",
+      "start": "17:15",
+      "start_iso": "2026-07-23T17:15:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=MDk1MjdsMzRsMTAwNjc4cGRmNGRiNzE5dnYgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     }
   ],
   "crm_today": [
