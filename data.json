@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T09:41:16.592754+00:00",
-  "generated_at_local": "2026-07-27T11:41:16.592771+02:00",
+  "generated_at": "2026-07-27T09:46:19.395362+00:00",
+  "generated_at_local": "2026-07-27T11:46:19.395382+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 2,
@@ -42,26 +42,6 @@
       "all_day": false,
       "location": "",
       "url": "https://www.google.com/calendar/event?eid=NnBmODJkcDJwNm5kMDJxYW1yZzlrc2hrbnBfMjAyNjA3MjdUMDYzMDAwWiBkYW5pZWwuY2Fycm8uYmVuZGl0b0Bt"
-    },
-    {
-      "id": "4p0on9v7t0q3vb85sikrsrd0l2",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Recoger notificacion Terracotta 29/07",
-      "start": "10:00",
-      "start_iso": "2026-07-27T10:00:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=NHAwb245djd0MHEzdmI4NXNpa3JzcmQwbDIgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
-    },
-    {
-      "id": "ujm1nqba01l19omles5es6tqt4",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Subvencion Terracotta",
-      "start": "11:00",
-      "start_iso": "2026-07-27T11:00:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=dWptMW5xYmEwMWwxOW9tbGVzNWVzNnRxdDQgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     },
     {
       "id": "4ufkvu5pha9958o1q7j6l21l3j",
