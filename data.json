@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T21:58:20.683273+00:00",
-  "generated_at_local": "2026-07-29T23:58:20.683296+02:00",
+  "generated_at": "2026-07-29T22:03:23.519103+00:00",
+  "generated_at_local": "2026-07-30T00:03:23.519125+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 2,
@@ -34,107 +34,261 @@
   },
   "events_today": [
     {
-      "id": "g2c6dejs3ul52dv3hbtgblg6po",
+      "id": "l4rta1s6f0q3531fq05qmha1c4",
       "calendar": "danibrainclaw@gmail.com",
       "title": "Niños",
       "start": "08:30",
-      "start_iso": "2026-07-29T08:30:00+02:00",
+      "start_iso": "2026-07-30T08:30:00+02:00",
       "all_day": false,
       "location": "",
-      "url": "https://www.google.com/calendar/event?eid=ZzJjNmRlanMzdWw1MmR2M2hidGdibGc2cG8gZGFuaWJyYWluY2xhd0Bt"
+      "url": "https://www.google.com/calendar/event?eid=bDRydGExczZmMHEzNTMxZnEwNXFtaGExYzQgZGFuaWJyYWluY2xhd0Bt"
     },
     {
-      "id": "6pf82dp2p6nd02qamrg9kshknp_20260729T063000Z",
+      "id": "6pf82dp2p6nd02qamrg9kshknp_20260730T063000Z",
       "calendar": "daniel.carro.bendito@gmail.com",
       "title": "Niños",
       "start": "08:30",
-      "start_iso": "2026-07-29T08:30:00+02:00",
+      "start_iso": "2026-07-30T08:30:00+02:00",
       "all_day": false,
       "location": "",
-      "url": "https://www.google.com/calendar/event?eid=NnBmODJkcDJwNm5kMDJxYW1yZzlrc2hrbnBfMjAyNjA3MjlUMDYzMDAwWiBkYW5pZWwuY2Fycm8uYmVuZGl0b0Bt"
+      "url": "https://www.google.com/calendar/event?eid=NnBmODJkcDJwNm5kMDJxYW1yZzlrc2hrbnBfMjAyNjA3MzBUMDYzMDAwWiBkYW5pZWwuY2Fycm8uYmVuZGl0b0Bt"
     },
     {
-      "id": "g2c6dejs3ul52dv3hbtgblg6po",
+      "id": "l4rta1s6f0q3531fq05qmha1c4",
       "calendar": "daniel.carro.bendito@gmail.com",
       "title": "Niños",
       "start": "08:30",
-      "start_iso": "2026-07-29T08:30:00+02:00",
+      "start_iso": "2026-07-30T08:30:00+02:00",
       "all_day": false,
       "location": "",
-      "url": "https://www.google.com/calendar/event?eid=ZzJjNmRlanMzdWw1MmR2M2hidGdibGc2cG8gZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+      "url": "https://www.google.com/calendar/event?eid=bDRydGExczZmMHEzNTMxZnEwNXFtaGExYzQgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     },
     {
-      "id": "pmtc92qgkbmnfi9ep5bvopjah0",
+      "id": "tsj61rkp347rmndd3j7tkqcm14",
+      "calendar": "danibrainclaw@gmail.com",
+      "title": "Llamar aparejador Eris",
+      "start": "09:45",
+      "start_iso": "2026-07-30T09:45:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=dHNqNjFya3AzNDdybW5kZDNqN3RrcWNtMTQgZGFuaWJyYWluY2xhd0Bt"
+    },
+    {
+      "id": "6ir9lm28jr78i6fd8sq44ubc1s",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "Llamar aparejador Eris",
+      "start": "09:45",
+      "start_iso": "2026-07-30T09:45:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=NmlyOWxtMjhqcjc4aTZmZDhzcTQ0dWJjMXMgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+    },
+    {
+      "id": "tsj61rkp347rmndd3j7tkqcm14",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "Llamar aparejador Eris",
+      "start": "09:45",
+      "start_iso": "2026-07-30T09:45:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=dHNqNjFya3AzNDdybW5kZDNqN3RrcWNtMTQgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+    },
+    {
+      "id": "vdbv50u1ljahekj9cu5q792ang",
       "calendar": "danibrainclaw@gmail.com",
       "title": "Poner en marcha Eris",
       "start": "10:00",
-      "start_iso": "2026-07-29T10:00:00+02:00",
+      "start_iso": "2026-07-30T10:00:00+02:00",
       "all_day": false,
       "location": "",
-      "url": "https://www.google.com/calendar/event?eid=cG10YzkycWdrYm1uZmk5ZXA1YnZvcGphaDAgZGFuaWJyYWluY2xhd0Bt"
+      "url": "https://www.google.com/calendar/event?eid=dmRidjUwdTFsamFoZWtqOWN1NXE3OTJhbmcgZGFuaWJyYWluY2xhd0Bt"
     },
     {
-      "id": "pmtc92qgkbmnfi9ep5bvopjah0",
+      "id": "6bv8j93ilmafq3hi1kaaog4t43",
       "calendar": "daniel.carro.bendito@gmail.com",
       "title": "Poner en marcha Eris",
       "start": "10:00",
-      "start_iso": "2026-07-29T10:00:00+02:00",
+      "start_iso": "2026-07-30T10:00:00+02:00",
       "all_day": false,
       "location": "",
-      "url": "https://www.google.com/calendar/event?eid=cG10YzkycWdrYm1uZmk5ZXA1YnZvcGphaDAgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+      "url": "https://www.google.com/calendar/event?eid=NmJ2OGo5M2lsbWFmcTNoaTFrYWFvZzR0NDMgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     },
     {
-      "id": "bmuklau03bk8f6g4r6bt47tit0",
-      "calendar": "danibrainclaw@gmail.com",
-      "title": "Me llama Dani GreenOil dice",
-      "start": "17:00",
-      "start_iso": "2026-07-29T17:00:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=Ym11a2xhdTAzYms4ZjZnNHI2YnQ0N3RpdDAgZGFuaWJyYWluY2xhd0Bt"
-    },
-    {
-      "id": "bmuklau03bk8f6g4r6bt47tit0",
+      "id": "vdbv50u1ljahekj9cu5q792ang",
       "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Me llama Dani GreenOil dice",
-      "start": "17:00",
-      "start_iso": "2026-07-29T17:00:00+02:00",
+      "title": "Poner en marcha Eris",
+      "start": "10:00",
+      "start_iso": "2026-07-30T10:00:00+02:00",
       "all_day": false,
       "location": "",
-      "url": "https://www.google.com/calendar/event?eid=Ym11a2xhdTAzYms4ZjZnNHI2YnQ0N3RpdDAgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+      "url": "https://www.google.com/calendar/event?eid=dmRidjUwdTFsamFoZWtqOWN1NXE3OTJhbmcgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     },
     {
-      "id": "u8ra4rbp3tjrc4k7m2s3o0t2cc",
-      "calendar": "danibrainclaw@gmail.com",
-      "title": "Pachanga",
-      "start": "21:00",
-      "start_iso": "2026-07-29T21:00:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=dThyYTRyYnAzdGpyYzRrN20yczNvMHQyY2MgZGFuaWJyYWluY2xhd0Bt"
-    },
-    {
-      "id": "1km9i3oam5fra2g8oqi9j3qjpa",
+      "id": "ujm1nqba01l19omles5es6tqt4",
       "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Pachanga",
-      "start": "21:00",
-      "start_iso": "2026-07-29T21:00:00+02:00",
+      "title": "Subvencion Terracotta",
+      "start": "11:00",
+      "start_iso": "2026-07-30T11:00:00+02:00",
       "all_day": false,
       "location": "",
-      "url": "https://www.google.com/calendar/event?eid=MWttOWkzb2FtNWZyYTJnOG9xaTlqM3FqcGEgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
-    },
-    {
-      "id": "u8ra4rbp3tjrc4k7m2s3o0t2cc",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Pachanga",
-      "start": "21:00",
-      "start_iso": "2026-07-29T21:00:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=dThyYTRyYnAzdGpyYzRrN20yczNvMHQyY2MgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+      "url": "https://www.google.com/calendar/event?eid=dWptMW5xYmEwMWwxOW9tbGVzNWVzNnRxdDQgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     }
   ],
-  "crm_today": [],
+  "crm_today": [
+    {
+      "id": "107952887838",
+      "title": "Llamar a Francisco Cura Villabragima — missed call",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-07-30T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/107952887838"
+    },
+    {
+      "id": "107964025196",
+      "title": "Seguimeinto obra Octavio HOMIK",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-07-30T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/107964025196"
+    },
+    {
+      "id": "112389924100",
+      "title": "Llamar a Félix para comunicar inicio de trabajos en edificio Eris",
+      "type": "CALL",
+      "status": "NOT_STARTED",
+      "priority": "MEDIUM",
+      "due": "2026-07-30T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112389924100"
+    },
+    {
+      "id": "112394613670",
+      "title": "Seguimiento con Alana certificado Cliente Nacho inst Vallejo",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-07-30T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112394613670"
+    },
+    {
+      "id": "112423242560",
+      "title": "Revisar si contesta Antonio Vilchez",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "MEDIUM",
+      "due": "2026-07-30T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112423242560"
+    },
+    {
+      "id": "112425489254",
+      "title": "Quedar con Melero y Natividad cuando tengan licencia",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "MEDIUM",
+      "due": "2026-07-30T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112425489254"
+    },
+    {
+      "id": "112449291307",
+      "title": "Reclamar pago Cabeza mesada",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "HIGH",
+      "due": "2026-07-30T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112449291307"
+    },
+    {
+      "id": "112555762226",
+      "title": "Mover con Luismi — Terracotta (pantalla LED móvil)",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "MEDIUM",
+      "due": "2026-07-30T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112555762226"
+    },
+    {
+      "id": "112658285927",
+      "title": "Presentar documentación a Aquavall",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "HIGH",
+      "due": "2026-07-30T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112658285927"
+    },
+    {
+      "id": "112679694625",
+      "title": "Devolver llamada Alejandro _Vecino Rodri El Peral",
+      "type": "CALL",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-07-30T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112679694625"
+    },
+    {
+      "id": "112999049775",
+      "title": "Devolver llamada Gema Valencia_Axactor Abogados",
+      "type": "CALL",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-07-30T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112999049775"
+    },
+    {
+      "id": "113163982390",
+      "title": "Devolver llamada ORANGE tema facturación",
+      "type": "CALL",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-07-30T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113163982390"
+    },
+    {
+      "id": "113417652523",
+      "title": "Revisar si ha contestado Mario",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "HIGH",
+      "due": "2026-07-30T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113417652523"
+    },
+    {
+      "id": "113515359090",
+      "title": "Factura trípticos Croquis",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-07-30T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113515359090"
+    },
+    {
+      "id": "113590694029",
+      "title": "Hablar con Cristian (Lead obra nueva Tudela)",
+      "type": "CALL",
+      "status": "NOT_STARTED",
+      "priority": "MEDIUM",
+      "due": "2026-07-30T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113590694029"
+    },
+    {
+      "id": "113719812937",
+      "title": "Seguimiento con German Empresa Steel Frame",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-07-30T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113719812937"
+    },
+    {
+      "id": "113809745053",
+      "title": "Llamar a Santiago _Marido Natividad Chalet Rioseco",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-07-30T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113809745053"
+    }
+  ],
   "queue": [
     {
       "id": "17bef7f1-9102-4014-a552-76a9cda7592b",
