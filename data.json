@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T17:39:19.006267+00:00",
-  "generated_at_local": "2026-07-29T19:39:19.006290+02:00",
+  "generated_at": "2026-07-29T17:44:21.733463+00:00",
+  "generated_at_local": "2026-07-29T19:44:21.733483+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 2,
@@ -74,16 +74,6 @@
       "url": "https://www.google.com/calendar/event?eid=cG10YzkycWdrYm1uZmk5ZXA1YnZvcGphaDAgZGFuaWJyYWluY2xhd0Bt"
     },
     {
-      "id": "6bv8j93ilmafq3hi1kaaog4t43",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Poner en marcha Eris",
-      "start": "10:00",
-      "start_iso": "2026-07-29T10:00:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=NmJ2OGo5M2lsbWFmcTNoaTFrYWFvZzR0NDMgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
-    },
-    {
       "id": "pmtc92qgkbmnfi9ep5bvopjah0",
       "calendar": "daniel.carro.bendito@gmail.com",
       "title": "Poner en marcha Eris",
@@ -112,16 +102,6 @@
       "all_day": false,
       "location": "",
       "url": "https://www.google.com/calendar/event?eid=Ym11a2xhdTAzYms4ZjZnNHI2YnQ0N3RpdDAgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
-    },
-    {
-      "id": "nb8ag2khaee96aoof3np3k0b9k",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Me llama Dani GreenOil dice",
-      "start": "17:00",
-      "start_iso": "2026-07-29T17:00:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=bmI4YWcya2hhZWU5NmFvb2YzbnAzazBiOWsgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     },
     {
       "id": "u8ra4rbp3tjrc4k7m2s3o0t2cc",
