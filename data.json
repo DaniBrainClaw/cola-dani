@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T16:59:12.951645+00:00",
-  "generated_at_local": "2026-07-31T18:59:12.951669+02:00",
+  "generated_at": "2026-07-31T17:04:17.152282+00:00",
+  "generated_at_local": "2026-07-31T19:04:17.152308+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 2,
@@ -122,6 +122,16 @@
       "all_day": false,
       "location": "",
       "url": "https://www.google.com/calendar/event?eid=ZGxpMnFlZ3EzMmVkc2VzbGY0OGt2M2QxbmMgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+    },
+    {
+      "id": "ic271ncbaistemgnp286fjt6gs",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "Wizink",
+      "start": "19:00",
+      "start_iso": "2026-07-31T19:00:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=aWMyNzFuY2JhaXN0ZW1nbnAyODZmanQ2Z3MgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     }
   ],
   "crm_today": [
