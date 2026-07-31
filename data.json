@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T21:57:17.276187+00:00",
-  "generated_at_local": "2026-07-31T23:57:17.276210+02:00",
+  "generated_at": "2026-07-31T22:02:20.493825+00:00",
+  "generated_at_local": "2026-08-01T00:02:20.493850+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 2,
@@ -34,107 +34,180 @@
   },
   "events_today": [
     {
-      "id": "pdha5k52kdlroruh4kunquatks",
-      "calendar": "danibrainclaw@gmail.com",
-      "title": "Niños",
-      "start": "08:30",
-      "start_iso": "2026-07-31T08:30:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=cGRoYTVrNTJrZGxyb3J1aDRrdW5xdWF0a3MgZGFuaWJyYWluY2xhd0Bt"
-    },
-    {
-      "id": "6pf82dp2p6nd02qamrg9kshknp_20260731T063000Z",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Niños",
-      "start": "08:30",
-      "start_iso": "2026-07-31T08:30:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=NnBmODJkcDJwNm5kMDJxYW1yZzlrc2hrbnBfMjAyNjA3MzFUMDYzMDAwWiBkYW5pZWwuY2Fycm8uYmVuZGl0b0Bt"
-    },
-    {
-      "id": "pdha5k52kdlroruh4kunquatks",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Niños",
-      "start": "08:30",
-      "start_iso": "2026-07-31T08:30:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=cGRoYTVrNTJrZGxyb3J1aDRrdW5xdWF0a3MgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
-    },
-    {
-      "id": "gjlc49baacrded5um0r3rn88h4",
-      "calendar": "danibrainclaw@gmail.com",
-      "title": "Consultoria Fixxcal",
-      "start": "09:00",
-      "start_iso": "2026-07-31T09:00:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=Z2psYzQ5YmFhY3JkZWQ1dW0wcjNybjg4aDQgZGFuaWJyYWluY2xhd0Bt"
-    },
-    {
-      "id": "1ik6fhu01lhhr19u0qgoqjtgp1",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Consultoria Fixxcal",
-      "start": "09:00",
-      "start_iso": "2026-07-31T09:00:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=MWlrNmZodTAxbGhocjE5dTBxZ29xanRncDEgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
-    },
-    {
-      "id": "gjlc49baacrded5um0r3rn88h4",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Consultoria Fixxcal",
-      "start": "09:00",
-      "start_iso": "2026-07-31T09:00:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=Z2psYzQ5YmFhY3JkZWQ1dW0wcjNybjg4aDQgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
-    },
-    {
-      "id": "dli2qegq32edseslf48kv3d1nc",
-      "calendar": "danibrainclaw@gmail.com",
-      "title": "Recuperacion semana",
-      "start": "16:45",
-      "start_iso": "2026-07-31T16:45:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=ZGxpMnFlZ3EzMmVkc2VzbGY0OGt2M2QxbmMgZGFuaWJyYWluY2xhd0Bt"
-    },
-    {
-      "id": "cfo7j2chc5mgehmepq8tnv3nn7_20260731T144500Z",
+      "id": "ubbvipmuvk3lvkfq04vfr03jd8_20260801T080000Z",
       "calendar": "daniel.carro.bendito@gmail.com",
       "title": "Recuperacion semana",
-      "start": "16:45",
-      "start_iso": "2026-07-31T16:45:00+02:00",
+      "start": "10:00",
+      "start_iso": "2026-08-01T10:00:00+02:00",
       "all_day": false,
       "location": "",
-      "url": "https://www.google.com/calendar/event?eid=Y2ZvN2oyY2hjNW1nZWhtZXBxOHRudjNubjdfMjAyNjA3MzFUMTQ0NTAwWiBkYW5pZWwuY2Fycm8uYmVuZGl0b0Bt"
-    },
-    {
-      "id": "dli2qegq32edseslf48kv3d1nc",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Recuperacion semana",
-      "start": "16:45",
-      "start_iso": "2026-07-31T16:45:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=ZGxpMnFlZ3EzMmVkc2VzbGY0OGt2M2QxbmMgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
-    },
-    {
-      "id": "ic271ncbaistemgnp286fjt6gs",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Wizink",
-      "start": "19:00",
-      "start_iso": "2026-07-31T19:00:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=aWMyNzFuY2JhaXN0ZW1nbnAyODZmanQ2Z3MgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+      "url": "https://www.google.com/calendar/event?eid=dWJidmlwbXV2azNsdmtmcTA0dmZyMDNqZDhfMjAyNjA4MDFUMDgwMDAwWiBkYW5pZWwuY2Fycm8uYmVuZGl0b0Bt"
     }
   ],
-  "crm_today": [],
+  "crm_today": [
+    {
+      "id": "107952887838",
+      "title": "Llamar a Francisco Cura Villabragima — missed call",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-08-01T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/107952887838"
+    },
+    {
+      "id": "107964025196",
+      "title": "Seguimeinto obra Octavio HOMIK",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-08-01T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/107964025196"
+    },
+    {
+      "id": "112389924100",
+      "title": "Llamar a Félix para comunicar inicio de trabajos en edificio Eris",
+      "type": "CALL",
+      "status": "NOT_STARTED",
+      "priority": "MEDIUM",
+      "due": "2026-08-01T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112389924100"
+    },
+    {
+      "id": "112394613670",
+      "title": "Seguimiento con Alana certificado Cliente Nacho inst Vallejo",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-08-01T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112394613670"
+    },
+    {
+      "id": "112423242560",
+      "title": "Revisar si contesta Antonio Vilchez",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "MEDIUM",
+      "due": "2026-08-01T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112423242560"
+    },
+    {
+      "id": "112425489254",
+      "title": "Quedar con Melero y Natividad cuando tengan licencia",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "MEDIUM",
+      "due": "2026-08-01T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112425489254"
+    },
+    {
+      "id": "112449291307",
+      "title": "Reclamar pago Cabeza mesada",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "HIGH",
+      "due": "2026-08-01T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112449291307"
+    },
+    {
+      "id": "112555762226",
+      "title": "Mover con Luismi — Terracotta (pantalla LED móvil)",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "MEDIUM",
+      "due": "2026-08-01T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112555762226"
+    },
+    {
+      "id": "112658285927",
+      "title": "Presentar documentación a Aquavall",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "HIGH",
+      "due": "2026-08-01T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112658285927"
+    },
+    {
+      "id": "112679694625",
+      "title": "Devolver llamada Alejandro _Vecino Rodri El Peral",
+      "type": "CALL",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-08-01T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112679694625"
+    },
+    {
+      "id": "112999049775",
+      "title": "Devolver llamada Gema Valencia_Axactor Abogados",
+      "type": "CALL",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-08-01T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112999049775"
+    },
+    {
+      "id": "113163982390",
+      "title": "Devolver llamada ORANGE tema facturación",
+      "type": "CALL",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-08-01T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113163982390"
+    },
+    {
+      "id": "113417652523",
+      "title": "Revisar si ha contestado Mario",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "HIGH",
+      "due": "2026-08-01T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113417652523"
+    },
+    {
+      "id": "113515359090",
+      "title": "Factura trípticos Croquis",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-08-01T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113515359090"
+    },
+    {
+      "id": "113590694029",
+      "title": "Hablar con Cristian (Lead obra nueva Tudela)",
+      "type": "CALL",
+      "status": "NOT_STARTED",
+      "priority": "MEDIUM",
+      "due": "2026-08-01T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113590694029"
+    },
+    {
+      "id": "113719812937",
+      "title": "Seguimiento con German Empresa Steel Frame",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-08-01T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113719812937"
+    },
+    {
+      "id": "113809745053",
+      "title": "Llamar a Santiago _Marido Natividad Chalet Rioseco",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-08-01T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113809745053"
+    },
+    {
+      "id": "113927343914",
+      "title": "Llamar a Christian (HCH, obra nueva Tudela)",
+      "type": "CALL",
+      "status": "NOT_STARTED",
+      "priority": "MEDIUM",
+      "due": "2026-08-01T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113927343914"
+    }
+  ],
   "queue": [
     {
       "id": "17bef7f1-9102-4014-a552-76a9cda7592b",
