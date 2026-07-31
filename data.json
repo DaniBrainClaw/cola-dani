@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T08:43:55.217503+00:00",
-  "generated_at_local": "2026-07-31T10:43:55.217527+02:00",
+  "generated_at": "2026-07-31T08:48:58.380226+00:00",
+  "generated_at_local": "2026-07-31T10:48:58.380244+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 2,
@@ -214,15 +214,6 @@
       "priority": "NONE",
       "due": "2026-07-31T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112679694625"
-    },
-    {
-      "id": "112999049775",
-      "title": "Devolver llamada Gema Valencia_Axactor Abogados",
-      "type": "CALL",
-      "status": "NOT_STARTED",
-      "priority": "NONE",
-      "due": "2026-07-31T10:00:00Z",
-      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112999049775"
     },
     {
       "id": "113163982390",
