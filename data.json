@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T22:06:37.748085+00:00",
-  "generated_at_local": "2026-08-03T00:06:37.748105+02:00",
+  "generated_at": "2026-08-02T22:09:36.287282+00:00",
+  "generated_at_local": "2026-08-03T00:09:36.287294+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 2,
@@ -266,6 +266,152 @@
       "priority": "MEDIUM",
       "due": "2026-08-03T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113927343914"
+    }
+  ],
+  "trello_due": [
+    {
+      "name": "Dani-Facturas pendientes proveedores-María-Dani",
+      "shortUrl": "https://trello.com/c/DPJxWjIO",
+      "due": "2026-07-15",
+      "days_until": -19,
+      "is_overdue": true,
+      "has_due": true,
+      "pos": 103.50060607910156
+    },
+    {
+      "name": "Dani-Enviar factura pendiente + escrito finalización intervención Asana-Alicia-Dani",
+      "shortUrl": "https://trello.com/c/NgQgplL4",
+      "due": "",
+      "days_until": 0,
+      "is_overdue": false,
+      "has_due": false,
+      "pos": 106.73500001907348
+    },
+    {
+      "name": "Dani-Enviar documentación banco a Christian Tudela-Alicia-Dani",
+      "shortUrl": "https://trello.com/c/wV9xUsPk",
+      "due": "",
+      "days_until": 0,
+      "is_overdue": false,
+      "has_due": false,
+      "pos": 108.35219698905945
+    },
+    {
+      "name": "Dani-PO26042-Presupuesto Gloria-Alicia-Dani",
+      "shortUrl": "https://trello.com/c/q4sWxwOs",
+      "due": "",
+      "days_until": 0,
+      "is_overdue": false,
+      "has_due": false,
+      "pos": 109.96939395904542
+    },
+    {
+      "name": "Dani-PO26035-Presupuesto Carlos Peral-Alicia-Dani",
+      "shortUrl": "https://trello.com/c/s9uwcXNi",
+      "due": "",
+      "days_until": 0,
+      "is_overdue": false,
+      "has_due": false,
+      "pos": 207.00121215820312
+    },
+    {
+      "name": "Dani-Mandar precio muros medianeros Raúl Peral-Alicia-Dani",
+      "shortUrl": "https://trello.com/c/ZcJ9w3M8",
+      "due": "",
+      "days_until": 0,
+      "is_overdue": false,
+      "has_due": false,
+      "pos": 828.0048486328125
+    },
+    {
+      "name": "Dani-26002 Actualizar presupuesto Sandra-Alicia-Dani",
+      "shortUrl": "https://trello.com/c/kdCAeTTb",
+      "due": "",
+      "days_until": 0,
+      "is_overdue": false,
+      "has_due": false,
+      "pos": 90112.16406321526
+    },
+    {
+      "name": "Dani-Terracotta Precios-María-María",
+      "shortUrl": "https://trello.com/c/XtaQygMk",
+      "due": "",
+      "days_until": 0,
+      "is_overdue": false,
+      "has_due": false,
+      "pos": 114688.16406321526
+    },
+    {
+      "name": "Dani-Paquita Cambio Uso-María-Dani",
+      "shortUrl": "https://trello.com/c/Hkdja79N",
+      "due": "2025-11-28",
+      "days_until": -248,
+      "is_overdue": true,
+      "has_due": true,
+      "pos": 163840.16406321526
+    },
+    {
+      "name": "Dani-PO 25008 ALBA BAÑO MICROCEMENTO-Whatsapp-Dani-Dani",
+      "shortUrl": "https://trello.com/c/lExblrlh",
+      "due": "2025-05-09",
+      "days_until": -451,
+      "is_overdue": true,
+      "has_due": true,
+      "pos": 180224
+    },
+    {
+      "name": "Dani- URGENTE Mantenimiento Estudio-General-General",
+      "shortUrl": "https://trello.com/c/au5g0t5s",
+      "due": "2025-02-13",
+      "days_until": -536,
+      "is_overdue": true,
+      "has_due": true,
+      "pos": 196608.125
+    },
+    {
+      "name": "Dani- DINDON Problema Pasarela Pago-María-María",
+      "shortUrl": "https://trello.com/c/Gd9A0lMI",
+      "due": "",
+      "days_until": 0,
+      "is_overdue": false,
+      "has_due": false,
+      "pos": 245760.125
+    },
+    {
+      "name": "Dani- 23010 RESOLVER DEUDA CHAMORRO-María-Dani",
+      "shortUrl": "https://trello.com/c/wVDtN1mN",
+      "due": "2024-09-27",
+      "days_until": -675,
+      "is_overdue": true,
+      "has_due": true,
+      "pos": 262144.125
+    },
+    {
+      "name": "Diego y María- 21020 remates Pedro Enríquez- Dani- Dani",
+      "shortUrl": "https://trello.com/c/znlC88bX",
+      "due": "2024-08-09",
+      "days_until": -724,
+      "is_overdue": true,
+      "has_due": true,
+      "pos": 278528.125
+    },
+    {
+      "name": "Dani- FácilReforma incluir opciones Baños-María-Dani",
+      "shortUrl": "https://trello.com/c/iLmvEm05",
+      "due": "",
+      "days_until": 0,
+      "is_overdue": false,
+      "has_due": false,
+      "pos": 294912.125
+    },
+    {
+      "name": "Dani-FácilReforma-María-Dani",
+      "shortUrl": "https://trello.com/c/Fo6wuyfX",
+      "due": "2024-03-08",
+      "days_until": -878,
+      "is_overdue": true,
+      "has_due": true,
+      "pos": 311296
     }
   ],
   "queue": [
