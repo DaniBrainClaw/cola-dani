@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T21:56:31.665150+00:00",
-  "generated_at_local": "2026-08-02T23:56:31.665169+02:00",
+  "generated_at": "2026-08-02T22:01:34.720224+00:00",
+  "generated_at_local": "2026-08-03T00:01:34.720245+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 2,
@@ -32,8 +32,242 @@
     "contact_email": null,
     "contact_id": null
   },
-  "events_today": [],
-  "crm_today": [],
+  "events_today": [
+    {
+      "id": "4ddpaju18pt9rr6qm0up8bd85j",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "Preguntar a macontor cuando llegan los sacos de Puma",
+      "start": "07:30",
+      "start_iso": "2026-08-03T07:30:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=NGRkcGFqdTE4cHQ5cnI2cW0wdXA4YmQ4NWogZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+    },
+    {
+      "id": "6pf82dp2p6nd02qamrg9kshknp_20260803T063000Z",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "Niños",
+      "start": "08:30",
+      "start_iso": "2026-08-03T08:30:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=NnBmODJkcDJwNm5kMDJxYW1yZzlrc2hrbnBfMjAyNjA4MDNUMDYzMDAwWiBkYW5pZWwuY2Fycm8uYmVuZGl0b0Bt"
+    },
+    {
+      "id": "475t3m443v01dvmu6hb9e30quk",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "Llamar Salvador",
+      "start": "09:45",
+      "start_iso": "2026-08-03T09:45:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=NDc1dDNtNDQzdjAxZHZtdTZoYjllMzBxdWsgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+    },
+    {
+      "id": "4n9m9elpqgua224gc1gkb8a29j",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "Llamar Felix",
+      "start": "10:00",
+      "start_iso": "2026-08-03T10:00:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=NG45bTllbHBxZ3VhMjI0Z2MxZ2tiOGEyOWogZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+    },
+    {
+      "id": "ic271ncbaistemgnp286fjt6gs",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "Wizink",
+      "start": "12:30",
+      "start_iso": "2026-08-03T12:30:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=aWMyNzFuY2JhaXN0ZW1nbnAyODZmanQ2Z3MgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+    },
+    {
+      "id": "jept9vdqp2sill6a79ckl7mkt4",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "Llamada súper línea Santander",
+      "start": "13:00",
+      "start_iso": "2026-08-03T13:00:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=amVwdDl2ZHFwMnNpbGw2YTc5Y2tsN21rdDQgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+    },
+    {
+      "id": "nb8ag2khaee96aoof3np3k0b9k",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "Me llama Dani GreenOil dice",
+      "start": "17:00",
+      "start_iso": "2026-08-03T17:00:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=bmI4YWcya2hhZWU5NmFvb2YzbnAzazBiOWsgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+    }
+  ],
+  "crm_today": [
+    {
+      "id": "107952887838",
+      "title": "Llamar a Francisco Cura Villabragima — missed call",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-08-03T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/107952887838"
+    },
+    {
+      "id": "107964025196",
+      "title": "Seguimeinto obra Octavio HOMIK",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-08-03T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/107964025196"
+    },
+    {
+      "id": "112389924100",
+      "title": "Llamar a Félix para comunicar inicio de trabajos en edificio Eris",
+      "type": "CALL",
+      "status": "NOT_STARTED",
+      "priority": "MEDIUM",
+      "due": "2026-08-03T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112389924100"
+    },
+    {
+      "id": "112394613670",
+      "title": "Seguimiento con Alana certificado Cliente Nacho inst Vallejo",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-08-03T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112394613670"
+    },
+    {
+      "id": "112423242560",
+      "title": "Revisar si contesta Antonio Vilchez",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "MEDIUM",
+      "due": "2026-08-03T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112423242560"
+    },
+    {
+      "id": "112425489254",
+      "title": "Quedar con Melero y Natividad cuando tengan licencia",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "MEDIUM",
+      "due": "2026-08-03T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112425489254"
+    },
+    {
+      "id": "112449291307",
+      "title": "Reclamar pago Cabeza mesada",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "HIGH",
+      "due": "2026-08-03T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112449291307"
+    },
+    {
+      "id": "112555762226",
+      "title": "Mover con Luismi — Terracotta (pantalla LED móvil)",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "MEDIUM",
+      "due": "2026-08-03T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112555762226"
+    },
+    {
+      "id": "112658285927",
+      "title": "Presentar documentación a Aquavall",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "HIGH",
+      "due": "2026-08-03T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112658285927"
+    },
+    {
+      "id": "112679694625",
+      "title": "Devolver llamada Alejandro _Vecino Rodri El Peral",
+      "type": "CALL",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-08-03T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112679694625"
+    },
+    {
+      "id": "112999049775",
+      "title": "Devolver llamada Gema Valencia_Axactor Abogados",
+      "type": "CALL",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-08-03T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112999049775"
+    },
+    {
+      "id": "113163982390",
+      "title": "Devolver llamada ORANGE tema facturación",
+      "type": "CALL",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-08-03T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113163982390"
+    },
+    {
+      "id": "113417652523",
+      "title": "Revisar si ha contestado Mario",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "HIGH",
+      "due": "2026-08-03T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113417652523"
+    },
+    {
+      "id": "113515359090",
+      "title": "Factura trípticos Croquis",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-08-03T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113515359090"
+    },
+    {
+      "id": "113590694029",
+      "title": "Hablar con Cristian (Lead obra nueva Tudela)",
+      "type": "CALL",
+      "status": "NOT_STARTED",
+      "priority": "MEDIUM",
+      "due": "2026-08-03T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113590694029"
+    },
+    {
+      "id": "113719812937",
+      "title": "Seguimiento con German Empresa Steel Frame",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-08-03T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113719812937"
+    },
+    {
+      "id": "113809745053",
+      "title": "Llamar a Santiago _Marido Natividad Chalet Rioseco",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-08-03T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113809745053"
+    },
+    {
+      "id": "113927343914",
+      "title": "Llamar a Christian (HCH, obra nueva Tudela)",
+      "type": "CALL",
+      "status": "NOT_STARTED",
+      "priority": "MEDIUM",
+      "due": "2026-08-03T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113927343914"
+    }
+  ],
   "queue": [
     {
       "id": "17bef7f1-9102-4014-a552-76a9cda7592b",
