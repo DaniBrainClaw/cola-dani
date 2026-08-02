@@ -291,3 +291,18 @@ async function fetchSnapshot() {
 fetchSnapshot();
 setInterval(fetchSnapshot, REFRESH_MS);
 $("refresh-btn").addEventListener("click", fetchSnapshot);
+
+// ─── Deep-link: abrir sección según hash (Dani 2026-08-03 00:11) ───
+function openSectionFromHash() {
+    const hash = (window.location.hash || "").toLowerCase();
+    if (hash === "#crm-section") {
+        $("crm-body").classList.remove("hidden");
+        $("crm-icon").textContent = "▼";
+    } else if (hash === "#trello-section") {
+        $("trello-body").classList.remove("hidden");
+        $("trello-icon").textContent = "▼";
+    }
+}
+window.addEventListener("hashchange", openSectionFromHash);
+// Pequeño delay para que el primer render haya terminado
+setTimeout(openSectionFromHash, 200);
