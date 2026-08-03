@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T18:01:57.273095+00:00",
-  "generated_at_local": "2026-08-03T20:01:57.273117+02:00",
+  "generated_at": "2026-08-03T18:07:00.351480+00:00",
+  "generated_at_local": "2026-08-03T20:07:00.351494+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 2,
@@ -92,16 +92,6 @@
       "all_day": false,
       "location": "",
       "url": "https://www.google.com/calendar/event?eid=amVwdDl2ZHFwMnNpbGw2YTc5Y2tsN21rdDQgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
-    },
-    {
-      "id": "nb8ag2khaee96aoof3np3k0b9k",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Me llama Dani GreenOil dice",
-      "start": "17:00",
-      "start_iso": "2026-08-03T17:00:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=bmI4YWcya2hhZWU5NmFvb2YzbnAzazBiOWsgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     }
   ],
   "crm_today": [
