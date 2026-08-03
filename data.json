@@ -1,13 +1,22 @@
 {
-  "generated_at": "2026-08-03T21:54:28.099980+00:00",
-  "generated_at_local": "2026-08-03T23:54:28.099993+02:00",
+  "generated_at": "2026-08-03T21:56:04.072246+00:00",
+  "generated_at_local": "2026-08-03T23:56:04.072265+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 1,
     "serving": 1,
     "done": 13,
     "failed": 4,
-    "blocked": 0
+    "blocked": 0,
+    "balance": {
+      "cola_created": 0,
+      "cola_closed": 1,
+      "crm_created": 0,
+      "crm_closed": 0,
+      "trello_touched": 0,
+      "diff": 1,
+      "trend": "📉 −1 (reduciendo)"
+    }
   },
   "serving": {
     "id": "732b3378-1882-46a1-9075-d4a88d0dac6d",
@@ -210,6 +219,24 @@
       "has_due": true,
       "pos": 311296
     }
+  ],
+  "trello_full_ids": [
+    "6a26581d30a13c6814ebdfb6",
+    "6a59eda09522b0a5cb74e7f7",
+    "6a6861a4aa86c33fa0c0fc20",
+    "6a479a176f9b881a65d366d8",
+    "6a55fb26bb9b9f7ff65a5799",
+    "6a427ed0243ce5d277a21c58",
+    "6a1fd71c0b08de6210cca7e2",
+    "6985b3cd2f52c0ab083b386f",
+    "69271a39b520f0903af26717",
+    "68188fa64637114b0f058c75",
+    "6762995b397e41761ccc3167",
+    "672b28664bda83715b2d70a1",
+    "66f174627ef8512488336790",
+    "66b482931fdfe37a3ad4fed8",
+    "65f7f50e2246feea55fb7d77",
+    "65def6ed8b8224220f0c3b15"
   ],
   "queue": [
     {
@@ -469,6 +496,81 @@
     "email_last_sync_ts": null,
     "crm_last_sync_ts": null
   },
+  "seen_ids": {
+    "crm": [],
+    "trello": [
+      "65def6ed8b8224220f0c3b15",
+      "65f7f50e2246feea55fb7d77",
+      "66b482931fdfe37a3ad4fed8",
+      "66f174627ef8512488336790",
+      "672b28664bda83715b2d70a1",
+      "6762995b397e41761ccc3167",
+      "68188fa64637114b0f058c75",
+      "69271a39b520f0903af26717",
+      "6985b3cd2f52c0ab083b386f",
+      "6a1fd71c0b08de6210cca7e2",
+      "6a26581d30a13c6814ebdfb6",
+      "6a427ed0243ce5d277a21c58",
+      "6a479a176f9b881a65d366d8",
+      "6a55fb26bb9b9f7ff65a5799",
+      "6a59eda09522b0a5cb74e7f7",
+      "6a6861a4aa86c33fa0c0fc20"
+    ]
+  },
+  "new_tasks": {
+    "crm": [],
+    "trello": [
+      {
+        "id": "65def6ed8b8224220f0c3b15"
+      },
+      {
+        "id": "65f7f50e2246feea55fb7d77"
+      },
+      {
+        "id": "66b482931fdfe37a3ad4fed8"
+      },
+      {
+        "id": "66f174627ef8512488336790"
+      },
+      {
+        "id": "672b28664bda83715b2d70a1"
+      },
+      {
+        "id": "6762995b397e41761ccc3167"
+      },
+      {
+        "id": "68188fa64637114b0f058c75"
+      },
+      {
+        "id": "69271a39b520f0903af26717"
+      },
+      {
+        "id": "6985b3cd2f52c0ab083b386f"
+      },
+      {
+        "id": "6a1fd71c0b08de6210cca7e2"
+      },
+      {
+        "id": "6a26581d30a13c6814ebdfb6"
+      },
+      {
+        "id": "6a427ed0243ce5d277a21c58"
+      },
+      {
+        "id": "6a479a176f9b881a65d366d8"
+      },
+      {
+        "id": "6a55fb26bb9b9f7ff65a5799"
+      },
+      {
+        "id": "6a59eda09522b0a5cb74e7f7"
+      },
+      {
+        "id": "6a6861a4aa86c33fa0c0fc20"
+      }
+    ]
+  },
+  "has_new": true,
   "errors": {
     "calendar": null,
     "hubspot": null
