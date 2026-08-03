@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T21:56:04.072246+00:00",
-  "generated_at_local": "2026-08-03T23:56:04.072265+02:00",
+  "generated_at": "2026-08-03T21:56:16.859631+00:00",
+  "generated_at_local": "2026-08-03T23:56:16.859647+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 1,
@@ -519,58 +519,9 @@
   },
   "new_tasks": {
     "crm": [],
-    "trello": [
-      {
-        "id": "65def6ed8b8224220f0c3b15"
-      },
-      {
-        "id": "65f7f50e2246feea55fb7d77"
-      },
-      {
-        "id": "66b482931fdfe37a3ad4fed8"
-      },
-      {
-        "id": "66f174627ef8512488336790"
-      },
-      {
-        "id": "672b28664bda83715b2d70a1"
-      },
-      {
-        "id": "6762995b397e41761ccc3167"
-      },
-      {
-        "id": "68188fa64637114b0f058c75"
-      },
-      {
-        "id": "69271a39b520f0903af26717"
-      },
-      {
-        "id": "6985b3cd2f52c0ab083b386f"
-      },
-      {
-        "id": "6a1fd71c0b08de6210cca7e2"
-      },
-      {
-        "id": "6a26581d30a13c6814ebdfb6"
-      },
-      {
-        "id": "6a427ed0243ce5d277a21c58"
-      },
-      {
-        "id": "6a479a176f9b881a65d366d8"
-      },
-      {
-        "id": "6a55fb26bb9b9f7ff65a5799"
-      },
-      {
-        "id": "6a59eda09522b0a5cb74e7f7"
-      },
-      {
-        "id": "6a6861a4aa86c33fa0c0fc20"
-      }
-    ]
+    "trello": []
   },
-  "has_new": true,
+  "has_new": false,
   "errors": {
     "calendar": null,
     "hubspot": null
