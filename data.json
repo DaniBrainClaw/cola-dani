@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T07:38:12.318162+00:00",
-  "generated_at_local": "2026-08-03T09:38:12.318175+02:00",
+  "generated_at": "2026-08-03T07:43:16.487031+00:00",
+  "generated_at_local": "2026-08-03T09:43:16.487046+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 2,
@@ -250,15 +250,6 @@
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113719812937"
     },
     {
-      "id": "113809745053",
-      "title": "Llamar a Santiago _Marido Natividad Chalet Rioseco",
-      "type": "TODO",
-      "status": "NOT_STARTED",
-      "priority": "NONE",
-      "due": "2026-08-03T10:00:00Z",
-      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113809745053"
-    },
-    {
       "id": "113927343914",
       "title": "Llamar a Christian (HCH, obra nueva Tudela)",
       "type": "CALL",
@@ -266,6 +257,15 @@
       "priority": "MEDIUM",
       "due": "2026-08-03T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113927343914"
+    },
+    {
+      "id": "113809745053",
+      "title": "Llamar a Santiago _Marido Natividad Chalet Rioseco",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-08-03T16:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113809745053"
     }
   ],
   "trello_due": [
