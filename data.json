@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T18:07:00.351480+00:00",
-  "generated_at_local": "2026-08-03T20:07:00.351494+02:00",
+  "generated_at": "2026-08-03T18:12:03.443475+00:00",
+  "generated_at_local": "2026-08-03T20:12:03.443488+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 2,
@@ -54,26 +54,6 @@
       "url": "https://www.google.com/calendar/event?eid=NnBmODJkcDJwNm5kMDJxYW1yZzlrc2hrbnBfMjAyNjA4MDNUMDYzMDAwWiBkYW5pZWwuY2Fycm8uYmVuZGl0b0Bt"
     },
     {
-      "id": "475t3m443v01dvmu6hb9e30quk",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Llamar Salvador",
-      "start": "09:45",
-      "start_iso": "2026-08-03T09:45:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=NDc1dDNtNDQzdjAxZHZtdTZoYjllMzBxdWsgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
-    },
-    {
-      "id": "4n9m9elpqgua224gc1gkb8a29j",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Llamar Felix",
-      "start": "10:00",
-      "start_iso": "2026-08-03T10:00:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=NG45bTllbHBxZ3VhMjI0Z2MxZ2tiOGEyOWogZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
-    },
-    {
       "id": "ic271ncbaistemgnp286fjt6gs",
       "calendar": "daniel.carro.bendito@gmail.com",
       "title": "Wizink",
@@ -82,16 +62,6 @@
       "all_day": false,
       "location": "",
       "url": "https://www.google.com/calendar/event?eid=aWMyNzFuY2JhaXN0ZW1nbnAyODZmanQ2Z3MgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
-    },
-    {
-      "id": "jept9vdqp2sill6a79ckl7mkt4",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Llamada súper línea Santander",
-      "start": "13:00",
-      "start_iso": "2026-08-03T13:00:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=amVwdDl2ZHFwMnNpbGw2YTc5Y2tsN21rdDQgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     }
   ],
   "crm_today": [
