@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T07:00:11.008022+00:00",
-  "generated_at_local": "2026-08-04T09:00:11.008041+02:00",
+  "generated_at": "2026-08-04T08:02:44.603857+00:00",
+  "generated_at_local": "2026-08-04T10:02:44.603876+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 1,
@@ -421,15 +421,6 @@
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113515359090"
     },
     {
-      "id": "113590694029",
-      "title": "Hablar con Cristian (Lead obra nueva Tudela)",
-      "type": "CALL",
-      "status": "NOT_STARTED",
-      "priority": "MEDIUM",
-      "due": "2026-08-04T10:00:00Z",
-      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113590694029"
-    },
-    {
       "id": "113719812937",
       "title": "Seguimiento con German Empresa Steel Frame",
       "type": "TODO",
@@ -455,15 +446,6 @@
       "priority": "MEDIUM",
       "due": "2026-08-04T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113924801900"
-    },
-    {
-      "id": "113927343914",
-      "title": "Llamar a Christian (HCH, obra nueva Tudela)",
-      "type": "CALL",
-      "status": "NOT_STARTED",
-      "priority": "MEDIUM",
-      "due": "2026-08-04T10:00:00Z",
-      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113927343914"
     }
   ],
   "trello_due": [
@@ -914,11 +896,9 @@
       "113163982390",
       "113417652523",
       "113515359090",
-      "113590694029",
       "113719812937",
       "113809745053",
-      "113924801900",
-      "113927343914"
+      "113924801900"
     ],
     "trello": [
       "65def6ed8b8224220f0c3b15",
@@ -942,13 +922,9 @@
   },
   "new_tasks": {
     "crm": [],
-    "trello": [
-      {
-        "id": "6a7180dfc7549ce4c77915a8"
-      }
-    ]
+    "trello": []
   },
-  "has_new": true,
+  "has_new": false,
   "errors": {
     "calendar": null,
     "hubspot": null
