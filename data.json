@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T06:00:14.737251+00:00",
-  "generated_at_local": "2026-08-04T08:00:14.737271+02:00",
+  "generated_at": "2026-08-04T06:02:48.802019+00:00",
+  "generated_at_local": "2026-08-04T08:02:48.802049+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 1,
@@ -930,87 +930,10 @@
     ]
   },
   "new_tasks": {
-    "crm": [
-      {
-        "id": "107952887838",
-        "title": "Llamar a Francisco Cura Villabragima — missed call"
-      },
-      {
-        "id": "107964025196",
-        "title": "Seguimeinto obra Octavio HOMIK"
-      },
-      {
-        "id": "112389924100",
-        "title": "Llamar a Félix para comunicar inicio de trabajos en edificio Eris"
-      },
-      {
-        "id": "112394613670",
-        "title": "Seguimiento con Alana certificado Cliente Nacho inst Vallejo"
-      },
-      {
-        "id": "112423242560",
-        "title": "Revisar si contesta Antonio Vilchez"
-      },
-      {
-        "id": "112425489254",
-        "title": "Quedar con Melero y Natividad cuando tengan licencia"
-      },
-      {
-        "id": "112449291307",
-        "title": "Reclamar pago Cabeza mesada"
-      },
-      {
-        "id": "112555762226",
-        "title": "Mover con Luismi — Terracotta (pantalla LED móvil)"
-      },
-      {
-        "id": "112658285927",
-        "title": "Presentar documentación a Aquavall"
-      },
-      {
-        "id": "112679694625",
-        "title": "Devolver llamada Alejandro _Vecino Rodri El Peral"
-      },
-      {
-        "id": "112999049775",
-        "title": "Devolver llamada Gema Valencia_Axactor Abogados"
-      },
-      {
-        "id": "113163982390",
-        "title": "Devolver llamada ORANGE tema facturación"
-      },
-      {
-        "id": "113417652523",
-        "title": "Revisar si ha contestado Mario"
-      },
-      {
-        "id": "113515359090",
-        "title": "Factura trípticos Croquis"
-      },
-      {
-        "id": "113590694029",
-        "title": "Hablar con Cristian (Lead obra nueva Tudela)"
-      },
-      {
-        "id": "113719812937",
-        "title": "Seguimiento con German Empresa Steel Frame"
-      },
-      {
-        "id": "113809745053",
-        "title": "Llamar a Santiago _Marido Natividad Chalet Rioseco"
-      },
-      {
-        "id": "113924801900",
-        "title": "Llamar a José Ángel (seguimiento)"
-      },
-      {
-        "id": "113927343914",
-        "title": "Llamar a Christian (HCH, obra nueva Tudela)"
-      }
-    ],
+    "crm": [],
     "trello": []
   },
-  "has_new": true,
+  "has_new": false,
   "errors": {
     "calendar": null,
     "hubspot": null
