@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T11:02:18.843859+00:00",
-  "generated_at_local": "2026-08-05T13:02:18.843879+02:00",
+  "generated_at": "2026-08-05T12:00:10.704536+00:00",
+  "generated_at_local": "2026-08-05T14:00:10.704556+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 1,
@@ -216,15 +216,6 @@
       "priority": "HIGH",
       "due": "2026-08-05T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114198885305"
-    },
-    {
-      "id": "114200346515",
-      "title": "Llamar director oficina Unicaja (sobre disposiciones hipoteca Natividad)",
-      "type": "TODO",
-      "status": "NOT_STARTED",
-      "priority": "HIGH",
-      "due": "2026-08-05T10:00:00Z",
-      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114200346515"
     }
   ],
   "trello_due": [
@@ -677,8 +668,7 @@
       "113719812937",
       "113924801900",
       "114196569006",
-      "114198885305",
-      "114200346515"
+      "114198885305"
     ],
     "trello": [
       "65def6ed8b8224220f0c3b15",
