@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T06:00:09.645190+00:00",
-  "generated_at_local": "2026-08-05T08:00:09.645212+02:00",
+  "generated_at": "2026-08-05T06:02:10.824996+00:00",
+  "generated_at_local": "2026-08-05T08:02:10.825020+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 1,
@@ -701,23 +701,10 @@
     ]
   },
   "new_tasks": {
-    "crm": [
-      {
-        "id": "114196569006",
-        "title": "Mandar factura ratificada 50.000€ a Natividad (pagados, mitad cada uno)"
-      },
-      {
-        "id": "114198885305",
-        "title": "Avisar a Santiago: NO demoliciones hasta septiembre (riesgo legal)"
-      },
-      {
-        "id": "114200346515",
-        "title": "Llamar director oficina Unicaja (sobre disposiciones hipoteca Natividad)"
-      }
-    ],
+    "crm": [],
     "trello": []
   },
-  "has_new": true,
+  "has_new": false,
   "errors": {
     "calendar": null,
     "hubspot": null
