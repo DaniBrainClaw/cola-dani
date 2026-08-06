@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06T06:00:12.540108+00:00",
-  "generated_at_local": "2026-08-06T08:00:12.540132+02:00",
+  "generated_at": "2026-08-06T07:00:14.081055+00:00",
+  "generated_at_local": "2026-08-06T09:00:14.081084+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 1,
@@ -731,15 +731,10 @@
     ]
   },
   "new_tasks": {
-    "crm": [
-      {
-        "id": "114179339586",
-        "title": "Reunión vivienda Renedo jueves 6 a las 9:15"
-      }
-    ],
+    "crm": [],
     "trello": []
   },
-  "has_new": true,
+  "has_new": false,
   "errors": {
     "calendar": null,
     "hubspot": null
