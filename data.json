@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06T15:02:50.018013+00:00",
-  "generated_at_local": "2026-08-06T17:02:50.018030+02:00",
+  "generated_at": "2026-08-06T16:00:15.382740+00:00",
+  "generated_at_local": "2026-08-06T18:00:15.382758+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 1,
@@ -111,15 +111,6 @@
       "priority": "NONE",
       "due": "2026-08-06T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/107964025196"
-    },
-    {
-      "id": "112389924100",
-      "title": "Llamar a Félix para comunicar inicio de trabajos en edificio Eris",
-      "type": "CALL",
-      "status": "NOT_STARTED",
-      "priority": "MEDIUM",
-      "due": "2026-08-06T10:00:00Z",
-      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112389924100"
     },
     {
       "id": "112394613670",
@@ -693,7 +684,6 @@
     "crm": [
       "107952887838",
       "107964025196",
-      "112389924100",
       "112394613670",
       "112423242560",
       "112449291307",
