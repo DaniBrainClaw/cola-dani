@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T17:03:28.635846+00:00",
-  "generated_at_local": "2026-08-05T19:03:28.635866+02:00",
+  "generated_at": "2026-08-06T06:00:12.540108+00:00",
+  "generated_at_local": "2026-08-06T08:00:12.540132+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 1,
@@ -43,24 +43,54 @@
   },
   "events_today": [
     {
-      "id": "84ckjeglnvroucqhd4iemhbils_20260805T010000Z",
+      "id": "f5ba745lbguth13tulql8oqbvo",
       "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Prestamo personal BBVA",
-      "start": "03:00",
-      "start_iso": "2026-08-05T03:00:00+02:00",
+      "title": "Arreglos ventanas Renedo",
+      "start": "07:30",
+      "start_iso": "2026-08-06T07:30:00+02:00",
       "all_day": false,
       "location": "",
-      "url": "https://www.google.com/calendar/event?eid=ODRja2plZ2xudnJvdWNxaGQ0aWVtaGJpbHNfMjAyNjA4MDVUMDEwMDAwWiBkYW5pZWwuY2Fycm8uYmVuZGl0b0Bt"
+      "url": "https://www.google.com/calendar/event?eid=ZjViYTc0NWxiZ3V0aDEzdHVscWw4b3Fidm8gZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     },
     {
-      "id": "6pf82dp2p6nd02qamrg9kshknp_20260805T063000Z",
+      "id": "6pf82dp2p6nd02qamrg9kshknp_20260806T063000Z",
       "calendar": "daniel.carro.bendito@gmail.com",
       "title": "Niños",
       "start": "08:30",
-      "start_iso": "2026-08-05T08:30:00+02:00",
+      "start_iso": "2026-08-06T08:30:00+02:00",
       "all_day": false,
       "location": "",
-      "url": "https://www.google.com/calendar/event?eid=NnBmODJkcDJwNm5kMDJxYW1yZzlrc2hrbnBfMjAyNjA4MDVUMDYzMDAwWiBkYW5pZWwuY2Fycm8uYmVuZGl0b0Bt"
+      "url": "https://www.google.com/calendar/event?eid=NnBmODJkcDJwNm5kMDJxYW1yZzlrc2hrbnBfMjAyNjA4MDZUMDYzMDAwWiBkYW5pZWwuY2Fycm8uYmVuZGl0b0Bt"
+    },
+    {
+      "id": "31radj966tha551635ihu5jg8a",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "Reunión en obra Renedo",
+      "start": "09:15",
+      "start_iso": "2026-08-06T09:15:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=MzFyYWRqOTY2dGhhNTUxNjM1aWh1NWpnOGEgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+    },
+    {
+      "id": "ckmjdlcrjh5fssi07fmc1tp8j4",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "Reunion en Simancas",
+      "start": "11:00",
+      "start_iso": "2026-08-06T11:00:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=Y2ttamRsY3JqaDVmc3NpMDdmbWMxdHA4ajQgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+    },
+    {
+      "id": "c7cba59ql52c6hfubgp3b7o2g4",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "Kaia",
+      "start": "17:00",
+      "start_iso": "2026-08-06T17:00:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=YzdjYmE1OXFsNTJjNmhmdWJncDNiN28yZzQgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     }
   ],
   "crm_today": [
@@ -70,7 +100,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-05T10:00:00Z",
+      "due": "2026-08-06T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/107952887838"
     },
     {
@@ -79,7 +109,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-05T10:00:00Z",
+      "due": "2026-08-06T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/107964025196"
     },
     {
@@ -88,7 +118,7 @@
       "type": "CALL",
       "status": "NOT_STARTED",
       "priority": "MEDIUM",
-      "due": "2026-08-05T10:00:00Z",
+      "due": "2026-08-06T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112389924100"
     },
     {
@@ -97,7 +127,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-05T10:00:00Z",
+      "due": "2026-08-06T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112394613670"
     },
     {
@@ -106,7 +136,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "MEDIUM",
-      "due": "2026-08-05T10:00:00Z",
+      "due": "2026-08-06T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112423242560"
     },
     {
@@ -115,7 +145,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "HIGH",
-      "due": "2026-08-05T10:00:00Z",
+      "due": "2026-08-06T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112449291307"
     },
     {
@@ -124,7 +154,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "MEDIUM",
-      "due": "2026-08-05T10:00:00Z",
+      "due": "2026-08-06T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112555762226"
     },
     {
@@ -133,7 +163,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "HIGH",
-      "due": "2026-08-05T10:00:00Z",
+      "due": "2026-08-06T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112658285927"
     },
     {
@@ -142,7 +172,7 @@
       "type": "CALL",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-05T10:00:00Z",
+      "due": "2026-08-06T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112679694625"
     },
     {
@@ -151,7 +181,7 @@
       "type": "CALL",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-05T10:00:00Z",
+      "due": "2026-08-06T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112999049775"
     },
     {
@@ -160,7 +190,7 @@
       "type": "CALL",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-05T10:00:00Z",
+      "due": "2026-08-06T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113163982390"
     },
     {
@@ -169,7 +199,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "HIGH",
-      "due": "2026-08-05T10:00:00Z",
+      "due": "2026-08-06T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113417652523"
     },
     {
@@ -178,7 +208,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-05T10:00:00Z",
+      "due": "2026-08-06T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113515359090"
     },
     {
@@ -187,7 +217,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-05T10:00:00Z",
+      "due": "2026-08-06T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113719812937"
     },
     {
@@ -196,8 +226,17 @@
       "type": "CALL",
       "status": "NOT_STARTED",
       "priority": "MEDIUM",
-      "due": "2026-08-05T10:00:00Z",
+      "due": "2026-08-06T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113924801900"
+    },
+    {
+      "id": "114179339586",
+      "title": "Reunión vivienda Renedo jueves 6 a las 9:15",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "HIGH",
+      "due": "2026-08-06T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114179339586"
     },
     {
       "id": "114196569006",
@@ -205,7 +244,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "HIGH",
-      "due": "2026-08-05T10:00:00Z",
+      "due": "2026-08-06T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114196569006"
     },
     {
@@ -214,7 +253,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "HIGH",
-      "due": "2026-08-05T10:00:00Z",
+      "due": "2026-08-06T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114198885305"
     }
   ],
@@ -223,7 +262,7 @@
       "name": "Dani-1526005 Andamio MartaPeral-María-María",
       "shortUrl": "https://trello.com/c/cxvlpO7a",
       "due": "2026-08-06",
-      "days_until": 1,
+      "days_until": 0,
       "is_overdue": false,
       "has_due": true,
       "pos": 77.62545455932617
@@ -232,7 +271,7 @@
       "name": "Dani-Facturas pendientes proveedores-María-Dani",
       "shortUrl": "https://trello.com/c/DPJxWjIO",
       "due": "2026-07-15",
-      "days_until": -21,
+      "days_until": -22,
       "is_overdue": true,
       "has_due": true,
       "pos": 103.50060607910156
@@ -304,7 +343,7 @@
       "name": "Dani-Paquita Cambio Uso-María-Dani",
       "shortUrl": "https://trello.com/c/Hkdja79N",
       "due": "2025-11-28",
-      "days_until": -250,
+      "days_until": -251,
       "is_overdue": true,
       "has_due": true,
       "pos": 163840.16406321526
@@ -313,7 +352,7 @@
       "name": "Dani-PO 25008 ALBA BAÑO MICROCEMENTO-Whatsapp-Dani-Dani",
       "shortUrl": "https://trello.com/c/lExblrlh",
       "due": "2025-05-09",
-      "days_until": -453,
+      "days_until": -454,
       "is_overdue": true,
       "has_due": true,
       "pos": 180224
@@ -322,7 +361,7 @@
       "name": "Dani- URGENTE Mantenimiento Estudio-General-General",
       "shortUrl": "https://trello.com/c/au5g0t5s",
       "due": "2025-02-13",
-      "days_until": -538,
+      "days_until": -539,
       "is_overdue": true,
       "has_due": true,
       "pos": 196608.125
@@ -340,7 +379,7 @@
       "name": "Dani- 23010 RESOLVER DEUDA CHAMORRO-María-Dani",
       "shortUrl": "https://trello.com/c/wVDtN1mN",
       "due": "2024-09-27",
-      "days_until": -677,
+      "days_until": -678,
       "is_overdue": true,
       "has_due": true,
       "pos": 262144.125
@@ -349,7 +388,7 @@
       "name": "Diego y María- 21020 remates Pedro Enríquez- Dani- Dani",
       "shortUrl": "https://trello.com/c/znlC88bX",
       "due": "2024-08-09",
-      "days_until": -726,
+      "days_until": -727,
       "is_overdue": true,
       "has_due": true,
       "pos": 278528.125
@@ -367,7 +406,7 @@
       "name": "Dani-FácilReforma-María-Dani",
       "shortUrl": "https://trello.com/c/Fo6wuyfX",
       "due": "2024-03-08",
-      "days_until": -880,
+      "days_until": -881,
       "is_overdue": true,
       "has_due": true,
       "pos": 311296
@@ -667,6 +706,7 @@
       "113515359090",
       "113719812937",
       "113924801900",
+      "114179339586",
       "114196569006",
       "114198885305"
     ],
@@ -691,10 +731,15 @@
     ]
   },
   "new_tasks": {
-    "crm": [],
+    "crm": [
+      {
+        "id": "114179339586",
+        "title": "Reunión vivienda Renedo jueves 6 a las 9:15"
+      }
+    ],
     "trello": []
   },
-  "has_new": false,
+  "has_new": true,
   "errors": {
     "calendar": null,
     "hubspot": null
