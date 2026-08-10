@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T17:02:20.060114+00:00",
-  "generated_at_local": "2026-08-09T19:02:20.060145+02:00",
+  "generated_at": "2026-08-10T06:00:07.990480+00:00",
+  "generated_at_local": "2026-08-10T08:00:07.990499+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 1,
@@ -42,13 +42,176 @@
     "contact_id": null
   },
   "events_today": [],
-  "crm_today": [],
+  "crm_today": [
+    {
+      "id": "107952887838",
+      "title": "Llamar a Francisco Cura Villabragima — missed call",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-08-10T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/107952887838"
+    },
+    {
+      "id": "107964025196",
+      "title": "Seguimeinto obra Octavio HOMIK",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-08-10T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/107964025196"
+    },
+    {
+      "id": "112394613670",
+      "title": "Seguimiento con Alana certificado Cliente Nacho inst Vallejo",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-08-10T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112394613670"
+    },
+    {
+      "id": "112423242560",
+      "title": "Revisar si contesta Antonio Vilchez",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "MEDIUM",
+      "due": "2026-08-10T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112423242560"
+    },
+    {
+      "id": "112449291307",
+      "title": "Reclamar pago Cabeza mesada",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "HIGH",
+      "due": "2026-08-10T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112449291307"
+    },
+    {
+      "id": "112555762226",
+      "title": "Mover con Luismi — Terracotta (pantalla LED móvil)",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "MEDIUM",
+      "due": "2026-08-10T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112555762226"
+    },
+    {
+      "id": "112658285927",
+      "title": "Presentar documentación a Aquavall",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "HIGH",
+      "due": "2026-08-10T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112658285927"
+    },
+    {
+      "id": "112679694625",
+      "title": "Devolver llamada Alejandro _Vecino Rodri El Peral",
+      "type": "CALL",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-08-10T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112679694625"
+    },
+    {
+      "id": "112999049775",
+      "title": "Devolver llamada Gema Valencia_Axactor Abogados",
+      "type": "CALL",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-08-10T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112999049775"
+    },
+    {
+      "id": "113163982390",
+      "title": "Devolver llamada ORANGE tema facturación",
+      "type": "CALL",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-08-10T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113163982390"
+    },
+    {
+      "id": "113417652523",
+      "title": "Revisar si ha contestado Mario",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "HIGH",
+      "due": "2026-08-10T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113417652523"
+    },
+    {
+      "id": "113515359090",
+      "title": "Factura trípticos Croquis",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-08-10T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113515359090"
+    },
+    {
+      "id": "113719812937",
+      "title": "Seguimiento con German Empresa Steel Frame",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-08-10T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113719812937"
+    },
+    {
+      "id": "113924801900",
+      "title": "Llamar a José Ángel (seguimiento)",
+      "type": "CALL",
+      "status": "NOT_STARTED",
+      "priority": "MEDIUM",
+      "due": "2026-08-10T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113924801900"
+    },
+    {
+      "id": "114179339586",
+      "title": "Reunión vivienda Renedo jueves 6 a las 9:15",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "HIGH",
+      "due": "2026-08-10T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114179339586"
+    },
+    {
+      "id": "114196569006",
+      "title": "Mandar factura ratificada 50.000€ a Natividad (pagados, mitad cada uno)",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "HIGH",
+      "due": "2026-08-10T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114196569006"
+    },
+    {
+      "id": "114221751108",
+      "title": "Seguimiento con Dani Greenoil",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-08-10T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114221751108"
+    },
+    {
+      "id": "114392537457",
+      "title": "LLAMADA posible cliente",
+      "type": "CALL",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-08-10T16:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114392537457"
+    }
+  ],
   "trello_due": [
     {
       "name": "Dani-1526005 Andamio MartaPeral-María-María",
       "shortUrl": "https://trello.com/c/cxvlpO7a",
       "due": "2026-08-06",
-      "days_until": -3,
+      "days_until": -4,
       "is_overdue": true,
       "has_due": true,
       "pos": 77.62545455932617
@@ -57,7 +220,7 @@
       "name": "Dani-Facturas pendientes proveedores-María-Dani",
       "shortUrl": "https://trello.com/c/DPJxWjIO",
       "due": "2026-07-15",
-      "days_until": -25,
+      "days_until": -26,
       "is_overdue": true,
       "has_due": true,
       "pos": 103.50060607910156
@@ -129,7 +292,7 @@
       "name": "Dani-Paquita Cambio Uso-María-Dani",
       "shortUrl": "https://trello.com/c/Hkdja79N",
       "due": "2025-11-28",
-      "days_until": -254,
+      "days_until": -255,
       "is_overdue": true,
       "has_due": true,
       "pos": 163840.16406321526
@@ -138,7 +301,7 @@
       "name": "Dani-PO 25008 ALBA BAÑO MICROCEMENTO-Whatsapp-Dani-Dani",
       "shortUrl": "https://trello.com/c/lExblrlh",
       "due": "2025-05-09",
-      "days_until": -457,
+      "days_until": -458,
       "is_overdue": true,
       "has_due": true,
       "pos": 180224
@@ -147,7 +310,7 @@
       "name": "Dani- URGENTE Mantenimiento Estudio-General-General",
       "shortUrl": "https://trello.com/c/au5g0t5s",
       "due": "2025-02-13",
-      "days_until": -542,
+      "days_until": -543,
       "is_overdue": true,
       "has_due": true,
       "pos": 196608.125
@@ -165,7 +328,7 @@
       "name": "Dani- 23010 RESOLVER DEUDA CHAMORRO-María-Dani",
       "shortUrl": "https://trello.com/c/wVDtN1mN",
       "due": "2024-09-27",
-      "days_until": -681,
+      "days_until": -682,
       "is_overdue": true,
       "has_due": true,
       "pos": 262144.125
@@ -174,7 +337,7 @@
       "name": "Diego y María- 21020 remates Pedro Enríquez- Dani- Dani",
       "shortUrl": "https://trello.com/c/znlC88bX",
       "due": "2024-08-09",
-      "days_until": -730,
+      "days_until": -731,
       "is_overdue": true,
       "has_due": true,
       "pos": 278528.125
@@ -192,7 +355,7 @@
       "name": "Dani-FácilReforma-María-Dani",
       "shortUrl": "https://trello.com/c/Fo6wuyfX",
       "due": "2024-03-08",
-      "days_until": -884,
+      "days_until": -885,
       "is_overdue": true,
       "has_due": true,
       "pos": 311296
@@ -476,7 +639,26 @@
     "crm_last_sync_ts": null
   },
   "seen_ids": {
-    "crm": [],
+    "crm": [
+      "107952887838",
+      "107964025196",
+      "112394613670",
+      "112423242560",
+      "112449291307",
+      "112555762226",
+      "112658285927",
+      "112679694625",
+      "112999049775",
+      "113163982390",
+      "113417652523",
+      "113515359090",
+      "113719812937",
+      "113924801900",
+      "114179339586",
+      "114196569006",
+      "114221751108",
+      "114392537457"
+    ],
     "trello": [
       "65def6ed8b8224220f0c3b15",
       "65f7f50e2246feea55fb7d77",
@@ -498,10 +680,83 @@
     ]
   },
   "new_tasks": {
-    "crm": [],
+    "crm": [
+      {
+        "id": "107952887838",
+        "title": "Llamar a Francisco Cura Villabragima — missed call"
+      },
+      {
+        "id": "107964025196",
+        "title": "Seguimeinto obra Octavio HOMIK"
+      },
+      {
+        "id": "112394613670",
+        "title": "Seguimiento con Alana certificado Cliente Nacho inst Vallejo"
+      },
+      {
+        "id": "112423242560",
+        "title": "Revisar si contesta Antonio Vilchez"
+      },
+      {
+        "id": "112449291307",
+        "title": "Reclamar pago Cabeza mesada"
+      },
+      {
+        "id": "112555762226",
+        "title": "Mover con Luismi — Terracotta (pantalla LED móvil)"
+      },
+      {
+        "id": "112658285927",
+        "title": "Presentar documentación a Aquavall"
+      },
+      {
+        "id": "112679694625",
+        "title": "Devolver llamada Alejandro _Vecino Rodri El Peral"
+      },
+      {
+        "id": "112999049775",
+        "title": "Devolver llamada Gema Valencia_Axactor Abogados"
+      },
+      {
+        "id": "113163982390",
+        "title": "Devolver llamada ORANGE tema facturación"
+      },
+      {
+        "id": "113417652523",
+        "title": "Revisar si ha contestado Mario"
+      },
+      {
+        "id": "113515359090",
+        "title": "Factura trípticos Croquis"
+      },
+      {
+        "id": "113719812937",
+        "title": "Seguimiento con German Empresa Steel Frame"
+      },
+      {
+        "id": "113924801900",
+        "title": "Llamar a José Ángel (seguimiento)"
+      },
+      {
+        "id": "114179339586",
+        "title": "Reunión vivienda Renedo jueves 6 a las 9:15"
+      },
+      {
+        "id": "114196569006",
+        "title": "Mandar factura ratificada 50.000€ a Natividad (pagados, mitad cada uno)"
+      },
+      {
+        "id": "114221751108",
+        "title": "Seguimiento con Dani Greenoil"
+      },
+      {
+        "id": "114392537457",
+        "title": "LLAMADA posible cliente"
+      }
+    ],
     "trello": []
   },
-  "has_new": false,
+  "has_new": true,
   "errors": {
     "calendar": null,
     "hubspot": null
