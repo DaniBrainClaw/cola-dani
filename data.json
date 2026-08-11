@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T17:00:11.503251+00:00",
-  "generated_at_local": "2026-08-10T19:00:11.503274+02:00",
+  "generated_at": "2026-08-11T06:00:05.080815+00:00",
+  "generated_at_local": "2026-08-11T08:00:05.080835+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 1,
@@ -13,9 +13,9 @@
       "cola_closed": 0,
       "crm_created": 0,
       "crm_closed": 0,
-      "trello_touched": 1,
-      "diff": 1,
-      "trend": "📉 −1 (reduciendo)"
+      "trello_touched": 0,
+      "diff": 0,
+      "trend": "⏸️ 0 (estable)"
     }
   },
   "serving": {
@@ -41,7 +41,28 @@
     "contact_email": null,
     "contact_id": null
   },
-  "events_today": [],
+  "events_today": [
+    {
+      "id": "0e3tikr5mreha00b9tc556bspr",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "Youssef en Peral",
+      "start": "06:45",
+      "start_iso": "2026-08-11T06:45:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=MGUzdGlrcjVtcmVoYTAwYjl0YzU1NmJzcHIgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+    },
+    {
+      "id": "6pfjhcl5dl0p2f1m5mre36c68e",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "15.45 ANDAMIOS MartaPeral",
+      "start": "15:45",
+      "start_iso": "2026-08-11T15:45:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=NnBmamhjbDVkbDBwMmYxbTVtcmUzNmM2OGUgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+    }
+  ],
   "crm_today": [
     {
       "id": "107952887838",
@@ -49,7 +70,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-10T10:00:00Z",
+      "due": "2026-08-11T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/107952887838"
     },
     {
@@ -58,7 +79,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-10T10:00:00Z",
+      "due": "2026-08-11T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/107964025196"
     },
     {
@@ -67,7 +88,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-10T10:00:00Z",
+      "due": "2026-08-11T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112394613670"
     },
     {
@@ -76,7 +97,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "MEDIUM",
-      "due": "2026-08-10T10:00:00Z",
+      "due": "2026-08-11T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112423242560"
     },
     {
@@ -85,7 +106,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "HIGH",
-      "due": "2026-08-10T10:00:00Z",
+      "due": "2026-08-11T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112449291307"
     },
     {
@@ -94,7 +115,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "MEDIUM",
-      "due": "2026-08-10T10:00:00Z",
+      "due": "2026-08-11T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112555762226"
     },
     {
@@ -103,7 +124,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "HIGH",
-      "due": "2026-08-10T10:00:00Z",
+      "due": "2026-08-11T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112658285927"
     },
     {
@@ -112,7 +133,7 @@
       "type": "CALL",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-10T10:00:00Z",
+      "due": "2026-08-11T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112679694625"
     },
     {
@@ -121,7 +142,7 @@
       "type": "CALL",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-10T10:00:00Z",
+      "due": "2026-08-11T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112999049775"
     },
     {
@@ -130,17 +151,8 @@
       "type": "CALL",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-10T10:00:00Z",
+      "due": "2026-08-11T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113163982390"
-    },
-    {
-      "id": "113417652523",
-      "title": "Revisar si ha contestado Mario",
-      "type": "TODO",
-      "status": "NOT_STARTED",
-      "priority": "HIGH",
-      "due": "2026-08-10T10:00:00Z",
-      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113417652523"
     },
     {
       "id": "113515359090",
@@ -148,7 +160,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-10T10:00:00Z",
+      "due": "2026-08-11T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113515359090"
     },
     {
@@ -157,17 +169,8 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-10T10:00:00Z",
+      "due": "2026-08-11T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113719812937"
-    },
-    {
-      "id": "113924801900",
-      "title": "Llamar a José Ángel (seguimiento)",
-      "type": "CALL",
-      "status": "NOT_STARTED",
-      "priority": "MEDIUM",
-      "due": "2026-08-10T10:00:00Z",
-      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113924801900"
     },
     {
       "id": "114179339586",
@@ -175,7 +178,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "HIGH",
-      "due": "2026-08-10T10:00:00Z",
+      "due": "2026-08-11T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114179339586"
     },
     {
@@ -184,7 +187,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "HIGH",
-      "due": "2026-08-10T10:00:00Z",
+      "due": "2026-08-11T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114196569006"
     },
     {
@@ -193,8 +196,17 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-10T10:00:00Z",
+      "due": "2026-08-11T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114221751108"
+    },
+    {
+      "id": "114374736288",
+      "title": "Seguimiento con Christian Lead obra nueva Tudela",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-08-11T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114374736288"
     },
     {
       "id": "114392537457",
@@ -202,7 +214,7 @@
       "type": "CALL",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-10T16:00:00Z",
+      "due": "2026-08-11T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114392537457"
     }
   ],
@@ -211,7 +223,7 @@
       "name": "Dani-1526005 Andamio MartaPeral-María-María",
       "shortUrl": "https://trello.com/c/cxvlpO7a",
       "due": "2026-08-06",
-      "days_until": -4,
+      "days_until": -5,
       "is_overdue": true,
       "has_due": true,
       "pos": 77.62545455932617
@@ -220,7 +232,7 @@
       "name": "Dani-Facturas pendientes proveedores-María-Dani",
       "shortUrl": "https://trello.com/c/DPJxWjIO",
       "due": "2026-07-15",
-      "days_until": -26,
+      "days_until": -27,
       "is_overdue": true,
       "has_due": true,
       "pos": 103.50060607910156
@@ -292,7 +304,7 @@
       "name": "Dani-Paquita Cambio Uso-María-Dani",
       "shortUrl": "https://trello.com/c/Hkdja79N",
       "due": "2025-11-28",
-      "days_until": -255,
+      "days_until": -256,
       "is_overdue": true,
       "has_due": true,
       "pos": 163840.16406321526
@@ -301,7 +313,7 @@
       "name": "Dani-PO 25008 ALBA BAÑO MICROCEMENTO-Whatsapp-Dani-Dani",
       "shortUrl": "https://trello.com/c/lExblrlh",
       "due": "2025-05-09",
-      "days_until": -458,
+      "days_until": -459,
       "is_overdue": true,
       "has_due": true,
       "pos": 180224
@@ -310,7 +322,7 @@
       "name": "Dani- URGENTE Mantenimiento Estudio-General-General",
       "shortUrl": "https://trello.com/c/au5g0t5s",
       "due": "2025-02-13",
-      "days_until": -543,
+      "days_until": -544,
       "is_overdue": true,
       "has_due": true,
       "pos": 196608.125
@@ -328,7 +340,7 @@
       "name": "Dani- 23010 RESOLVER DEUDA CHAMORRO-María-Dani",
       "shortUrl": "https://trello.com/c/wVDtN1mN",
       "due": "2024-09-27",
-      "days_until": -682,
+      "days_until": -683,
       "is_overdue": true,
       "has_due": true,
       "pos": 262144.125
@@ -337,7 +349,7 @@
       "name": "Diego y María- 21020 remates Pedro Enríquez- Dani- Dani",
       "shortUrl": "https://trello.com/c/znlC88bX",
       "due": "2024-08-09",
-      "days_until": -731,
+      "days_until": -732,
       "is_overdue": true,
       "has_due": true,
       "pos": 278528.125
@@ -355,7 +367,7 @@
       "name": "Dani-FácilReforma-María-Dani",
       "shortUrl": "https://trello.com/c/Fo6wuyfX",
       "due": "2024-03-08",
-      "days_until": -885,
+      "days_until": -886,
       "is_overdue": true,
       "has_due": true,
       "pos": 311296
@@ -650,13 +662,12 @@
       "112679694625",
       "112999049775",
       "113163982390",
-      "113417652523",
       "113515359090",
       "113719812937",
-      "113924801900",
       "114179339586",
       "114196569006",
       "114221751108",
+      "114374736288",
       "114392537457"
     ],
     "trello": [
@@ -680,10 +691,15 @@
     ]
   },
   "new_tasks": {
-    "crm": [],
+    "crm": [
+      {
+        "id": "114374736288",
+        "title": "Seguimiento con Christian Lead obra nueva Tudela"
+      }
+    ],
     "trello": []
   },
-  "has_new": false,
+  "has_new": true,
   "errors": {
     "calendar": null,
     "hubspot": null
