@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T06:00:05.080815+00:00",
-  "generated_at_local": "2026-08-11T08:00:05.080835+02:00",
+  "generated_at": "2026-08-11T07:00:12.673065+00:00",
+  "generated_at_local": "2026-08-11T09:00:12.673087+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 1,
@@ -691,15 +691,10 @@
     ]
   },
   "new_tasks": {
-    "crm": [
-      {
-        "id": "114374736288",
-        "title": "Seguimiento con Christian Lead obra nueva Tudela"
-      }
-    ],
+    "crm": [],
     "trello": []
   },
-  "has_new": true,
+  "has_new": false,
   "errors": {
     "calendar": null,
     "hubspot": null
