@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T06:00:06.534569+00:00",
-  "generated_at_local": "2026-08-12T08:00:06.534594+02:00",
+  "generated_at": "2026-08-12T07:00:17.851887+00:00",
+  "generated_at_local": "2026-08-12T09:00:17.851902+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 1,
@@ -51,15 +51,6 @@
       "priority": "NONE",
       "due": "2026-08-12T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/107952887838"
-    },
-    {
-      "id": "107964025196",
-      "title": "Seguimeinto obra Octavio HOMIK",
-      "type": "TODO",
-      "status": "NOT_STARTED",
-      "priority": "NONE",
-      "due": "2026-08-12T10:00:00Z",
-      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/107964025196"
     },
     {
       "id": "112394613670",
@@ -632,7 +623,6 @@
   "seen_ids": {
     "crm": [
       "107952887838",
-      "107964025196",
       "112394613670",
       "112423242560",
       "112449291307",
