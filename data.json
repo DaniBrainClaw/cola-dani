@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T07:00:17.851887+00:00",
-  "generated_at_local": "2026-08-12T09:00:17.851902+02:00",
+  "generated_at": "2026-08-12T08:00:05.358781+00:00",
+  "generated_at_local": "2026-08-12T10:00:05.358800+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 1,
@@ -190,15 +190,6 @@
   ],
   "trello_due": [
     {
-      "name": "Dani-1526005 Andamio MartaPeral-María-María",
-      "shortUrl": "https://trello.com/c/cxvlpO7a",
-      "due": "2026-08-06",
-      "days_until": -6,
-      "is_overdue": true,
-      "has_due": true,
-      "pos": 77.62545455932617
-    },
-    {
       "name": "Dani-Facturas pendientes proveedores-María-Dani",
       "shortUrl": "https://trello.com/c/DPJxWjIO",
       "due": "2026-07-15",
@@ -344,7 +335,6 @@
     }
   ],
   "trello_full_ids": [
-    "6a7180dfc7549ce4c77915a8",
     "6a26581d30a13c6814ebdfb6",
     "6a59eda09522b0a5cb74e7f7",
     "6a6861a4aa86c33fa0c0fc20",
@@ -655,8 +645,7 @@
       "6a479a176f9b881a65d366d8",
       "6a55fb26bb9b9f7ff65a5799",
       "6a59eda09522b0a5cb74e7f7",
-      "6a6861a4aa86c33fa0c0fc20",
-      "6a7180dfc7549ce4c77915a8"
+      "6a6861a4aa86c33fa0c0fc20"
     ]
   },
   "new_tasks": {
