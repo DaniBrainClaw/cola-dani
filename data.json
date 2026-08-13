@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T06:00:06.515913+00:00",
-  "generated_at_local": "2026-08-13T08:00:06.515936+02:00",
+  "generated_at": "2026-08-13T07:00:19.185262+00:00",
+  "generated_at_local": "2026-08-13T09:00:19.185284+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 1,
@@ -680,19 +680,10 @@
     ]
   },
   "new_tasks": {
-    "crm": [
-      {
-        "id": "114196400487",
-        "title": "Mandar factura 50.000€ a Natividad para disposición día 14/08"
-      },
-      {
-        "id": "114587428422",
-        "title": "Ver si me ha contestado Jose Ángel a lo del proyecto"
-      }
-    ],
+    "crm": [],
     "trello": []
   },
-  "has_new": true,
+  "has_new": false,
   "errors": {
     "calendar": null,
     "hubspot": null
