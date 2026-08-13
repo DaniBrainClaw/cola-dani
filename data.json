@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T10:00:07.929973+00:00",
-  "generated_at_local": "2026-08-13T12:00:07.929990+02:00",
+  "generated_at": "2026-08-13T11:00:04.333481+00:00",
+  "generated_at_local": "2026-08-13T13:00:04.333503+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 1,
@@ -13,9 +13,9 @@
       "cola_closed": 0,
       "crm_created": 0,
       "crm_closed": 0,
-      "trello_touched": 0,
-      "diff": 0,
-      "trend": "⏸️ 0 (estable)"
+      "trello_touched": 1,
+      "diff": 1,
+      "trend": "📉 −1 (reduciendo)"
     }
   },
   "serving": {
