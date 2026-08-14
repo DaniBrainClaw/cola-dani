@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T08:00:05.762700+00:00",
-  "generated_at_local": "2026-08-14T10:00:05.762718+02:00",
+  "generated_at": "2026-08-14T09:00:05.508272+00:00",
+  "generated_at_local": "2026-08-14T11:00:05.508294+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 1,
@@ -13,9 +13,9 @@
       "cola_closed": 0,
       "crm_created": 0,
       "crm_closed": 0,
-      "trello_touched": 1,
-      "diff": 1,
-      "trend": "📉 −1 (reduciendo)"
+      "trello_touched": 2,
+      "diff": 2,
+      "trend": "📉 −2 (reduciendo)"
     }
   },
   "serving": {
@@ -238,13 +238,13 @@
   ],
   "trello_due": [
     {
-      "name": "Dani-Elementos a coger hoy-Dani-Dani",
-      "shortUrl": "https://trello.com/c/JvAg0arP",
-      "due": "2026-08-12",
-      "days_until": -2,
-      "is_overdue": true,
+      "name": "Dani-1526003 Abono PapelP-María-María",
+      "shortUrl": "https://trello.com/c/7lEskF71",
+      "due": "2026-08-17",
+      "days_until": 3,
+      "is_overdue": false,
       "has_due": true,
-      "pos": 9.703181819915772
+      "pos": 7.277386364936829
     },
     {
       "name": "Dani-Facturas pendientes proveedores-María-Dani",
@@ -253,7 +253,16 @@
       "days_until": -30,
       "is_overdue": true,
       "has_due": true,
-      "pos": 103.50060607910156
+      "pos": 8.4902840924263
+    },
+    {
+      "name": "Dani-Elementos a coger hoy-Dani-Dani",
+      "shortUrl": "https://trello.com/c/JvAg0arP",
+      "due": "2026-08-12",
+      "days_until": -2,
+      "is_overdue": true,
+      "has_due": true,
+      "pos": 9.703181819915772
     },
     {
       "name": "Dani-Enviar factura pendiente + escrito finalización intervención Asana-Alicia-Dani",
@@ -389,20 +398,12 @@
       "is_overdue": true,
       "has_due": true,
       "pos": 311296
-    },
-    {
-      "name": "Dani-1526003 Abono PapelP-María-María",
-      "shortUrl": "https://trello.com/c/7lEskF71",
-      "due": "",
-      "days_until": 0,
-      "is_overdue": false,
-      "has_due": false,
-      "pos": 376832
     }
   ],
   "trello_full_ids": [
-    "6a7c3adcb299f921d2abe5d4",
+    "6a7ec07588fce7fc7a9ee45a",
     "6a26581d30a13c6814ebdfb6",
+    "6a7c3adcb299f921d2abe5d4",
     "6a59eda09522b0a5cb74e7f7",
     "6a6861a4aa86c33fa0c0fc20",
     "6a479a176f9b881a65d366d8",
@@ -417,8 +418,7 @@
     "66f174627ef8512488336790",
     "66b482931fdfe37a3ad4fed8",
     "65f7f50e2246feea55fb7d77",
-    "65def6ed8b8224220f0c3b15",
-    "6a7ec07588fce7fc7a9ee45a"
+    "65def6ed8b8224220f0c3b15"
   ],
   "queue": [
     {
@@ -723,13 +723,9 @@
   },
   "new_tasks": {
     "crm": [],
-    "trello": [
-      {
-        "id": "6a7ec07588fce7fc7a9ee45a"
-      }
-    ]
+    "trello": []
   },
-  "has_new": true,
+  "has_new": false,
   "errors": {
     "calendar": null,
     "hubspot": null
