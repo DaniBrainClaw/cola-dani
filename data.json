@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T06:00:06.315712+00:00",
-  "generated_at_local": "2026-08-14T08:00:06.315731+02:00",
+  "generated_at": "2026-08-14T07:00:19.983194+00:00",
+  "generated_at_local": "2026-08-14T09:00:19.983216+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 1,
@@ -711,15 +711,10 @@
     ]
   },
   "new_tasks": {
-    "crm": [
-      {
-        "id": "114797293378",
-        "title": "Devolver llamada Sandra para comentar algo antes de cierre vacaciones "
-      }
-    ],
+    "crm": [],
     "trello": []
   },
-  "has_new": true,
+  "has_new": false,
   "errors": {
     "calendar": null,
     "hubspot": null
