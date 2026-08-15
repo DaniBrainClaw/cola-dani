@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T17:00:07.457363+00:00",
-  "generated_at_local": "2026-08-14T19:00:07.457387+02:00",
+  "generated_at": "2026-08-15T06:00:05.802431+00:00",
+  "generated_at_local": "2026-08-15T08:00:05.802455+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 1,
@@ -13,9 +13,9 @@
       "cola_closed": 0,
       "crm_created": 0,
       "crm_closed": 0,
-      "trello_touched": 2,
-      "diff": 2,
-      "trend": "📉 −2 (reduciendo)"
+      "trello_touched": 0,
+      "diff": 0,
+      "trend": "⏸️ 0 (estable)"
     }
   },
   "serving": {
@@ -43,43 +43,24 @@
   },
   "events_today": [
     {
-      "id": "7e7h38f35j6k41qns0l80g7g90",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Rioseco",
-      "start": "13:00",
-      "start_iso": "2026-08-14T13:00:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=N2U3aDM4ZjM1ajZrNDFxbnMwbDgwZzdnOTAgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
-    },
-    {
-      "id": "cfo7j2chc5mgehmepq8tnv3nn7_20260814T144500Z",
+      "id": "ubbvipmuvk3lvkfq04vfr03jd8_20260815T080000Z",
       "calendar": "daniel.carro.bendito@gmail.com",
       "title": "Recuperacion semana",
-      "start": "16:45",
-      "start_iso": "2026-08-14T16:45:00+02:00",
+      "start": "10:00",
+      "start_iso": "2026-08-15T10:00:00+02:00",
       "all_day": false,
       "location": "",
-      "url": "https://www.google.com/calendar/event?eid=Y2ZvN2oyY2hjNW1nZWhtZXBxOHRudjNubjdfMjAyNjA4MTRUMTQ0NTAwWiBkYW5pZWwuY2Fycm8uYmVuZGl0b0Bt"
+      "url": "https://www.google.com/calendar/event?eid=dWJidmlwbXV2azNsdmtmcTA0dmZyMDNqZDhfMjAyNjA4MTVUMDgwMDAwWiBkYW5pZWwuY2Fycm8uYmVuZGl0b0Bt"
     }
   ],
   "crm_today": [
-    {
-      "id": "114797293378",
-      "title": "Devolver llamada Sandra para comentar algo antes de cierre vacaciones ",
-      "type": "CALL",
-      "status": "NOT_STARTED",
-      "priority": "MEDIUM",
-      "due": "2026-08-14T08:00:00Z",
-      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114797293378"
-    },
     {
       "id": "107952887838",
       "title": "Llamar a Francisco Cura Villabragima — missed call",
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-14T10:00:00Z",
+      "due": "2026-08-15T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/107952887838"
     },
     {
@@ -88,7 +69,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-14T10:00:00Z",
+      "due": "2026-08-15T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112394613670"
     },
     {
@@ -97,7 +78,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "MEDIUM",
-      "due": "2026-08-14T10:00:00Z",
+      "due": "2026-08-15T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112423242560"
     },
     {
@@ -106,7 +87,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "HIGH",
-      "due": "2026-08-14T10:00:00Z",
+      "due": "2026-08-15T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112449291307"
     },
     {
@@ -115,7 +96,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "MEDIUM",
-      "due": "2026-08-14T10:00:00Z",
+      "due": "2026-08-15T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112555762226"
     },
     {
@@ -124,7 +105,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "HIGH",
-      "due": "2026-08-14T10:00:00Z",
+      "due": "2026-08-15T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112658285927"
     },
     {
@@ -133,7 +114,7 @@
       "type": "CALL",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-14T10:00:00Z",
+      "due": "2026-08-15T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112679694625"
     },
     {
@@ -142,7 +123,7 @@
       "type": "CALL",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-14T10:00:00Z",
+      "due": "2026-08-15T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112999049775"
     },
     {
@@ -151,7 +132,7 @@
       "type": "CALL",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-14T10:00:00Z",
+      "due": "2026-08-15T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113163982390"
     },
     {
@@ -160,7 +141,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-14T10:00:00Z",
+      "due": "2026-08-15T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113515359090"
     },
     {
@@ -169,7 +150,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-14T10:00:00Z",
+      "due": "2026-08-15T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113719812937"
     },
     {
@@ -178,7 +159,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "HIGH",
-      "due": "2026-08-14T10:00:00Z",
+      "due": "2026-08-15T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114179339586"
     },
     {
@@ -187,7 +168,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "MEDIUM",
-      "due": "2026-08-14T10:00:00Z",
+      "due": "2026-08-15T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114196400487"
     },
     {
@@ -196,7 +177,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "HIGH",
-      "due": "2026-08-14T10:00:00Z",
+      "due": "2026-08-15T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114196569006"
     },
     {
@@ -205,7 +186,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-14T10:00:00Z",
+      "due": "2026-08-15T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114221751108"
     },
     {
@@ -214,7 +195,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-14T10:00:00Z",
+      "due": "2026-08-15T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114374736288"
     },
     {
@@ -223,7 +204,7 @@
       "type": "CALL",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-14T10:00:00Z",
+      "due": "2026-08-15T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114392537457"
     },
     {
@@ -232,8 +213,17 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-14T10:00:00Z",
+      "due": "2026-08-15T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114587428422"
+    },
+    {
+      "id": "114797293378",
+      "title": "Devolver llamada Sandra para comentar algo antes de cierre vacaciones ",
+      "type": "CALL",
+      "status": "NOT_STARTED",
+      "priority": "MEDIUM",
+      "due": "2026-08-15T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114797293378"
     }
   ],
   "trello_due": [
@@ -241,7 +231,7 @@
       "name": "Dani-1526003 Abono PapelP-María-María",
       "shortUrl": "https://trello.com/c/7lEskF71",
       "due": "2026-08-17",
-      "days_until": 3,
+      "days_until": 2,
       "is_overdue": false,
       "has_due": true,
       "pos": 7.277386364936829
@@ -250,7 +240,7 @@
       "name": "Dani-Facturas pendientes proveedores-María-Dani",
       "shortUrl": "https://trello.com/c/DPJxWjIO",
       "due": "2026-07-15",
-      "days_until": -30,
+      "days_until": -31,
       "is_overdue": true,
       "has_due": true,
       "pos": 8.4902840924263
@@ -259,7 +249,7 @@
       "name": "Dani-Elementos a coger hoy-Dani-Dani",
       "shortUrl": "https://trello.com/c/JvAg0arP",
       "due": "2026-08-12",
-      "days_until": -2,
+      "days_until": -3,
       "is_overdue": true,
       "has_due": true,
       "pos": 9.703181819915772
@@ -331,7 +321,7 @@
       "name": "Dani-Paquita Cambio Uso-María-Dani",
       "shortUrl": "https://trello.com/c/Hkdja79N",
       "due": "2025-11-28",
-      "days_until": -259,
+      "days_until": -260,
       "is_overdue": true,
       "has_due": true,
       "pos": 163840.16406321526
@@ -340,7 +330,7 @@
       "name": "Dani-PO 25008 ALBA BAÑO MICROCEMENTO-Whatsapp-Dani-Dani",
       "shortUrl": "https://trello.com/c/lExblrlh",
       "due": "2025-05-09",
-      "days_until": -462,
+      "days_until": -463,
       "is_overdue": true,
       "has_due": true,
       "pos": 180224
@@ -349,7 +339,7 @@
       "name": "Dani- URGENTE Mantenimiento Estudio-General-General",
       "shortUrl": "https://trello.com/c/au5g0t5s",
       "due": "2025-02-13",
-      "days_until": -547,
+      "days_until": -548,
       "is_overdue": true,
       "has_due": true,
       "pos": 196608.125
@@ -367,7 +357,7 @@
       "name": "Dani- 23010 RESOLVER DEUDA CHAMORRO-María-Dani",
       "shortUrl": "https://trello.com/c/wVDtN1mN",
       "due": "2024-09-27",
-      "days_until": -686,
+      "days_until": -687,
       "is_overdue": true,
       "has_due": true,
       "pos": 262144.125
@@ -376,7 +366,7 @@
       "name": "Diego y María- 21020 remates Pedro Enríquez- Dani- Dani",
       "shortUrl": "https://trello.com/c/znlC88bX",
       "due": "2024-08-09",
-      "days_until": -735,
+      "days_until": -736,
       "is_overdue": true,
       "has_due": true,
       "pos": 278528.125
@@ -394,7 +384,7 @@
       "name": "Dani-FácilReforma-María-Dani",
       "shortUrl": "https://trello.com/c/Fo6wuyfX",
       "due": "2024-03-08",
-      "days_until": -889,
+      "days_until": -890,
       "is_overdue": true,
       "has_due": true,
       "pos": 311296
