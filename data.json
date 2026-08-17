@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T17:00:11.214980+00:00",
-  "generated_at_local": "2026-08-16T19:00:11.215001+02:00",
+  "generated_at": "2026-08-17T06:00:04.322419+00:00",
+  "generated_at_local": "2026-08-17T08:00:04.322443+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 1,
@@ -41,7 +41,58 @@
     "contact_email": null,
     "contact_id": null
   },
-  "events_today": [],
+  "events_today": [
+    {
+      "id": "42eqorf4jrl68fdti0svlrbhkk",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "Pedir albardilla y 10 sacos solo puma",
+      "start": "08:30",
+      "start_iso": "2026-08-17T08:30:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=NDJlcW9yZjRqcmw2OGZkdGkwc3ZscmJoa2sgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+    },
+    {
+      "id": "5nupf9kcjbci3qegr1hndl2hae",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "Preparar 200€ saldo en mi cuenta para fútbol",
+      "start": "10:00",
+      "start_iso": "2026-08-17T10:00:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=NW51cGY5a2NqYmNpM3FlZ3IxaG5kbDJoYWUgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+    },
+    {
+      "id": "v1un3e0uplg73ie1eumsk603o0",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "Llamar Rafael bajas Terracotta",
+      "start": "10:30",
+      "start_iso": "2026-08-17T10:30:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=djF1bjNlMHVwbGc3M2llMWV1bXNrNjAzbzAgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+    },
+    {
+      "id": "08l1blc83a0s61pnkf2k3a9gs0",
+      "calendar": "danibrainclaw@gmail.com",
+      "title": "Llamar a Salvador para confirmar cita del día 18",
+      "start": "12:00",
+      "start_iso": "2026-08-17T12:00:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=MDhsMWJsYzgzYTBzNjFwbmtmMmszYTlnczAgZGFuaWJyYWluY2xhd0Bt"
+    },
+    {
+      "id": "08l1blc83a0s61pnkf2k3a9gs0",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "Llamar a Salvador para confirmar cita del día 18",
+      "start": "12:00",
+      "start_iso": "2026-08-17T12:00:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=MDhsMWJsYzgzYTBzNjFwbmtmMmszYTlnczAgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+    }
+  ],
   "crm_today": [
     {
       "id": "107952887838",
@@ -49,7 +100,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-16T10:00:00Z",
+      "due": "2026-08-17T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/107952887838"
     },
     {
@@ -58,7 +109,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-16T10:00:00Z",
+      "due": "2026-08-17T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112394613670"
     },
     {
@@ -67,7 +118,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "MEDIUM",
-      "due": "2026-08-16T10:00:00Z",
+      "due": "2026-08-17T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112423242560"
     },
     {
@@ -76,7 +127,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "HIGH",
-      "due": "2026-08-16T10:00:00Z",
+      "due": "2026-08-17T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112449291307"
     },
     {
@@ -85,7 +136,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "MEDIUM",
-      "due": "2026-08-16T10:00:00Z",
+      "due": "2026-08-17T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112555762226"
     },
     {
@@ -94,7 +145,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "HIGH",
-      "due": "2026-08-16T10:00:00Z",
+      "due": "2026-08-17T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112658285927"
     },
     {
@@ -103,7 +154,7 @@
       "type": "CALL",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-16T10:00:00Z",
+      "due": "2026-08-17T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112679694625"
     },
     {
@@ -112,7 +163,7 @@
       "type": "CALL",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-16T10:00:00Z",
+      "due": "2026-08-17T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112999049775"
     },
     {
@@ -121,7 +172,7 @@
       "type": "CALL",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-16T10:00:00Z",
+      "due": "2026-08-17T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113163982390"
     },
     {
@@ -130,7 +181,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-16T10:00:00Z",
+      "due": "2026-08-17T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113515359090"
     },
     {
@@ -139,7 +190,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-16T10:00:00Z",
+      "due": "2026-08-17T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113719812937"
     },
     {
@@ -148,7 +199,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "HIGH",
-      "due": "2026-08-16T10:00:00Z",
+      "due": "2026-08-17T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114179339586"
     },
     {
@@ -157,7 +208,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "MEDIUM",
-      "due": "2026-08-16T10:00:00Z",
+      "due": "2026-08-17T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114196400487"
     },
     {
@@ -166,7 +217,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "HIGH",
-      "due": "2026-08-16T10:00:00Z",
+      "due": "2026-08-17T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114196569006"
     },
     {
@@ -175,7 +226,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-16T10:00:00Z",
+      "due": "2026-08-17T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114221751108"
     },
     {
@@ -184,7 +235,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-16T10:00:00Z",
+      "due": "2026-08-17T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114374736288"
     },
     {
@@ -193,7 +244,7 @@
       "type": "CALL",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-16T10:00:00Z",
+      "due": "2026-08-17T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114392537457"
     },
     {
@@ -202,7 +253,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-16T10:00:00Z",
+      "due": "2026-08-17T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114587428422"
     },
     {
@@ -211,7 +262,7 @@
       "type": "CALL",
       "status": "NOT_STARTED",
       "priority": "MEDIUM",
-      "due": "2026-08-16T10:00:00Z",
+      "due": "2026-08-17T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114797293378"
     }
   ],
@@ -220,7 +271,7 @@
       "name": "Dani-1526003 Abono PapelP-María-María",
       "shortUrl": "https://trello.com/c/7lEskF71",
       "due": "2026-08-17",
-      "days_until": 1,
+      "days_until": 0,
       "is_overdue": false,
       "has_due": true,
       "pos": 7.277386364936829
@@ -229,7 +280,7 @@
       "name": "Dani-Facturas pendientes proveedores-María-Dani",
       "shortUrl": "https://trello.com/c/DPJxWjIO",
       "due": "2026-07-15",
-      "days_until": -32,
+      "days_until": -33,
       "is_overdue": true,
       "has_due": true,
       "pos": 8.4902840924263
@@ -238,7 +289,7 @@
       "name": "Dani-Elementos a coger hoy-Dani-Dani",
       "shortUrl": "https://trello.com/c/JvAg0arP",
       "due": "2026-08-12",
-      "days_until": -4,
+      "days_until": -5,
       "is_overdue": true,
       "has_due": true,
       "pos": 9.703181819915772
@@ -310,7 +361,7 @@
       "name": "Dani-Paquita Cambio Uso-María-Dani",
       "shortUrl": "https://trello.com/c/Hkdja79N",
       "due": "2025-11-28",
-      "days_until": -261,
+      "days_until": -262,
       "is_overdue": true,
       "has_due": true,
       "pos": 163840.16406321526
@@ -319,7 +370,7 @@
       "name": "Dani-PO 25008 ALBA BAÑO MICROCEMENTO-Whatsapp-Dani-Dani",
       "shortUrl": "https://trello.com/c/lExblrlh",
       "due": "2025-05-09",
-      "days_until": -464,
+      "days_until": -465,
       "is_overdue": true,
       "has_due": true,
       "pos": 180224
@@ -328,7 +379,7 @@
       "name": "Dani- URGENTE Mantenimiento Estudio-General-General",
       "shortUrl": "https://trello.com/c/au5g0t5s",
       "due": "2025-02-13",
-      "days_until": -549,
+      "days_until": -550,
       "is_overdue": true,
       "has_due": true,
       "pos": 196608.125
@@ -346,7 +397,7 @@
       "name": "Dani- 23010 RESOLVER DEUDA CHAMORRO-María-Dani",
       "shortUrl": "https://trello.com/c/wVDtN1mN",
       "due": "2024-09-27",
-      "days_until": -688,
+      "days_until": -689,
       "is_overdue": true,
       "has_due": true,
       "pos": 262144.125
@@ -355,7 +406,7 @@
       "name": "Diego y María- 21020 remates Pedro Enríquez- Dani- Dani",
       "shortUrl": "https://trello.com/c/znlC88bX",
       "due": "2024-08-09",
-      "days_until": -737,
+      "days_until": -738,
       "is_overdue": true,
       "has_due": true,
       "pos": 278528.125
@@ -373,7 +424,7 @@
       "name": "Dani-FácilReforma-María-Dani",
       "shortUrl": "https://trello.com/c/Fo6wuyfX",
       "due": "2024-03-08",
-      "days_until": -891,
+      "days_until": -892,
       "is_overdue": true,
       "has_due": true,
       "pos": 311296
