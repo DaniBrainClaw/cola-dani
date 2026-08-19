@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T06:00:05.782389+00:00",
-  "generated_at_local": "2026-08-19T08:00:05.782417+02:00",
+  "generated_at": "2026-08-19T07:00:17.220820+00:00",
+  "generated_at_local": "2026-08-19T09:00:17.220840+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 1,
@@ -42,6 +42,16 @@
     "contact_id": null
   },
   "events_today": [
+    {
+      "id": "bbr7gma9q1h6881sluc1p6tph8",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "Pagar alquileres",
+      "start": "08:30",
+      "start_iso": "2026-08-19T08:30:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=YmJyN2dtYTlxMWg2ODgxc2x1YzFwNnRwaDggZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+    },
     {
       "id": "1i4tcuo0220no31ij4481h7il0",
       "calendar": "daniel.carro.bendito@gmail.com",
