@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T09:00:06.677401+00:00",
-  "generated_at_local": "2026-08-19T11:00:06.677427+02:00",
+  "generated_at": "2026-08-19T10:00:09.663286+00:00",
+  "generated_at_local": "2026-08-19T12:00:09.663308+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 1,
@@ -51,16 +51,6 @@
       "all_day": false,
       "location": "",
       "url": "https://www.google.com/calendar/event?eid=YmJyN2dtYTlxMWg2ODgxc2x1YzFwNnRwaDggZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
-    },
-    {
-      "id": "1i4tcuo0220no31ij4481h7il0",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "En Tudela con Luismi",
-      "start": "11:00",
-      "start_iso": "2026-08-19T11:00:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=MWk0dGN1bzAyMjBubzMxaWo0NDgxaDdpbDAgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     }
   ],
   "crm_today": [
