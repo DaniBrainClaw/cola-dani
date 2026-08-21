@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T06:00:05.325655+00:00",
-  "generated_at_local": "2026-08-21T08:00:05.325677+02:00",
+  "generated_at": "2026-08-21T07:00:19.397704+00:00",
+  "generated_at_local": "2026-08-21T09:00:19.397728+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 1,
@@ -71,16 +71,6 @@
       "all_day": false,
       "location": "",
       "url": "https://www.google.com/calendar/event?eid=M2xsdDlrNG80YTFibnMzNm1ndmVlcnZsZDQgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
-    },
-    {
-      "id": "t2mramnhmc0292bgfofupke7gc",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Renedo",
-      "start": "11:00",
-      "start_iso": "2026-08-21T11:00:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=dDJtcmFtbmhtYzAyOTJiZ2ZvZnVwa2U3Z2MgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     },
     {
       "id": "2fno2rn4tcv2a2n86ffu6aj87o",
