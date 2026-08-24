@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T06:00:05.622974+00:00",
-  "generated_at_local": "2026-08-24T08:00:05.622992+02:00",
+  "generated_at": "2026-08-24T07:00:21.657876+00:00",
+  "generated_at_local": "2026-08-24T09:00:21.657899+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 1,
@@ -722,15 +722,10 @@
     ]
   },
   "new_tasks": {
-    "crm": [
-      {
-        "id": "114221747536",
-        "title": "Llamar José Antonio director Cajamar Rioseco"
-      }
-    ],
+    "crm": [],
     "trello": []
   },
-  "has_new": true,
+  "has_new": false,
   "errors": {
     "calendar": null,
     "hubspot": null
