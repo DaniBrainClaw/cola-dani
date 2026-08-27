@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-27T06:00:06.777184+00:00",
-  "generated_at_local": "2026-08-27T08:00:06.777205+02:00",
+  "generated_at": "2026-08-27T07:00:23.879410+00:00",
+  "generated_at_local": "2026-08-27T09:00:23.879432+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 1,
@@ -721,15 +721,10 @@
     ]
   },
   "new_tasks": {
-    "crm": [
-      {
-        "id": "115304857149",
-        "title": "Revisar si Christian ha mandado la documentación"
-      }
-    ],
+    "crm": [],
     "trello": []
   },
-  "has_new": true,
+  "has_new": false,
   "errors": {
     "calendar": null,
     "hubspot": null
