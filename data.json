@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-28T06:00:04.960331+00:00",
-  "generated_at_local": "2026-08-28T08:00:04.960355+02:00",
+  "generated_at": "2026-08-28T07:00:20.317955+00:00",
+  "generated_at_local": "2026-08-28T09:00:20.317974+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 1,
@@ -742,15 +742,10 @@
     ]
   },
   "new_tasks": {
-    "crm": [
-      {
-        "id": "110301159446",
-        "title": "Seguimiento con Fernando Herguedas Lead Reforma oficina Ya lo teniamos en el movil"
-      }
-    ],
+    "crm": [],
     "trello": []
   },
-  "has_new": true,
+  "has_new": false,
   "errors": {
     "calendar": null,
     "hubspot": null
