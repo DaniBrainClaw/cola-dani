@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T06:00:04.381683+00:00",
-  "generated_at_local": "2026-08-31T08:00:04.381850+02:00",
+  "generated_at": "2026-08-31T07:00:24.687572+00:00",
+  "generated_at_local": "2026-08-31T09:00:24.687600+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 1,
@@ -802,15 +802,10 @@
     ]
   },
   "new_tasks": {
-    "crm": [
-      {
-        "id": "114198818994",
-        "title": "Recopilar mediciones pendientes (depuradora, piscina, hueco, vivazo)"
-      }
-    ],
+    "crm": [],
     "trello": []
   },
-  "has_new": true,
+  "has_new": false,
   "errors": {
     "calendar": null,
     "hubspot": null
