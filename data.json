@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T17:00:11.895973+00:00",
-  "generated_at_local": "2026-08-31T19:00:11.895993+02:00",
+  "generated_at": "2026-09-01T06:00:04.985112+00:00",
+  "generated_at_local": "2026-09-01T08:00:04.985326+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 1,
@@ -43,74 +43,14 @@
   },
   "events_today": [
     {
-      "id": "uth6fsq8fqn0raf4pv8deiokdk",
+      "id": "7rrd016ueo1vus39judslc8o20",
       "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Contrato Eris",
-      "start": "08:30",
-      "start_iso": "2026-08-31T08:30:00+02:00",
+      "title": "Kaia",
+      "start": "17:00",
+      "start_iso": "2026-09-01T17:00:00+02:00",
       "all_day": false,
       "location": "",
-      "url": "https://www.google.com/calendar/event?eid=dXRoNmZzcThmcW4wcmFmNHB2OGRlaW9rZGsgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
-    },
-    {
-      "id": "l0816v6gsslsdbb6c248rglr9c",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Ingresar dinero en mi cuenta",
-      "start": "10:00",
-      "start_iso": "2026-08-31T10:00:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=bDA4MTZ2Nmdzc2xzZGJiNmMyNDhyZ2xyOWMgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
-    },
-    {
-      "id": "6co0dnh68kiqp3vr9aqj7bb4tg",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Notificaciones y comunicaciones",
-      "start": "11:00",
-      "start_iso": "2026-08-31T11:00:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=NmNvMGRuaDY4a2lxcDN2cjlhcWo3YmI0dGcgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
-    },
-    {
-      "id": "dhnpsoi2v0vqnmjpmssh3uujvo",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Escribir fisio",
-      "start": "12:00",
-      "start_iso": "2026-08-31T12:00:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=ZGhucHNvaTJ2MHZxbm1qcG1zc2gzdXVqdm8gZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
-    },
-    {
-      "id": "1pqndo4gq0tu5m1tqq0s4s9qac",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Furgo a taller",
-      "start": "13:00",
-      "start_iso": "2026-08-31T13:00:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=MXBxbmRvNGdxMHR1NW0xdHFxMHM0czlxYWMgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
-    },
-    {
-      "id": "vgrv45lbld8a5ceior8359pttg",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Chalets",
-      "start": "16:00",
-      "start_iso": "2026-08-31T16:00:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=dmdydjQ1bGJsZDhhNWNlaW9yODM1OXB0dGcgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
-    },
-    {
-      "id": "6vmlqprgndbme2gnj6slnvpr7s",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Llamar fontanero casa",
-      "start": "19:00",
-      "start_iso": "2026-08-31T19:00:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=NnZtbHFwcmduZGJtZTJnbmo2c2xudnByN3MgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+      "url": "https://www.google.com/calendar/event?eid=N3JyZDAxNnVlbzF2dXMzOWp1ZHNsYzhvMjAgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     }
   ],
   "crm_today": [
@@ -120,7 +60,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-31T10:00:00Z",
+      "due": "2026-09-01T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/107952887838"
     },
     {
@@ -129,7 +69,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-31T10:00:00Z",
+      "due": "2026-09-01T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/110301159446"
     },
     {
@@ -138,7 +78,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-31T10:00:00Z",
+      "due": "2026-09-01T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112394613670"
     },
     {
@@ -147,7 +87,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "MEDIUM",
-      "due": "2026-08-31T10:00:00Z",
+      "due": "2026-09-01T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112423242560"
     },
     {
@@ -156,7 +96,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "HIGH",
-      "due": "2026-08-31T10:00:00Z",
+      "due": "2026-09-01T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112449291307"
     },
     {
@@ -165,7 +105,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "MEDIUM",
-      "due": "2026-08-31T10:00:00Z",
+      "due": "2026-09-01T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112555762226"
     },
     {
@@ -174,7 +114,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "HIGH",
-      "due": "2026-08-31T10:00:00Z",
+      "due": "2026-09-01T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112658285927"
     },
     {
@@ -183,7 +123,7 @@
       "type": "CALL",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-31T10:00:00Z",
+      "due": "2026-09-01T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112679694625"
     },
     {
@@ -192,7 +132,7 @@
       "type": "CALL",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-31T10:00:00Z",
+      "due": "2026-09-01T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112999049775"
     },
     {
@@ -201,7 +141,7 @@
       "type": "CALL",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-31T10:00:00Z",
+      "due": "2026-09-01T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113163982390"
     },
     {
@@ -210,7 +150,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-31T10:00:00Z",
+      "due": "2026-09-01T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113515359090"
     },
     {
@@ -219,7 +159,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-31T10:00:00Z",
+      "due": "2026-09-01T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113719812937"
     },
     {
@@ -228,7 +168,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "HIGH",
-      "due": "2026-08-31T10:00:00Z",
+      "due": "2026-09-01T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114179339586"
     },
     {
@@ -237,7 +177,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "MEDIUM",
-      "due": "2026-08-31T10:00:00Z",
+      "due": "2026-09-01T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114196400487"
     },
     {
@@ -246,8 +186,17 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "HIGH",
-      "due": "2026-08-31T10:00:00Z",
+      "due": "2026-09-01T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114196569006"
+    },
+    {
+      "id": "114197627519",
+      "title": "Sept: Llamar a Melero a la vuelta — firmar dir obra / dir ejecución / SyS + revisar mediciones pendientes (depuradora, piscina, hueco, vivazo)",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "MEDIUM",
+      "due": "2026-09-01T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114197627519"
     },
     {
       "id": "114198818994",
@@ -255,7 +204,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "HIGH",
-      "due": "2026-08-31T10:00:00Z",
+      "due": "2026-09-01T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114198818994"
     },
     {
@@ -264,7 +213,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-31T10:00:00Z",
+      "due": "2026-09-01T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114221747536"
     },
     {
@@ -273,7 +222,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-31T10:00:00Z",
+      "due": "2026-09-01T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114221751108"
     },
     {
@@ -282,7 +231,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-31T10:00:00Z",
+      "due": "2026-09-01T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114374736288"
     },
     {
@@ -291,7 +240,7 @@
       "type": "CALL",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-31T10:00:00Z",
+      "due": "2026-09-01T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114392537457"
     },
     {
@@ -300,7 +249,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-08-31T10:00:00Z",
+      "due": "2026-09-01T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114587428422"
     },
     {
@@ -309,7 +258,7 @@
       "type": "CALL",
       "status": "NOT_STARTED",
       "priority": "MEDIUM",
-      "due": "2026-08-31T10:00:00Z",
+      "due": "2026-09-01T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114797293378"
     },
     {
@@ -318,7 +267,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "MEDIUM",
-      "due": "2026-08-31T10:00:00Z",
+      "due": "2026-09-01T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/115304857149"
     },
     {
@@ -327,7 +276,7 @@
       "type": "CALL",
       "status": "NOT_STARTED",
       "priority": "HIGH",
-      "due": "2026-08-31T16:00:00Z",
+      "due": "2026-09-01T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/116068082601"
     }
   ],
@@ -336,7 +285,7 @@
       "name": "Dani-1526003 Abono PapelP-María-María",
       "shortUrl": "https://trello.com/c/7lEskF71",
       "due": "2026-08-17",
-      "days_until": -14,
+      "days_until": -15,
       "is_overdue": true,
       "has_due": true,
       "pos": 7.277386364936829
@@ -345,7 +294,7 @@
       "name": "Dani-Facturas pendientes proveedores-María-Dani",
       "shortUrl": "https://trello.com/c/DPJxWjIO",
       "due": "2026-07-15",
-      "days_until": -47,
+      "days_until": -48,
       "is_overdue": true,
       "has_due": true,
       "pos": 8.4902840924263
@@ -354,7 +303,7 @@
       "name": "Dani-Elementos a coger hoy-Dani-Dani",
       "shortUrl": "https://trello.com/c/JvAg0arP",
       "due": "2026-08-12",
-      "days_until": -19,
+      "days_until": -20,
       "is_overdue": true,
       "has_due": true,
       "pos": 9.703181819915772
@@ -426,7 +375,7 @@
       "name": "Dani-Paquita Cambio Uso-María-Dani",
       "shortUrl": "https://trello.com/c/Hkdja79N",
       "due": "2025-11-28",
-      "days_until": -276,
+      "days_until": -277,
       "is_overdue": true,
       "has_due": true,
       "pos": 163840.16406321526
@@ -435,7 +384,7 @@
       "name": "Dani-PO 25008 ALBA BAÑO MICROCEMENTO-Whatsapp-Dani-Dani",
       "shortUrl": "https://trello.com/c/lExblrlh",
       "due": "2025-05-09",
-      "days_until": -479,
+      "days_until": -480,
       "is_overdue": true,
       "has_due": true,
       "pos": 180224
@@ -444,7 +393,7 @@
       "name": "Dani- URGENTE Mantenimiento Estudio-General-General",
       "shortUrl": "https://trello.com/c/au5g0t5s",
       "due": "2025-02-13",
-      "days_until": -564,
+      "days_until": -565,
       "is_overdue": true,
       "has_due": true,
       "pos": 196608.125
@@ -462,7 +411,7 @@
       "name": "Dani- 23010 RESOLVER DEUDA CHAMORRO-María-Dani",
       "shortUrl": "https://trello.com/c/wVDtN1mN",
       "due": "2024-09-27",
-      "days_until": -703,
+      "days_until": -704,
       "is_overdue": true,
       "has_due": true,
       "pos": 262144.125
@@ -471,7 +420,7 @@
       "name": "Diego y María- 21020 remates Pedro Enríquez- Dani- Dani",
       "shortUrl": "https://trello.com/c/znlC88bX",
       "due": "2024-08-09",
-      "days_until": -752,
+      "days_until": -753,
       "is_overdue": true,
       "has_due": true,
       "pos": 278528.125
@@ -489,7 +438,7 @@
       "name": "Dani-FácilReforma-María-Dani",
       "shortUrl": "https://trello.com/c/Fo6wuyfX",
       "due": "2024-03-08",
-      "days_until": -906,
+      "days_until": -907,
       "is_overdue": true,
       "has_due": true,
       "pos": 311296
@@ -790,6 +739,7 @@
       "114179339586",
       "114196400487",
       "114196569006",
+      "114197627519",
       "114198818994",
       "114221747536",
       "114221751108",
@@ -822,10 +772,15 @@
     ]
   },
   "new_tasks": {
-    "crm": [],
+    "crm": [
+      {
+        "id": "114197627519",
+        "title": "Sept: Llamar a Melero a la vuelta — firmar dir obra / dir ejecución / SyS + revisar mediciones pendientes (depuradora, piscina, hueco, vivazo)"
+      }
+    ],
     "trello": []
   },
-  "has_new": false,
+  "has_new": true,
   "errors": {
     "calendar": null,
     "hubspot": null
