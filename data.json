@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T16:00:05.936405+00:00",
-  "generated_at_local": "2026-09-01T18:00:05.936427+02:00",
+  "generated_at": "2026-09-01T17:00:08.358432+00:00",
+  "generated_at_local": "2026-09-01T19:00:08.358451+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 1,
@@ -51,6 +51,26 @@
       "all_day": false,
       "location": "",
       "url": "https://www.google.com/calendar/event?eid=N3JyZDAxNnVlbzF2dXMzOWp1ZHNsYzhvMjAgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+    },
+    {
+      "id": "vgrv45lbld8a5ceior8359pttg",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "Chalets",
+      "start": "18:00",
+      "start_iso": "2026-09-01T18:00:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=dmdydjQ1bGJsZDhhNWNlaW9yODM1OXB0dGcgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+    },
+    {
+      "id": "uth6fsq8fqn0raf4pv8deiokdk",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "Contrato Eris",
+      "start": "21:00",
+      "start_iso": "2026-09-01T21:00:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=dXRoNmZzcThmcW4wcmFmNHB2OGRlaW9rZGsgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     }
   ],
   "crm_today": [
