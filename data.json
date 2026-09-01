@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T06:00:04.985112+00:00",
-  "generated_at_local": "2026-09-01T08:00:04.985326+02:00",
+  "generated_at": "2026-09-01T07:00:22.757109+00:00",
+  "generated_at_local": "2026-09-01T09:00:22.757132+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 1,
@@ -772,15 +772,10 @@
     ]
   },
   "new_tasks": {
-    "crm": [
-      {
-        "id": "114197627519",
-        "title": "Sept: Llamar a Melero a la vuelta — firmar dir obra / dir ejecución / SyS + revisar mediciones pendientes (depuradora, piscina, hueco, vivazo)"
-      }
-    ],
+    "crm": [],
     "trello": []
   },
-  "has_new": true,
+  "has_new": false,
   "errors": {
     "calendar": null,
     "hubspot": null
