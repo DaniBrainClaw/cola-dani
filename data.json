@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T17:00:08.358432+00:00",
-  "generated_at_local": "2026-09-01T19:00:08.358451+02:00",
+  "generated_at": "2026-09-02T06:00:05.077657+00:00",
+  "generated_at_local": "2026-09-02T08:00:05.077680+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 1,
@@ -43,34 +43,34 @@
   },
   "events_today": [
     {
-      "id": "7rrd016ueo1vus39judslc8o20",
+      "id": "6co0dnh68kiqp3vr9aqj7bb4tg",
       "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Kaia",
-      "start": "17:00",
-      "start_iso": "2026-09-01T17:00:00+02:00",
+      "title": "Notificaciones y comunicaciones",
+      "start": "10:00",
+      "start_iso": "2026-09-02T10:00:00+02:00",
       "all_day": false,
       "location": "",
-      "url": "https://www.google.com/calendar/event?eid=N3JyZDAxNnVlbzF2dXMzOWp1ZHNsYzhvMjAgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+      "url": "https://www.google.com/calendar/event?eid=NmNvMGRuaDY4a2lxcDN2cjlhcWo3YmI0dGcgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     },
     {
-      "id": "vgrv45lbld8a5ceior8359pttg",
+      "id": "21ki71gahp029gk9jd1imea4kj",
       "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Chalets",
+      "title": "Asunto multa máquinas",
+      "start": "11:00",
+      "start_iso": "2026-09-02T11:00:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=MjFraTcxZ2FocDAyOWdrOWpkMWltZWE0a2ogZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+    },
+    {
+      "id": "7guq0ster6ifdjp2rj2v0uj4qu",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "Santi en peral",
       "start": "18:00",
-      "start_iso": "2026-09-01T18:00:00+02:00",
+      "start_iso": "2026-09-02T18:00:00+02:00",
       "all_day": false,
       "location": "",
-      "url": "https://www.google.com/calendar/event?eid=dmdydjQ1bGJsZDhhNWNlaW9yODM1OXB0dGcgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
-    },
-    {
-      "id": "uth6fsq8fqn0raf4pv8deiokdk",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Contrato Eris",
-      "start": "21:00",
-      "start_iso": "2026-09-01T21:00:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=dXRoNmZzcThmcW4wcmFmNHB2OGRlaW9rZGsgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+      "url": "https://www.google.com/calendar/event?eid=N2d1cTBzdGVyNmlmZGpwMnJqMnYwdWo0cXUgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     }
   ],
   "crm_today": [
@@ -80,7 +80,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-09-01T10:00:00Z",
+      "due": "2026-09-02T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/107952887838"
     },
     {
@@ -89,7 +89,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-09-01T10:00:00Z",
+      "due": "2026-09-02T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/110301159446"
     },
     {
@@ -98,7 +98,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-09-01T10:00:00Z",
+      "due": "2026-09-02T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112394613670"
     },
     {
@@ -107,7 +107,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "MEDIUM",
-      "due": "2026-09-01T10:00:00Z",
+      "due": "2026-09-02T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112423242560"
     },
     {
@@ -116,7 +116,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "HIGH",
-      "due": "2026-09-01T10:00:00Z",
+      "due": "2026-09-02T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112449291307"
     },
     {
@@ -125,7 +125,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "MEDIUM",
-      "due": "2026-09-01T10:00:00Z",
+      "due": "2026-09-02T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112555762226"
     },
     {
@@ -134,7 +134,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "HIGH",
-      "due": "2026-09-01T10:00:00Z",
+      "due": "2026-09-02T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112658285927"
     },
     {
@@ -143,7 +143,7 @@
       "type": "CALL",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-09-01T10:00:00Z",
+      "due": "2026-09-02T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112679694625"
     },
     {
@@ -152,7 +152,7 @@
       "type": "CALL",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-09-01T10:00:00Z",
+      "due": "2026-09-02T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112999049775"
     },
     {
@@ -161,7 +161,7 @@
       "type": "CALL",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-09-01T10:00:00Z",
+      "due": "2026-09-02T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113163982390"
     },
     {
@@ -170,7 +170,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-09-01T10:00:00Z",
+      "due": "2026-09-02T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113515359090"
     },
     {
@@ -179,7 +179,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-09-01T10:00:00Z",
+      "due": "2026-09-02T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113719812937"
     },
     {
@@ -188,7 +188,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "HIGH",
-      "due": "2026-09-01T10:00:00Z",
+      "due": "2026-09-02T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114179339586"
     },
     {
@@ -197,7 +197,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "MEDIUM",
-      "due": "2026-09-01T10:00:00Z",
+      "due": "2026-09-02T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114196400487"
     },
     {
@@ -206,7 +206,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "HIGH",
-      "due": "2026-09-01T10:00:00Z",
+      "due": "2026-09-02T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114196569006"
     },
     {
@@ -215,7 +215,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "MEDIUM",
-      "due": "2026-09-01T10:00:00Z",
+      "due": "2026-09-02T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114197627519"
     },
     {
@@ -224,7 +224,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "HIGH",
-      "due": "2026-09-01T10:00:00Z",
+      "due": "2026-09-02T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114198818994"
     },
     {
@@ -233,7 +233,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-09-01T10:00:00Z",
+      "due": "2026-09-02T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114221747536"
     },
     {
@@ -242,7 +242,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-09-01T10:00:00Z",
+      "due": "2026-09-02T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114221751108"
     },
     {
@@ -251,7 +251,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-09-01T10:00:00Z",
+      "due": "2026-09-02T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114374736288"
     },
     {
@@ -260,17 +260,8 @@
       "type": "CALL",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-09-01T10:00:00Z",
+      "due": "2026-09-02T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114392537457"
-    },
-    {
-      "id": "114587428422",
-      "title": "Ver si me ha contestado Jose Ángel a lo del proyecto",
-      "type": "TODO",
-      "status": "NOT_STARTED",
-      "priority": "NONE",
-      "due": "2026-09-01T10:00:00Z",
-      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114587428422"
     },
     {
       "id": "114797293378",
@@ -278,7 +269,7 @@
       "type": "CALL",
       "status": "NOT_STARTED",
       "priority": "MEDIUM",
-      "due": "2026-09-01T10:00:00Z",
+      "due": "2026-09-02T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114797293378"
     },
     {
@@ -287,7 +278,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "MEDIUM",
-      "due": "2026-09-01T10:00:00Z",
+      "due": "2026-09-02T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/115304857149"
     },
     {
@@ -296,8 +287,35 @@
       "type": "CALL",
       "status": "NOT_STARTED",
       "priority": "HIGH",
-      "due": "2026-09-01T10:00:00Z",
+      "due": "2026-09-02T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/116068082601"
+    },
+    {
+      "id": "116203046145",
+      "title": "Dar seguimiento a 26001 (PO 26003) EDIFICIO ERIS LA CISTERNIGA FELIX ADMIN",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-09-02T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/116203046145"
+    },
+    {
+      "id": "116203513480",
+      "title": "Seguimiento con Jorge Construcciones Venezuela",
+      "type": "TODO",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-09-02T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/116203513480"
+    },
+    {
+      "id": "116196168217",
+      "title": "Devolver llamada a Pilar",
+      "type": "CALL",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-09-02T16:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/116196168217"
     }
   ],
   "trello_due": [
@@ -305,7 +323,7 @@
       "name": "Dani-1526003 Abono PapelP-María-María",
       "shortUrl": "https://trello.com/c/7lEskF71",
       "due": "2026-08-17",
-      "days_until": -15,
+      "days_until": -16,
       "is_overdue": true,
       "has_due": true,
       "pos": 7.277386364936829
@@ -314,7 +332,7 @@
       "name": "Dani-Facturas pendientes proveedores-María-Dani",
       "shortUrl": "https://trello.com/c/DPJxWjIO",
       "due": "2026-07-15",
-      "days_until": -48,
+      "days_until": -49,
       "is_overdue": true,
       "has_due": true,
       "pos": 8.4902840924263
@@ -323,7 +341,7 @@
       "name": "Dani-Elementos a coger hoy-Dani-Dani",
       "shortUrl": "https://trello.com/c/JvAg0arP",
       "due": "2026-08-12",
-      "days_until": -20,
+      "days_until": -21,
       "is_overdue": true,
       "has_due": true,
       "pos": 9.703181819915772
@@ -395,7 +413,7 @@
       "name": "Dani-Paquita Cambio Uso-María-Dani",
       "shortUrl": "https://trello.com/c/Hkdja79N",
       "due": "2025-11-28",
-      "days_until": -277,
+      "days_until": -278,
       "is_overdue": true,
       "has_due": true,
       "pos": 163840.16406321526
@@ -404,7 +422,7 @@
       "name": "Dani-PO 25008 ALBA BAÑO MICROCEMENTO-Whatsapp-Dani-Dani",
       "shortUrl": "https://trello.com/c/lExblrlh",
       "due": "2025-05-09",
-      "days_until": -480,
+      "days_until": -481,
       "is_overdue": true,
       "has_due": true,
       "pos": 180224
@@ -413,7 +431,7 @@
       "name": "Dani- URGENTE Mantenimiento Estudio-General-General",
       "shortUrl": "https://trello.com/c/au5g0t5s",
       "due": "2025-02-13",
-      "days_until": -565,
+      "days_until": -566,
       "is_overdue": true,
       "has_due": true,
       "pos": 196608.125
@@ -431,7 +449,7 @@
       "name": "Dani- 23010 RESOLVER DEUDA CHAMORRO-María-Dani",
       "shortUrl": "https://trello.com/c/wVDtN1mN",
       "due": "2024-09-27",
-      "days_until": -704,
+      "days_until": -705,
       "is_overdue": true,
       "has_due": true,
       "pos": 262144.125
@@ -440,7 +458,7 @@
       "name": "Diego y María- 21020 remates Pedro Enríquez- Dani- Dani",
       "shortUrl": "https://trello.com/c/znlC88bX",
       "due": "2024-08-09",
-      "days_until": -753,
+      "days_until": -754,
       "is_overdue": true,
       "has_due": true,
       "pos": 278528.125
@@ -458,7 +476,7 @@
       "name": "Dani-FácilReforma-María-Dani",
       "shortUrl": "https://trello.com/c/Fo6wuyfX",
       "due": "2024-03-08",
-      "days_until": -907,
+      "days_until": -908,
       "is_overdue": true,
       "has_due": true,
       "pos": 311296
@@ -765,10 +783,12 @@
       "114221751108",
       "114374736288",
       "114392537457",
-      "114587428422",
       "114797293378",
       "115304857149",
-      "116068082601"
+      "116068082601",
+      "116196168217",
+      "116203046145",
+      "116203513480"
     ],
     "trello": [
       "65def6ed8b8224220f0c3b15",
@@ -792,10 +812,23 @@
     ]
   },
   "new_tasks": {
-    "crm": [],
+    "crm": [
+      {
+        "id": "116203046145",
+        "title": "Dar seguimiento a 26001 (PO 26003) EDIFICIO ERIS LA CISTERNIGA FELIX ADMIN"
+      },
+      {
+        "id": "116203513480",
+        "title": "Seguimiento con Jorge Construcciones Venezuela"
+      },
+      {
+        "id": "116196168217",
+        "title": "Devolver llamada a Pilar"
+      }
+    ],
     "trello": []
   },
-  "has_new": false,
+  "has_new": true,
   "errors": {
     "calendar": null,
     "hubspot": null
