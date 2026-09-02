@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T06:00:05.077657+00:00",
-  "generated_at_local": "2026-09-02T08:00:05.077680+02:00",
+  "generated_at": "2026-09-02T07:00:20.128670+00:00",
+  "generated_at_local": "2026-09-02T09:00:20.128692+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 1,
@@ -812,23 +812,10 @@
     ]
   },
   "new_tasks": {
-    "crm": [
-      {
-        "id": "116203046145",
-        "title": "Dar seguimiento a 26001 (PO 26003) EDIFICIO ERIS LA CISTERNIGA FELIX ADMIN"
-      },
-      {
-        "id": "116203513480",
-        "title": "Seguimiento con Jorge Construcciones Venezuela"
-      },
-      {
-        "id": "116196168217",
-        "title": "Devolver llamada a Pilar"
-      }
-    ],
+    "crm": [],
     "trello": []
   },
-  "has_new": true,
+  "has_new": false,
   "errors": {
     "calendar": null,
     "hubspot": null
