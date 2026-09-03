@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T06:00:04.502879+00:00",
-  "generated_at_local": "2026-09-03T08:00:04.502900+02:00",
+  "generated_at": "2026-09-03T07:00:23.831943+00:00",
+  "generated_at_local": "2026-09-03T09:00:23.831968+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 1,
@@ -822,15 +822,10 @@
     ]
   },
   "new_tasks": {
-    "crm": [
-      {
-        "id": "116245374239",
-        "title": "Seguimiento con Gerar moya Sfsystems estructura steel frame"
-      }
-    ],
+    "crm": [],
     "trello": []
   },
-  "has_new": true,
+  "has_new": false,
   "errors": {
     "calendar": null,
     "hubspot": null
