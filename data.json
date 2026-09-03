@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T17:00:29.564489+00:00",
-  "generated_at_local": "2026-09-02T19:00:29.564529+02:00",
+  "generated_at": "2026-09-03T06:00:04.502879+00:00",
+  "generated_at_local": "2026-09-03T08:00:04.502900+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 1,
@@ -43,34 +43,34 @@
   },
   "events_today": [
     {
-      "id": "6co0dnh68kiqp3vr9aqj7bb4tg",
+      "id": "b729h21qu561tepnutftgiblkk",
       "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Notificaciones y comunicaciones",
+      "title": "Guslin pisci",
+      "start": "08:00",
+      "start_iso": "2026-09-03T08:00:00+02:00",
+      "all_day": false,
+      "location": "",
+      "url": "https://www.google.com/calendar/event?eid=YjcyOWgyMXF1NTYxdGVwbnV0ZnRnaWJsa2sgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+    },
+    {
+      "id": "oa9s5g05gqenpkuq2amd9tn648",
+      "calendar": "daniel.carro.bendito@gmail.com",
+      "title": "Buscar taladro",
       "start": "10:00",
-      "start_iso": "2026-09-02T10:00:00+02:00",
+      "start_iso": "2026-09-03T10:00:00+02:00",
       "all_day": false,
       "location": "",
-      "url": "https://www.google.com/calendar/event?eid=NmNvMGRuaDY4a2lxcDN2cjlhcWo3YmI0dGcgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+      "url": "https://www.google.com/calendar/event?eid=b2E5czVnMDVncWVucGt1cTJhbWQ5dG42NDggZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     },
     {
-      "id": "7guq0ster6ifdjp2rj2v0uj4qu",
+      "id": "budvl2861bpalr9d74jq38nio4",
       "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Santi en peral",
-      "start": "18:00",
-      "start_iso": "2026-09-02T18:00:00+02:00",
+      "title": "Resolver AMF45 — Burofax Boris",
+      "start": "12:00",
+      "start_iso": "2026-09-03T12:00:00+02:00",
       "all_day": false,
       "location": "",
-      "url": "https://www.google.com/calendar/event?eid=N2d1cTBzdGVyNmlmZGpwMnJqMnYwdWo0cXUgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
-    },
-    {
-      "id": "21ki71gahp029gk9jd1imea4kj",
-      "calendar": "daniel.carro.bendito@gmail.com",
-      "title": "Asunto multa máquinas",
-      "start": "19:00",
-      "start_iso": "2026-09-02T19:00:00+02:00",
-      "all_day": false,
-      "location": "",
-      "url": "https://www.google.com/calendar/event?eid=MjFraTcxZ2FocDAyOWdrOWpkMWltZWE0a2ogZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
+      "url": "https://www.google.com/calendar/event?eid=YnVkdmwyODYxYnBhbHI5ZDc0anEzOG5pbzQgZGFuaWVsLmNhcnJvLmJlbmRpdG9AbQ"
     }
   ],
   "crm_today": [
@@ -80,7 +80,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-09-02T10:00:00Z",
+      "due": "2026-09-03T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/107952887838"
     },
     {
@@ -89,7 +89,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-09-02T10:00:00Z",
+      "due": "2026-09-03T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/110301159446"
     },
     {
@@ -98,7 +98,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-09-02T10:00:00Z",
+      "due": "2026-09-03T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112394613670"
     },
     {
@@ -107,7 +107,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "MEDIUM",
-      "due": "2026-09-02T10:00:00Z",
+      "due": "2026-09-03T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112423242560"
     },
     {
@@ -116,7 +116,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "HIGH",
-      "due": "2026-09-02T10:00:00Z",
+      "due": "2026-09-03T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112449291307"
     },
     {
@@ -125,7 +125,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "MEDIUM",
-      "due": "2026-09-02T10:00:00Z",
+      "due": "2026-09-03T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112555762226"
     },
     {
@@ -134,7 +134,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "HIGH",
-      "due": "2026-09-02T10:00:00Z",
+      "due": "2026-09-03T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112658285927"
     },
     {
@@ -143,7 +143,7 @@
       "type": "CALL",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-09-02T10:00:00Z",
+      "due": "2026-09-03T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112679694625"
     },
     {
@@ -152,7 +152,7 @@
       "type": "CALL",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-09-02T10:00:00Z",
+      "due": "2026-09-03T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/112999049775"
     },
     {
@@ -161,7 +161,7 @@
       "type": "CALL",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-09-02T10:00:00Z",
+      "due": "2026-09-03T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113163982390"
     },
     {
@@ -170,7 +170,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-09-02T10:00:00Z",
+      "due": "2026-09-03T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113515359090"
     },
     {
@@ -179,7 +179,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-09-02T10:00:00Z",
+      "due": "2026-09-03T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/113719812937"
     },
     {
@@ -188,7 +188,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "HIGH",
-      "due": "2026-09-02T10:00:00Z",
+      "due": "2026-09-03T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114179339586"
     },
     {
@@ -197,7 +197,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "MEDIUM",
-      "due": "2026-09-02T10:00:00Z",
+      "due": "2026-09-03T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114196400487"
     },
     {
@@ -206,7 +206,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "HIGH",
-      "due": "2026-09-02T10:00:00Z",
+      "due": "2026-09-03T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114196569006"
     },
     {
@@ -215,7 +215,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "MEDIUM",
-      "due": "2026-09-02T10:00:00Z",
+      "due": "2026-09-03T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114197627519"
     },
     {
@@ -224,7 +224,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "HIGH",
-      "due": "2026-09-02T10:00:00Z",
+      "due": "2026-09-03T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114198818994"
     },
     {
@@ -233,7 +233,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-09-02T10:00:00Z",
+      "due": "2026-09-03T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114221747536"
     },
     {
@@ -242,7 +242,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-09-02T10:00:00Z",
+      "due": "2026-09-03T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114221751108"
     },
     {
@@ -251,7 +251,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-09-02T10:00:00Z",
+      "due": "2026-09-03T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114374736288"
     },
     {
@@ -260,7 +260,7 @@
       "type": "CALL",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-09-02T10:00:00Z",
+      "due": "2026-09-03T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114392537457"
     },
     {
@@ -269,7 +269,7 @@
       "type": "CALL",
       "status": "NOT_STARTED",
       "priority": "MEDIUM",
-      "due": "2026-09-02T10:00:00Z",
+      "due": "2026-09-03T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/114797293378"
     },
     {
@@ -278,7 +278,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "MEDIUM",
-      "due": "2026-09-02T10:00:00Z",
+      "due": "2026-09-03T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/115304857149"
     },
     {
@@ -287,8 +287,17 @@
       "type": "CALL",
       "status": "NOT_STARTED",
       "priority": "HIGH",
-      "due": "2026-09-02T10:00:00Z",
+      "due": "2026-09-03T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/116068082601"
+    },
+    {
+      "id": "116196168217",
+      "title": "Devolver llamada a Pilar",
+      "type": "CALL",
+      "status": "NOT_STARTED",
+      "priority": "NONE",
+      "due": "2026-09-03T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/116196168217"
     },
     {
       "id": "116203046145",
@@ -296,7 +305,7 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-09-02T10:00:00Z",
+      "due": "2026-09-03T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/116203046145"
     },
     {
@@ -305,17 +314,17 @@
       "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-09-02T10:00:00Z",
+      "due": "2026-09-03T10:00:00Z",
       "url": "https://app.hubspot.com/contacts/8402338/record/0-4/116203513480"
     },
     {
-      "id": "116196168217",
-      "title": "Devolver llamada a Pilar",
-      "type": "CALL",
+      "id": "116245374239",
+      "title": "Seguimiento con Gerar moya Sfsystems estructura steel frame",
+      "type": "TODO",
       "status": "NOT_STARTED",
       "priority": "NONE",
-      "due": "2026-09-02T16:00:00Z",
-      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/116196168217"
+      "due": "2026-09-03T10:00:00Z",
+      "url": "https://app.hubspot.com/contacts/8402338/record/0-4/116245374239"
     }
   ],
   "trello_due": [
@@ -323,7 +332,7 @@
       "name": "Dani-1526003 Abono PapelP-María-María",
       "shortUrl": "https://trello.com/c/7lEskF71",
       "due": "2026-08-17",
-      "days_until": -16,
+      "days_until": -17,
       "is_overdue": true,
       "has_due": true,
       "pos": 7.277386364936829
@@ -332,7 +341,7 @@
       "name": "Dani-Facturas pendientes proveedores-María-Dani",
       "shortUrl": "https://trello.com/c/DPJxWjIO",
       "due": "2026-07-15",
-      "days_until": -49,
+      "days_until": -50,
       "is_overdue": true,
       "has_due": true,
       "pos": 8.4902840924263
@@ -341,7 +350,7 @@
       "name": "Dani-Elementos a coger hoy-Dani-Dani",
       "shortUrl": "https://trello.com/c/JvAg0arP",
       "due": "2026-08-12",
-      "days_until": -21,
+      "days_until": -22,
       "is_overdue": true,
       "has_due": true,
       "pos": 9.703181819915772
@@ -413,7 +422,7 @@
       "name": "Dani-Paquita Cambio Uso-María-Dani",
       "shortUrl": "https://trello.com/c/Hkdja79N",
       "due": "2025-11-28",
-      "days_until": -278,
+      "days_until": -279,
       "is_overdue": true,
       "has_due": true,
       "pos": 163840.16406321526
@@ -422,7 +431,7 @@
       "name": "Dani-PO 25008 ALBA BAÑO MICROCEMENTO-Whatsapp-Dani-Dani",
       "shortUrl": "https://trello.com/c/lExblrlh",
       "due": "2025-05-09",
-      "days_until": -481,
+      "days_until": -482,
       "is_overdue": true,
       "has_due": true,
       "pos": 180224
@@ -431,7 +440,7 @@
       "name": "Dani- URGENTE Mantenimiento Estudio-General-General",
       "shortUrl": "https://trello.com/c/au5g0t5s",
       "due": "2025-02-13",
-      "days_until": -566,
+      "days_until": -567,
       "is_overdue": true,
       "has_due": true,
       "pos": 196608.125
@@ -449,7 +458,7 @@
       "name": "Dani- 23010 RESOLVER DEUDA CHAMORRO-María-Dani",
       "shortUrl": "https://trello.com/c/wVDtN1mN",
       "due": "2024-09-27",
-      "days_until": -705,
+      "days_until": -706,
       "is_overdue": true,
       "has_due": true,
       "pos": 262144.125
@@ -458,7 +467,7 @@
       "name": "Diego y María- 21020 remates Pedro Enríquez- Dani- Dani",
       "shortUrl": "https://trello.com/c/znlC88bX",
       "due": "2024-08-09",
-      "days_until": -754,
+      "days_until": -755,
       "is_overdue": true,
       "has_due": true,
       "pos": 278528.125
@@ -476,7 +485,7 @@
       "name": "Dani-FácilReforma-María-Dani",
       "shortUrl": "https://trello.com/c/Fo6wuyfX",
       "due": "2024-03-08",
-      "days_until": -908,
+      "days_until": -909,
       "is_overdue": true,
       "has_due": true,
       "pos": 311296
@@ -788,7 +797,8 @@
       "116068082601",
       "116196168217",
       "116203046145",
-      "116203513480"
+      "116203513480",
+      "116245374239"
     ],
     "trello": [
       "65def6ed8b8224220f0c3b15",
@@ -812,10 +822,15 @@
     ]
   },
   "new_tasks": {
-    "crm": [],
+    "crm": [
+      {
+        "id": "116245374239",
+        "title": "Seguimiento con Gerar moya Sfsystems estructura steel frame"
+      }
+    ],
     "trello": []
   },
-  "has_new": false,
+  "has_new": true,
   "errors": {
     "calendar": null,
     "hubspot": null
