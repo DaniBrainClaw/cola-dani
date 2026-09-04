@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T11:00:06.385560+00:00",
-  "generated_at_local": "2026-09-04T13:00:06.385582+02:00",
+  "generated_at": "2026-09-04T12:00:05.212446+00:00",
+  "generated_at_local": "2026-09-04T14:00:05.212466+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 1,
@@ -13,9 +13,9 @@
       "cola_closed": 0,
       "crm_created": 0,
       "crm_closed": 0,
-      "trello_touched": 0,
-      "diff": 0,
-      "trend": "⏸️ 0 (estable)"
+      "trello_touched": 1,
+      "diff": 1,
+      "trend": "📉 −1 (reduciendo)"
     }
   },
   "serving": {
@@ -366,6 +366,15 @@
       "pos": 8.4902840924263
     },
     {
+      "name": "Dani-1526003 Presu Cristina-María-María",
+      "shortUrl": "https://trello.com/c/NzcFFEuh",
+      "due": "2026-09-04",
+      "days_until": 0,
+      "is_overdue": false,
+      "has_due": true,
+      "pos": 8.793508524298668
+    },
+    {
       "name": "Dani-Elementos a coger hoy-Dani-Dani",
       "shortUrl": "https://trello.com/c/JvAg0arP",
       "due": "2026-08-12",
@@ -513,6 +522,7 @@
   "trello_full_ids": [
     "6a7ec07588fce7fc7a9ee45a",
     "6a26581d30a13c6814ebdfb6",
+    "6a9aace7111b697550a8e91d",
     "6a7c3adcb299f921d2abe5d4",
     "6a59eda09522b0a5cb74e7f7",
     "6a6861a4aa86c33fa0c0fc20",
@@ -838,14 +848,19 @@
       "6a59eda09522b0a5cb74e7f7",
       "6a6861a4aa86c33fa0c0fc20",
       "6a7c3adcb299f921d2abe5d4",
-      "6a7ec07588fce7fc7a9ee45a"
+      "6a7ec07588fce7fc7a9ee45a",
+      "6a9aace7111b697550a8e91d"
     ]
   },
   "new_tasks": {
     "crm": [],
-    "trello": []
+    "trello": [
+      {
+        "id": "6a9aace7111b697550a8e91d"
+      }
+    ]
   },
-  "has_new": false,
+  "has_new": true,
   "errors": {
     "calendar": null,
     "hubspot": null
