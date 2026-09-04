@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T06:00:04.620734+00:00",
-  "generated_at_local": "2026-09-04T08:00:04.620754+02:00",
+  "generated_at": "2026-09-04T07:00:22.140029+00:00",
+  "generated_at_local": "2026-09-04T09:00:22.140056+02:00",
   "db_path": "/data/sync/TUNEL/3.ORGANIZACION/queue.db",
   "stats": {
     "queued": 1,
@@ -842,19 +842,10 @@
     ]
   },
   "new_tasks": {
-    "crm": [
-      {
-        "id": "116203017984",
-        "title": "Seguimiento con José Ángel Subvenciones"
-      },
-      {
-        "id": "116320309007",
-        "title": "Seguimiento con Cristina Ares del Campo Aparejadora Cobemar"
-      }
-    ],
+    "crm": [],
     "trello": []
   },
-  "has_new": true,
+  "has_new": false,
   "errors": {
     "calendar": null,
     "hubspot": null
