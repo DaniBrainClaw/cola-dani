@@ -48,7 +48,7 @@ function renderEvents(events) {
     `).join("");
 }
 
-// ─── TAREAS CRM DEL DÍA — TODAS (sin cap, Dani 2026-08-03) ───
+// ─── TAREAS CRM DEL DÍA ───
 function renderCrmToday(tasks) {
     const body = $("crm-body");
     $("crm-count").textContent = tasks.length;
@@ -70,39 +70,6 @@ function renderCrmToday(tasks) {
                 </div>
                 <span class="crm-status ${statusClass}">${escapeHtml(statusLabel)}</span>
                 ${t.url ? `<a href="${escapeHtml(t.url)}" target="_blank" class="crm-link">HubSpot →</a>` : ""}
-            </div>
-        `;
-    }).join("");
-}
-
-// ─── TRELLO ENTREGABLES — TODAS (sin cap, Dani 2026-08-03) ───
-function renderTrelloDue(cards) {
-    const body = $("trello-body");
-    $("trello-count").textContent = cards.length;
-    if (cards.length === 0) {
-        body.innerHTML = '<div class="empty">Sin tarjetas en Entregables para hoy.</div>';
-        return;
-    }
-    body.innerHTML = cards.map(c => {
-        let tag = '';
-        if (!c.has_due) {
-            tag = '<span class="trello-tag trello-nodue">· sin fecha</span>';
-        } else if (c.is_overdue) {
-            const days = Math.abs(c.days_until);
-            tag = `<span class="trello-tag trello-overdue">⚠️ atrasada ${days}d</span>`;
-        } else if (c.days_until === 0) {
-            tag = '<span class="trello-tag trello-today">🔴 vence hoy</span>';
-        } else {
-            tag = `<span class="trello-tag trello-future">vence en ${c.days_until}d</span>`;
-        }
-        const name = (c.name || "").slice(0, 70);
-        return `
-            <div class="trello-item">
-                <div class="trello-body">
-                    <div class="trello-title">${escapeHtml(name)}</div>
-                    <div class="trello-meta">${tag}</div>
-                </div>
-                ${c.shortUrl ? `<a href="${escapeHtml(c.shortUrl)}" target="_blank" class="trello-link">Trello →</a>` : ""}
             </div>
         `;
     }).join("");
@@ -223,6 +190,7 @@ function render(snapshot) {
     $("subtitle").textContent = "HOY · " + fmtToday();
 
     renderEvents(snapshot.events_today || []);
+    renderCrmToday(snapshot.crm_today || []);
     renderServing(snapshot.serving);
 
     // Cola
@@ -234,10 +202,6 @@ function render(snapshot) {
     } else {
         queueBody.innerHTML = queue.map(renderQueueItem).join("");
     }
-
-    // CRM del día + Trello (debajo de la cola, Dani 2026-08-03)
-    renderCrmToday(snapshot.crm_today || []);
-    renderTrelloDue(snapshot.trello_due || []);
 
     // Hechas
     const done = snapshot.recent_done || [];
@@ -270,9 +234,8 @@ function setupToggle(toggleId, bodyId, iconId) {
     });
 }
 setupToggle("events-toggle", "events-body", "events-icon");
-setupToggle("queue-toggle", "queue-body", "queue-icon");
 setupToggle("crm-toggle", "crm-body", "crm-icon");
-setupToggle("trello-toggle", "trello-body", "trello-icon");
+setupToggle("queue-toggle", "queue-body", "queue-icon");
 setupToggle("done-toggle", "done-body", "done-icon");
 
 // ─── Fetch + auto-refresh ───
@@ -291,18 +254,3 @@ async function fetchSnapshot() {
 fetchSnapshot();
 setInterval(fetchSnapshot, REFRESH_MS);
 $("refresh-btn").addEventListener("click", fetchSnapshot);
-
-// ─── Deep-link: abrir sección según hash (Dani 2026-08-03 00:11) ───
-function openSectionFromHash() {
-    const hash = (window.location.hash || "").toLowerCase();
-    if (hash === "#crm-section") {
-        $("crm-body").classList.remove("hidden");
-        $("crm-icon").textContent = "▼";
-    } else if (hash === "#trello-section") {
-        $("trello-body").classList.remove("hidden");
-        $("trello-icon").textContent = "▼";
-    }
-}
-window.addEventListener("hashchange", openSectionFromHash);
-// Pequeño delay para que el primer render haya terminado
-setTimeout(openSectionFromHash, 200);
